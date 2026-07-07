@@ -9,6 +9,7 @@ dealership_analytics/dbt_packages/
 dealership_analytics/logs/
 dealership_analytics/*.duckdb
 dealership_analytics/*.duckdb.wal
+dealership_analytics/.user.yml
 
 # OS
 .DS_Store
