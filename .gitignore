@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# dbt
+dealership_analytics/target/
+dealership_analytics/dbt_packages/
+dealership_analytics/logs/
+dealership_analytics/*.duckdb
+dealership_analytics/*.duckdb.wal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/

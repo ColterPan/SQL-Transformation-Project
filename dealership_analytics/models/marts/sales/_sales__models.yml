@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: fct_sales_transactions
+    description: >
+      One row per completed vehicle sale. Excludes zero/negative-price rows and double-booked
+      duplicate entries; nulls out unresolvable trade-in references. See data_quality_manifest.md.
+    columns:
+      - name: transaction_id
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - relationships:
+              to: ref('dim_customers')
+              field: customer_id
+      - name: vehicle_id
+        tests:
+          - relationships:
+              to: ref('dim_vehicles')
+              field: vehicle_id
+      - name: sale_price
+        tests:
+          - positive_value
+      - name: financing_type
+        tests:
+          - accepted_values:
+              values: ["cash", "finance", "lease"]
+
+  - name: mart_sales_performance
+    description: Monthly sales performance rollup by dealership and salesperson.

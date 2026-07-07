@@ -1,0 +1,67 @@
+version: 2
+
+seeds:
+  - name: raw_customers
+    config:
+      column_types:
+        customer_id: bigint
+        phone: varchar
+        zip: varchar
+        date_of_birth: varchar
+
+  - name: raw_vehicles
+    config:
+      column_types:
+        vehicle_id: bigint
+        vin: varchar
+        mileage: varchar
+        list_price: double
+        cost: double
+
+  - name: raw_sales_transactions
+    config:
+      column_types:
+        transaction_id: bigint
+        vehicle_id: bigint
+        customer_id: bigint
+        trade_in_vehicle_id: varchar
+        sale_price: double
+
+  - name: raw_service_orders
+    config:
+      column_types:
+        service_order_id: bigint
+        vehicle_id: varchar
+        technician_id: bigint
+        completed_at: varchar
+        total_amount: double
+
+  - name: raw_service_line_items
+    config:
+      column_types:
+        line_item_id: bigint
+        part_id: varchar
+        quantity: integer
+        unit_price: double
+        line_total: double
+
+  - name: raw_parts
+    config:
+      column_types:
+        part_id: bigint
+        quantity_on_hand: integer
+        unit_cost: double
+        unit_price: double
+
+  - name: raw_payments
+    config:
+      column_types:
+        payment_id: bigint
+        reference_id: bigint
+        amount: double
+
+  - name: raw_leads
+    config:
+      column_types:
+        lead_id: bigint
+        customer_id: varchar

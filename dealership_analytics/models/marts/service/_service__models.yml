@@ -1,0 +1,55 @@
+version: 2
+
+models:
+  - name: fct_service_orders
+    description: >
+      One row per repair order. Excludes orders referencing a nonexistent technician;
+      total_amount is recomputed from valid line items (fixing the raw reconciliation break);
+      impossible completed_at/started_at intervals are nulled and flagged via has_timestamp_anomaly.
+    columns:
+      - name: service_order_id
+        tests:
+          - unique
+          - not_null
+      - name: technician_id
+        tests:
+          - relationships:
+              to: ref('dim_technicians')
+              field: technician_id
+      - name: has_timestamp_anomaly
+        tests:
+          - accepted_values:
+              values: [false]
+              config:
+                severity: warn
+
+  - name: fct_service_line_items
+    description: >
+      One row per line on a repair order. line_total is recomputed from quantity * unit_price
+      (fixing raw arithmetic drift); part_id is nulled when it doesn't resolve to a real part.
+    columns:
+      - name: line_item_id
+        tests:
+          - unique
+          - not_null
+      - name: service_order_id
+        tests:
+          - relationships:
+              to: ref('fct_service_orders')
+              field: service_order_id
+      - name: part_id
+        tests:
+          - relationships:
+              to: ref('dim_parts')
+              field: part_id
+              config:
+                where: "part_id is not null"
+      - name: is_valid_line
+        tests:
+          - accepted_values:
+              values: [true]
+              config:
+                severity: warn
+
+  - name: mart_service_revenue
+    description: Monthly service revenue rollup by dealership.

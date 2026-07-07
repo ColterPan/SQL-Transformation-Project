@@ -1,0 +1,31 @@
+salesperson_id,dealership_id,first_name,last_name,email,phone,hire_date
+2001,1001,Jennifer,Ross,jennifer.ross@dealership.example.com,(578) 713-3150,2023-07-08
+2002,1001,Angela,Chapman,angela.chapman@dealership.example.com,010-310-5183,2020-11-18
+2003,1002,Elizabeth,Lewis,elizabeth.lewis@dealership.example.com,(299) 737-6311,2024-02-13
+2004,1005,Ryan,Henderson,ryan.henderson@dealership.example.com,701-065-1333,2023-01-28
+2005,1006,Shane,Henderson,shane.henderson@dealership.example.com,+1 473.178.1080,2019-04-22
+2006,1002,Sara,Allison,sara.allison@dealership.example.com,+1 267.736.0260,2021-10-31
+2007,1005,Joseph,Bowers,joseph.bowers@dealership.example.com,7468723430,2023-06-10
+2008,1001,Jill,Brown,jill.brown@dealership.example.com,500-978-8208,2019-03-12
+2009,1006,Melissa,Jones,melissa.jones@dealership.example.com,+1 136.193.9909,2019-03-18
+2010,1003,Robert,Silva,robert.silva@dealership.example.com,8543534624,2022-05-27
+2011,1002,Leslie,Walton,leslie.walton@dealership.example.com,107-991-1838,2020-10-07
+2012,1003,David,Bailey,david.bailey@dealership.example.com,(135) 427-8498,2018-07-31
+2013,1001,Elizabeth,Spencer,elizabeth.spencer@dealership.example.com,+1 124.118.2449,2020-04-21
+2014,1001,Jennifer,Harris,jennifer.harris@dealership.example.com,4874016400,2021-05-08
+2015,1003,Kellie,Walsh,kellie.walsh@dealership.example.com,4278680112,2023-02-26
+2016,1001,Barry,Wood,barry.wood@dealership.example.com,+1 826.204.5053,2024-04-25
+2017,1005,John,Garcia,john.garcia@dealership.example.com,(869) 232-2602,2024-10-11
+2018,1004,Sandra,Patton,sandra.patton@dealership.example.com,(634) 216-0733,2025-06-17
+2019,1005,Samantha,Bailey,samantha.bailey@dealership.example.com,3303654145,2023-12-21
+2020,1006,William,Frazier,william.frazier@dealership.example.com,8501429401,2023-08-03
+2021,1005,Ryan,Chandler,ryan.chandler@dealership.example.com,569-816-9340,2024-07-17
+2022,1006,Ryan,Meyer,ryan.meyer@dealership.example.com,(835) 615-9514,2022-10-29
+2023,1001,Kyle,Ortiz,kyle.ortiz@dealership.example.com,648-236-6299,2021-01-27
+2024,1003,Richard,Bass,richard.bass@dealership.example.com,(443) 699-5777,2024-04-05
+2025,1002,Jason,Kennedy,jason.kennedy@dealership.example.com,(214) 895-1343,2025-05-16
+2026,1004,James,Johnson,james.johnson@dealership.example.com,3791769367,2021-11-29
+2027,1004,John,Douglas,john.douglas@dealership.example.com,0163287083,2026-04-26
+2028,1002,Melinda,Bryant,melinda.bryant@dealership.example.com,7889579868,2022-04-22
+2029,1003,Phyllis,Manning,phyllis.manning@dealership.example.com,774-348-7347,2019-03-04
+2030,1006,Jennifer,Young,jennifer.young@dealership.example.com,5581223623,2019-01-22

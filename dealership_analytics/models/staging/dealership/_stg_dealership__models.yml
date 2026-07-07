@@ -1,0 +1,193 @@
+version: 2
+
+models:
+  - name: stg_dealerships
+    description: One row per dealership location. Clean control-group table (no injected dirtiness).
+    columns:
+      - name: dealership_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_salespeople
+    description: One row per salesperson employee. Clean control-group table.
+    columns:
+      - name: salesperson_id
+        tests:
+          - unique
+          - not_null
+      - name: dealership_id
+        tests:
+          - relationships:
+              to: ref('stg_dealerships')
+              field: dealership_id
+
+  - name: stg_technicians
+    description: One row per technician employee. Clean control-group table.
+    columns:
+      - name: technician_id
+        tests:
+          - unique
+          - not_null
+      - name: dealership_id
+        tests:
+          - relationships:
+              to: ref('stg_dealerships')
+              field: dealership_id
+
+  - name: stg_customers
+    description: >
+      One row per customer, deduplicated for exact-match re-entries and with phone/state/email/DOB
+      normalized. Fuzzy (nickname-variant) duplicates are intentionally NOT collapsed here -- see
+      int_customer_dedup and the data quality manifest.
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+      - name: is_valid_email
+        tests:
+          - accepted_values:
+              values: [true]
+              config:
+                severity: warn
+                where: "email_cleaned is not null"
+      - name: is_valid_date_of_birth
+        tests:
+          - accepted_values:
+              values: [true]
+              config:
+                severity: warn
+
+  - name: stg_leads
+    description: One row per marketing lead. customer_id is nullable for anonymous lead capture.
+    columns:
+      - name: lead_id
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+              config:
+                severity: warn
+                where: "customer_id is not null"
+
+  - name: stg_vehicles
+    description: >
+      One row per inventory unit, deduplicated for exact-match re-entries. Duplicate VINs across
+      distinct vehicle_id rows are a known, monitored data quality issue (see manifest) and are
+      intentionally left in place rather than silently dropped.
+    columns:
+      - name: vehicle_id
+        tests:
+          - unique
+          - not_null
+      - name: vin
+        tests:
+          - not_null
+          - unique:
+              config:
+                severity: warn
+      - name: dealership_id
+        tests:
+          - relationships:
+              to: ref('stg_dealerships')
+              field: dealership_id
+      - name: title_status
+        tests:
+          - accepted_values:
+              values: ["clean", "salvage", "rebuilt"]
+              config:
+                severity: warn
+
+  - name: stg_sales_transactions
+    description: One row per vehicle sale. Orphaned customer/vehicle references are a known issue at this layer.
+    columns:
+      - name: transaction_id
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        tests:
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+              config:
+                severity: warn
+      - name: vehicle_id
+        tests:
+          - relationships:
+              to: ref('stg_vehicles')
+              field: vehicle_id
+              config:
+                severity: warn
+      - name: financing_type
+        tests:
+          - accepted_values:
+              values: ["cash", "finance", "lease"]
+
+  - name: stg_parts
+    description: One row per part SKU per dealership.
+    columns:
+      - name: part_id
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_service_orders
+    description: One row per repair order. vehicle_id is nullable for walk-ins not in inventory.
+    columns:
+      - name: service_order_id
+        tests:
+          - unique
+          - not_null
+      - name: technician_id
+        tests:
+          - relationships:
+              to: ref('stg_technicians')
+              field: technician_id
+              config:
+                severity: warn
+      - name: vehicle_id
+        tests:
+          - relationships:
+              to: ref('stg_vehicles')
+              field: vehicle_id
+              config:
+                severity: warn
+              where: "vehicle_id is not null"
+
+  - name: stg_service_line_items
+    description: One row per line on a repair order. part_id is nullable for labor-only lines.
+    columns:
+      - name: line_item_id
+        tests:
+          - unique
+          - not_null
+      - name: service_order_id
+        tests:
+          - relationships:
+              to: ref('stg_service_orders')
+              field: service_order_id
+      - name: part_id
+        tests:
+          - relationships:
+              to: ref('stg_parts')
+              field: part_id
+              config:
+                severity: warn
+              where: "part_id is not null"
+
+  - name: stg_payments
+    description: One row per payment applied against a sale or service order.
+    columns:
+      - name: payment_id
+        tests:
+          - unique
+          - not_null
+      - name: amount
+        tests:
+          - not_null

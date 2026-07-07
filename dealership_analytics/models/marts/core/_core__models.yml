@@ -1,0 +1,99 @@
+version: 2
+
+models:
+  - name: dim_dealerships
+    description: One row per dealership location.
+    columns:
+      - name: dealership_id
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_salespeople
+    description: One row per salesperson.
+    columns:
+      - name: salesperson_id
+        tests:
+          - unique
+          - not_null
+      - name: phone
+        tests:
+          - valid_phone_format
+
+  - name: dim_technicians
+    description: One row per technician.
+    columns:
+      - name: technician_id
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_customers
+    description: >
+      One row per customer with normalized phone/state/email/DOB. Fuzzy (nickname-variant)
+      duplicates are surfaced via canonical_customer_id/is_likely_duplicate rather than merged --
+      a documented, deliberate limitation (see data_quality_manifest.md).
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null
+      - name: phone
+        tests:
+          - valid_phone_format
+      - name: is_valid_email
+        tests:
+          - accepted_values:
+              values: [true]
+              config:
+                severity: warn
+                where: "email is not null"
+
+  - name: dim_vehicles
+    description: >
+      One row per inventory unit. `status` is corrected against actual completed sales
+      (recorded_status_raw preserves the original for audit). Duplicate VINs and non-positive
+      pricing are surfaced via flags rather than dropped -- documented known data issues.
+    columns:
+      - name: vehicle_id
+        tests:
+          - unique
+          - not_null
+      - name: status_matches
+        tests:
+          - accepted_values:
+              values: [true]
+              config:
+                severity: warn
+      - name: is_valid_pricing
+        tests:
+          - accepted_values:
+              values: [true]
+              config:
+                severity: warn
+      - name: is_duplicate_vin
+        tests:
+          - accepted_values:
+              values: [false]
+              config:
+                severity: warn
+
+  - name: dim_parts
+    description: One row per part SKU per dealership. Pricing/quantity anomalies are flagged, not dropped.
+    columns:
+      - name: part_id
+        tests:
+          - unique
+          - not_null
+      - name: is_valid_pricing
+        tests:
+          - accepted_values:
+              values: [true]
+              config:
+                severity: warn
+      - name: is_valid_quantity
+        tests:
+          - accepted_values:
+              values: [true]
+              config:
+                severity: warn

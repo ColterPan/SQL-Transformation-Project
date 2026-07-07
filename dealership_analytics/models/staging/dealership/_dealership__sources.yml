@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: dealership
+    schema: main_raw
+    tables:
+      - name: raw_dealerships
+      - name: raw_salespeople
+      - name: raw_technicians
+      - name: raw_customers
+      - name: raw_leads
+      - name: raw_vehicles
+      - name: raw_sales_transactions
+      - name: raw_parts
+      - name: raw_service_orders
+      - name: raw_service_line_items
+      - name: raw_payments

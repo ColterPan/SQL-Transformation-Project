@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: int_service_order_totals
+    description: Reconciles each service order's recorded total against the sum of its line items.
+    columns:
+      - name: service_order_id
+        tests:
+          - unique
+          - not_null
+
+  - name: int_vehicle_sale_status
+    description: Compares each vehicle's recorded inventory status against whether it actually has a completed sale.
+    columns:
+      - name: vehicle_id
+        tests:
+          - unique
+          - not_null
+
+  - name: int_customer_dedup
+    description: >
+      Partial fuzzy-duplicate detection for customers sharing phone/address/city/zip.
+      Documented limitation: does not catch duplicates with differing contact info.
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null

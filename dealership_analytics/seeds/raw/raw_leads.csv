@@ -1,0 +1,3001 @@
+lead_id,customer_id,source_channel,campaign_name,created_at,converted_flag
+40001,14744,WALK-IN,spring_sale,2025-03-28 07:49:40,true
+40002,14497,web ,trade_in_bonus,2025-04-27 10:58:48,true
+40003,12902,walk-in,service_reminder,2025-04-09 07:00:34,false
+40004,10985,walk-in,service_reminder,2025-10-21 18:24:42,true
+40005,10373,referral,service_reminder,2025-06-28 21:50:11,true
+40006,11114,referral,trade_in_bonus,2024-12-08 06:07:53,false
+40007,12024,walk-in ,spring_sale,2024-09-21 05:12:22,true
+40008,14919,PHONE,trade_in_bonus,2025-08-25 12:21:41,true
+40009,12308,referral,trade_in_bonus,2025-12-19 05:56:31,false
+40010,12907,REFERRAL,0_apr_event,2025-05-12 21:36:56,true
+40011,14606,referral,trade_in_bonus,2026-02-13 15:23:28,true
+40012,14283,phone ,spring_sale,2025-06-25 02:54:32,false
+40013,12014,walk-in,0_apr_event,2025-06-09 14:59:24,true
+40014,10469,Referal,spring_sale,2025-01-08 03:50:32,false
+40015,12581,WEB,trade_in_bonus,2024-12-11 15:58:08,false
+40016,10859,web,service_reminder,2025-11-05 21:41:14,false
+40017,13855,THIRD_PARTY_SITE,spring_sale,2025-04-07 15:35:57,true
+40018,13969,referral,spring_sale,2024-10-18 21:06:04,true
+40019,12921,phone ,service_reminder,2024-10-22 23:27:53,false
+40020,13988,walk-in,0_apr_event,2025-04-11 19:05:56,false
+40021,13317,phone,service_reminder,2026-03-31 11:45:21,true
+40022,13101,web ,service_reminder,2024-08-10 15:49:05,false
+40023,10055,third_party_site,spring_sale,2025-02-04 05:52:46,true
+40024,14868,WALK-IN,0_apr_event,2025-05-23 17:26:29,true
+40025,14798,referral,0_apr_event,2025-10-08 06:53:04,true
+40026,12991,web,spring_sale,2026-06-18 01:19:18,true
+40027,12692,phone,0_apr_event,2026-06-23 00:41:31,true
+40028,13528,phone ,spring_sale,2026-04-07 20:12:31,true
+40029,10809,PHONE,service_reminder,2025-09-30 19:32:59,false
+40030,13768,REFERRAL,0_apr_event,2025-05-25 14:24:34,true
+40031,12000,phone,0_apr_event,2025-09-07 10:07:41,true
+40032,14221,WALK-IN,spring_sale,2025-12-02 04:42:16,true
+40033,12932,walk-in ,trade_in_bonus,2026-05-11 02:34:46,false
+40034,,third_party_site ,trade_in_bonus,2025-06-30 01:39:25,true
+40035,14579,PHONE,0_apr_event,2024-11-23 17:35:34,true
+40036,12081,third_party_site,0_apr_event,2025-12-16 10:14:21,false
+40037,12231,PHONE,service_reminder,2025-07-15 11:13:58,false
+40038,,third_party_site,service_reminder,2025-10-30 18:11:35,false
+40039,14942,referral ,service_reminder,2025-07-29 05:13:41,false
+40040,13693,walk-in,spring_sale,2026-04-30 21:33:00,true
+40041,12055,web ,service_reminder,2026-03-19 21:46:34,true
+40042,13289,third_party_site,spring_sale,2025-08-31 15:08:52,true
+40043,10898,phone ,service_reminder,2026-02-01 21:15:49,false
+40044,10260,PHONE,spring_sale,2024-12-03 20:42:45,false
+40045,10560,phone,service_reminder,2026-03-12 18:04:02,false
+40046,11484,walk-in,trade_in_bonus,2025-01-08 17:33:14,false
+40047,10973,web ,0_apr_event,2025-02-16 12:01:50,false
+40048,13438,phone,trade_in_bonus,2026-05-21 11:56:30,false
+40049,13909,walk-in,trade_in_bonus,2025-02-08 08:57:35,true
+40050,14019,third_party_site ,trade_in_bonus,2025-07-19 06:48:23,false
+40051,14772,web,spring_sale,2025-03-25 17:06:32,false
+40052,12849,third_party_site ,0_apr_event,2025-06-18 13:01:27,true
+40053,11859,web ,trade_in_bonus,2024-10-25 04:12:40,false
+40054,11665,web ,0_apr_event,2025-10-23 21:50:20,false
+40055,10179,phone,service_reminder,2025-10-22 11:44:37,false
+40056,10783,referral ,spring_sale,2026-02-09 03:33:40,true
+40057,12227,web,0_apr_event,2025-11-23 17:24:51,false
+40058,,walk-in,spring_sale,2024-12-11 20:35:36,false
+40059,10331,phone,trade_in_bonus,2025-11-09 09:18:27,false
+40060,11322,walk-in ,0_apr_event,2024-07-09 22:27:37,true
+40061,11689,referral ,service_reminder,2025-05-07 23:57:53,true
+40062,13071,web,trade_in_bonus,2025-04-10 10:29:45,false
+40063,12636,Referal,0_apr_event,2025-07-22 13:45:53,false
+40064,11994,phone,spring_sale,2026-01-10 22:05:48,false
+40065,14809,walk-in ,spring_sale,2025-06-02 20:48:40,false
+40066,14060,phone,0_apr_event,2025-10-12 00:52:38,true
+40067,10017,web,0_apr_event,2026-02-21 18:47:04,true
+40068,12107,WEB,0_apr_event,2024-11-07 16:09:16,false
+40069,10483,web ,spring_sale,2024-09-03 16:55:07,true
+40070,13351,phone,service_reminder,2025-07-21 04:33:42,false
+40071,10005,phone,trade_in_bonus,2025-12-04 20:35:41,false
+40072,13840,web,service_reminder,2024-11-04 19:23:45,true
+40073,12669,web,0_apr_event,2025-11-06 19:06:18,true
+40074,13757,walk-in,0_apr_event,2025-04-01 23:02:25,true
+40075,15154,web,service_reminder,2025-05-06 20:23:43,false
+40076,11376,phone,trade_in_bonus,2025-06-21 23:31:13,false
+40077,10589,PHONE,spring_sale,2026-04-08 19:57:17,false
+40078,13449,Referal,trade_in_bonus,2026-03-26 06:02:28,false
+40079,12317,phone,trade_in_bonus,2026-02-13 06:38:15,true
+40080,13571,third_party_site,service_reminder,2025-04-03 23:31:21,true
+40081,12875,WEB,service_reminder,2024-07-23 05:00:04,true
+40082,10242,third_party_site,trade_in_bonus,2024-12-11 07:49:28,true
+40083,11268,web,service_reminder,2025-11-19 13:05:09,false
+40084,12646,referral,0_apr_event,2025-01-24 03:59:02,true
+40085,11465,REFERRAL,spring_sale,2024-12-25 04:16:46,false
+40086,12274,walk-in ,trade_in_bonus,2026-01-09 04:10:57,true
+40087,14101,phone,service_reminder,2025-05-16 11:52:11,true
+40088,10556,walk-in,0_apr_event,2024-10-14 08:57:23,false
+40089,10949,walk-in,service_reminder,2025-11-11 17:48:36,false
+40090,12722,REFERRAL,service_reminder,2025-08-15 22:46:33,true
+40091,10248,phone,0_apr_event,2025-12-05 11:01:56,false
+40092,10069,REFERRAL,0_apr_event,2025-03-17 21:32:53,true
+40093,14355,phone ,0_apr_event,2026-05-05 22:52:09,true
+40094,11565,Referal,trade_in_bonus,2026-01-26 13:59:59,false
+40095,14889,walk-in,trade_in_bonus,2025-07-22 12:01:01,false
+40096,10287,PHONE,0_apr_event,2024-07-16 18:45:42,false
+40097,10716,phone,0_apr_event,2025-06-21 18:02:44,true
+40098,11645,phone ,0_apr_event,2025-09-09 23:50:48,true
+40099,11415,PHONE,0_apr_event,2025-04-05 15:56:37,false
+40100,12739,third_party_site,spring_sale,2024-11-25 14:31:28,false
+40101,11307,WEB,0_apr_event,2025-12-22 06:56:01,false
+40102,13250,Referal,spring_sale,2025-02-07 05:20:28,false
+40103,13536,REFERRAL,trade_in_bonus,2025-01-04 15:22:30,true
+40104,12144,phone,spring_sale,2024-12-10 14:12:19,true
+40105,14326,WEB,service_reminder,2025-08-24 13:30:04,true
+40106,14385,referral,0_apr_event,2025-12-01 00:53:29,true
+40107,12475,third_party_site,trade_in_bonus,2024-07-16 22:15:55,false
+40108,13994,THIRD_PARTY_SITE,spring_sale,2025-04-23 22:43:31,true
+40109,10149,referral,0_apr_event,2024-12-21 21:52:46,true
+40110,12194,WEB,trade_in_bonus,2026-01-20 17:53:48,false
+40111,10207,referral,spring_sale,2025-10-14 07:24:41,true
+40112,11814,Referal,spring_sale,2025-04-17 11:47:32,true
+40113,11933,web,service_reminder,2025-05-28 07:36:46,false
+40114,13425,WEB,spring_sale,2024-10-04 13:07:16,true
+40115,12381,phone,service_reminder,2026-04-21 09:27:54,false
+40116,10941,walk-in ,trade_in_bonus,2024-08-25 21:53:55,false
+40117,10423,phone ,0_apr_event,2024-12-01 16:53:56,false
+40118,11411,phone,trade_in_bonus,2024-08-03 22:48:35,true
+40119,10648,Referal,0_apr_event,2026-06-30 00:04:44,false
+40120,12900,phone,service_reminder,2024-10-17 17:09:58,false
+40121,14197,WEB,spring_sale,2025-03-15 15:30:11,false
+40122,15109,referral,0_apr_event,2025-10-16 20:17:22,true
+40123,14668,phone ,spring_sale,2024-09-03 12:54:45,false
+40124,10324,third_party_site,trade_in_bonus,2026-02-10 19:29:53,false
+40125,11067,WALK-IN,spring_sale,2026-04-04 17:18:35,false
+40126,12222,third_party_site,service_reminder,2025-04-13 10:46:53,false
+40127,11527,phone,trade_in_bonus,2026-04-23 17:11:29,false
+40128,12975,phone ,0_apr_event,2025-03-29 02:22:03,false
+40129,10110,REFERRAL,trade_in_bonus,2025-12-01 09:26:19,false
+40130,10297,THIRD_PARTY_SITE,0_apr_event,2025-11-20 08:45:37,false
+40131,12288,walk-in,0_apr_event,2025-03-06 01:08:15,true
+40132,10125,phone,0_apr_event,2026-04-24 02:57:26,false
+40133,11457,Referal,trade_in_bonus,2026-03-27 13:38:38,false
+40134,11338,WALK-IN,service_reminder,2024-11-08 20:02:35,true
+40135,11426,phone ,trade_in_bonus,2026-01-06 14:58:31,false
+40136,11687,third_party_site ,0_apr_event,2026-01-28 07:28:12,false
+40137,10269,WALK-IN,spring_sale,2026-03-30 00:15:32,true
+40138,14073,web,service_reminder,2026-01-15 04:55:18,true
+40139,12973,WEB,service_reminder,2026-06-02 11:04:06,false
+40140,11829,REFERRAL,0_apr_event,2024-08-21 18:47:18,true
+40141,12310,walk-in,spring_sale,2024-09-11 18:29:07,true
+40142,11953,web,service_reminder,2024-11-16 00:44:23,false
+40143,10410,phone,service_reminder,2024-09-08 08:47:26,false
+40144,15200,walk-in,spring_sale,2025-06-11 03:34:03,true
+40145,10504,referral,trade_in_bonus,2025-10-20 08:02:12,false
+40146,13837,THIRD_PARTY_SITE,service_reminder,2026-07-06 14:23:26,true
+40147,14475,phone,service_reminder,2025-04-15 16:07:59,false
+40148,11544,REFERRAL,trade_in_bonus,2025-12-25 20:58:47,false
+40149,11852,THIRD_PARTY_SITE,trade_in_bonus,2025-05-30 03:40:33,false
+40150,14035,phone,trade_in_bonus,2025-06-13 22:43:59,false
+40151,12967,phone ,spring_sale,2026-06-10 21:31:15,true
+40152,14270,third_party_site ,trade_in_bonus,2024-12-09 13:05:41,true
+40153,12310,third_party_site ,service_reminder,2025-04-10 13:44:03,true
+40154,13101,WALK-IN,service_reminder,2024-08-08 23:57:35,false
+40155,14142,REFERRAL,spring_sale,2025-07-19 01:16:57,false
+40156,15127,THIRD_PARTY_SITE,0_apr_event,2025-08-01 14:37:47,false
+40157,13890,web,trade_in_bonus,2025-12-26 12:02:58,true
+40158,11978,walk-in,trade_in_bonus,2025-06-18 11:27:24,false
+40159,10666,phone,0_apr_event,2026-04-07 20:24:49,false
+40160,13647,phone,service_reminder,2026-02-26 20:37:31,true
+40161,10643,walk-in ,0_apr_event,2026-03-21 11:38:10,false
+40162,14799,walk-in,spring_sale,2025-01-14 21:40:31,false
+40163,11417,walk-in ,spring_sale,2026-04-30 18:13:19,true
+40164,13774,walk-in,service_reminder,2025-09-26 03:17:41,false
+40165,11612,third_party_site,0_apr_event,2024-08-20 01:18:47,false
+40166,14610,third_party_site,service_reminder,2024-12-31 22:14:03,true
+40167,14539,WALK-IN,spring_sale,2025-07-30 09:13:59,true
+40168,11011,web,spring_sale,2025-08-08 18:09:18,false
+40169,13341,phone,service_reminder,2026-04-01 01:50:01,true
+40170,12637,phone ,0_apr_event,2025-10-26 19:44:15,true
+40171,14774,web,service_reminder,2026-04-10 11:19:24,true
+40172,10115,third_party_site,spring_sale,2025-06-12 09:28:33,false
+40173,12893,third_party_site,trade_in_bonus,2026-06-27 04:56:04,false
+40174,11430,phone ,service_reminder,2024-11-06 07:41:59,false
+40175,11053,third_party_site ,trade_in_bonus,2026-02-15 09:05:34,true
+40176,12829,web,spring_sale,2025-09-05 09:41:52,false
+40177,12719,WEB,trade_in_bonus,2026-01-10 18:27:47,false
+40178,11926,REFERRAL,service_reminder,2025-08-09 09:05:52,false
+40179,13666,phone,service_reminder,2026-05-26 17:08:10,true
+40180,11066,phone ,service_reminder,2025-07-05 07:12:20,false
+40181,,web,0_apr_event,2026-02-14 06:55:17,false
+40182,12104,web,service_reminder,2025-08-02 04:21:13,true
+40183,15143,walk-in,service_reminder,2025-12-24 06:20:02,true
+40184,14723,third_party_site,service_reminder,2024-10-22 10:55:33,false
+40185,13220,phone,0_apr_event,2024-11-16 08:50:14,false
+40186,10739,phone,trade_in_bonus,2025-09-05 13:33:39,false
+40187,13017,phone,trade_in_bonus,2026-01-22 23:27:14,true
+40188,12853,walk-in,0_apr_event,2025-01-12 16:45:15,true
+40189,12670,third_party_site,service_reminder,2026-05-19 02:10:34,false
+40190,10087,phone,spring_sale,2026-01-14 15:24:53,false
+40191,11835,third_party_site ,service_reminder,2024-10-29 12:53:08,false
+40192,13402,WEB,service_reminder,2024-08-30 12:15:11,true
+40193,14977,walk-in,trade_in_bonus,2025-10-27 21:43:47,true
+40194,13235,walk-in,0_apr_event,2025-07-14 10:49:51,false
+40195,12095,walk-in,0_apr_event,2025-06-02 23:55:46,true
+40196,12760,phone,trade_in_bonus,2025-05-21 04:32:04,true
+40197,13227,walk-in,trade_in_bonus,2026-06-07 22:40:58,true
+40198,10441,referral,service_reminder,2025-06-09 16:48:54,false
+40199,14182,phone,0_apr_event,2026-06-09 09:42:50,true
+40200,12982,walk-in,trade_in_bonus,2026-06-13 06:54:01,false
+40201,11312,PHONE,0_apr_event,2024-11-15 14:19:58,false
+40202,13841,web ,0_apr_event,2025-10-08 06:12:29,false
+40203,14791,web,spring_sale,2025-02-12 14:07:55,true
+40204,14958,phone,0_apr_event,2024-09-15 21:37:57,false
+40205,11500,phone,spring_sale,2026-04-27 00:44:46,true
+40206,11777,WEB,trade_in_bonus,2026-04-25 18:54:40,false
+40207,11598,phone ,service_reminder,2025-07-27 03:41:50,true
+40208,12046,phone ,spring_sale,2025-01-27 03:45:16,false
+40209,10685,walk-in,0_apr_event,2025-11-14 20:25:28,true
+40210,13068,web ,service_reminder,2024-10-14 12:57:58,true
+40211,12987,REFERRAL,trade_in_bonus,2024-11-12 16:01:57,true
+40212,12962,walk-in ,service_reminder,2025-08-27 13:11:40,true
+40213,13582,walk-in,trade_in_bonus,2025-12-21 10:12:45,true
+40214,11453,THIRD_PARTY_SITE,trade_in_bonus,2024-12-01 06:31:48,false
+40215,14450,phone,spring_sale,2024-07-21 12:30:26,false
+40216,11589,Referal,0_apr_event,2024-11-03 01:30:47,false
+40217,13364,third_party_site ,service_reminder,2025-02-04 00:27:57,false
+40218,12949,referral,service_reminder,2026-07-01 01:07:19,true
+40219,12011,web,spring_sale,2025-04-05 08:42:02,false
+40220,10404,third_party_site,service_reminder,2025-06-09 16:52:27,false
+40221,12544,referral,0_apr_event,2024-12-14 01:25:31,true
+40222,12622,third_party_site,spring_sale,2024-11-06 20:13:38,true
+40223,14556,phone,service_reminder,2025-06-28 09:46:17,false
+40224,13566,WEB,service_reminder,2024-12-01 14:09:16,false
+40225,13147,Referal,0_apr_event,2025-11-18 14:52:46,true
+40226,11917,Referal,service_reminder,2026-06-17 00:00:38,false
+40227,13346,WALK-IN,service_reminder,2024-12-04 23:15:36,true
+40228,13526,walk-in,spring_sale,2025-05-21 15:49:19,false
+40229,,walk-in,0_apr_event,2024-11-19 12:03:53,true
+40230,14086,walk-in ,0_apr_event,2026-03-01 03:31:34,true
+40231,11349,web ,spring_sale,2026-06-02 21:45:17,false
+40232,10032,Referal,trade_in_bonus,2025-05-08 19:36:45,false
+40233,,phone,trade_in_bonus,2025-10-11 19:52:07,true
+40234,14813,phone,trade_in_bonus,2026-04-13 22:55:12,false
+40235,14687,third_party_site ,spring_sale,2024-09-20 01:34:18,true
+40236,12442,PHONE,service_reminder,2025-04-10 10:28:16,false
+40237,15030,phone ,service_reminder,2025-08-31 13:47:13,false
+40238,14880,referral ,service_reminder,2025-04-18 16:54:32,true
+40239,15176,third_party_site ,0_apr_event,2026-05-16 07:00:45,false
+40240,14923,phone,service_reminder,2026-05-07 08:56:30,true
+40241,12623,walk-in ,service_reminder,2025-02-23 16:37:03,false
+40242,13960,REFERRAL,service_reminder,2026-03-29 09:20:05,true
+40243,11821,third_party_site ,service_reminder,2026-04-02 00:00:20,false
+40244,10596,third_party_site,service_reminder,2025-01-29 00:18:32,false
+40245,14855,THIRD_PARTY_SITE,trade_in_bonus,2024-07-17 13:46:57,true
+40246,10332,web,0_apr_event,2026-05-25 07:22:23,true
+40247,12873,web,trade_in_bonus,2025-11-16 13:39:51,false
+40248,12985,referral,0_apr_event,2025-09-23 07:43:41,true
+40249,12272,REFERRAL,0_apr_event,2025-06-27 15:16:42,false
+40250,13845,WEB,trade_in_bonus,2025-07-17 09:02:43,true
+40251,10454,phone ,trade_in_bonus,2025-09-22 18:56:37,true
+40252,11596,Referal,0_apr_event,2025-11-11 06:22:10,true
+40253,11282,THIRD_PARTY_SITE,spring_sale,2025-01-31 16:11:15,false
+40254,14304,phone,0_apr_event,2025-10-29 21:19:17,false
+40255,14523,walk-in,trade_in_bonus,2026-05-25 15:06:45,false
+40256,13481,walk-in,service_reminder,2024-09-21 21:44:14,false
+40257,14223,walk-in,service_reminder,2026-04-09 11:30:19,false
+40258,,phone,0_apr_event,2026-02-12 20:57:10,false
+40259,10453,referral ,0_apr_event,2025-11-24 15:01:21,true
+40260,11151,third_party_site,trade_in_bonus,2024-09-07 19:04:08,true
+40261,10142,PHONE,trade_in_bonus,2025-05-30 15:03:57,true
+40262,11211,PHONE,0_apr_event,2025-12-13 14:52:23,false
+40263,10129,referral ,spring_sale,2024-11-25 06:56:14,false
+40264,10992,web,service_reminder,2024-08-04 08:22:27,false
+40265,14515,PHONE,0_apr_event,2025-01-30 00:18:12,false
+40266,14836,third_party_site,spring_sale,2025-11-16 02:40:10,false
+40267,,referral ,trade_in_bonus,2025-06-04 22:48:26,true
+40268,13211,Referal,trade_in_bonus,2026-06-07 02:29:35,false
+40269,15073,referral,service_reminder,2025-11-19 16:58:49,true
+40270,11556,web,service_reminder,2024-12-01 08:33:49,false
+40271,11053,third_party_site,0_apr_event,2025-03-04 00:09:07,false
+40272,14529,phone,trade_in_bonus,2025-12-15 05:21:10,false
+40273,14266,REFERRAL,service_reminder,2025-10-15 16:59:04,true
+40274,14699,walk-in ,spring_sale,2025-07-13 04:52:17,true
+40275,13928,walk-in,service_reminder,2025-03-18 19:17:29,true
+40276,14336,REFERRAL,spring_sale,2024-08-12 16:28:46,false
+40277,14112,walk-in,spring_sale,2024-08-15 08:28:57,false
+40278,11630,third_party_site,service_reminder,2025-06-30 21:03:23,false
+40279,10377,phone,service_reminder,2024-09-12 20:54:53,false
+40280,12867,third_party_site ,service_reminder,2024-09-29 08:29:47,true
+40281,12680,referral,spring_sale,2024-11-19 19:11:01,false
+40282,13621,PHONE,0_apr_event,2025-03-20 02:17:33,true
+40283,11466,referral,spring_sale,2025-04-08 03:10:11,false
+40284,14331,PHONE,trade_in_bonus,2024-09-22 17:30:04,false
+40285,12392,Referal,trade_in_bonus,2026-04-21 23:34:52,true
+40286,11253,referral,spring_sale,2026-04-28 00:16:23,false
+40287,10486,phone ,trade_in_bonus,2024-10-29 13:45:12,true
+40288,10113,third_party_site,service_reminder,2024-08-20 10:39:07,true
+40289,13005,phone,spring_sale,2025-01-25 21:03:58,true
+40290,10137,Referal,0_apr_event,2025-10-05 20:51:15,true
+40291,,referral ,0_apr_event,2026-03-21 18:10:33,true
+40292,14537,THIRD_PARTY_SITE,trade_in_bonus,2025-11-14 17:07:38,false
+40293,,third_party_site,service_reminder,2025-10-16 21:27:47,false
+40294,12522,THIRD_PARTY_SITE,0_apr_event,2026-06-26 04:38:30,false
+40295,14147,WEB,service_reminder,2025-04-19 19:11:51,true
+40296,13306,Referal,trade_in_bonus,2025-06-03 05:13:17,true
+40297,12665,third_party_site,service_reminder,2025-03-04 06:46:42,true
+40298,11810,walk-in ,spring_sale,2025-11-18 05:58:42,false
+40299,11508,referral ,service_reminder,2024-08-15 20:03:05,false
+40300,14977,web,spring_sale,2024-08-20 07:37:07,false
+40301,14848,third_party_site,0_apr_event,2025-04-16 06:16:25,false
+40302,11358,referral,0_apr_event,2026-02-22 06:22:30,true
+40303,13085,web,spring_sale,2024-08-10 18:12:34,false
+40304,14079,web,service_reminder,2025-07-07 10:28:00,false
+40305,14596,WEB,spring_sale,2026-02-22 00:03:32,true
+40306,14470,Referal,spring_sale,2025-12-09 10:06:03,true
+40307,12989,web,service_reminder,2024-08-20 15:30:50,false
+40308,13350,PHONE,0_apr_event,2024-10-14 13:43:15,false
+40309,11269,REFERRAL,service_reminder,2026-03-24 09:35:25,true
+40310,13297,third_party_site,service_reminder,2026-06-08 15:23:31,true
+40311,11326,third_party_site ,service_reminder,2024-07-31 19:21:15,false
+40312,12981,web,service_reminder,2024-11-15 17:50:18,true
+40313,11897,walk-in,0_apr_event,2024-10-26 03:42:05,false
+40314,13476,web ,trade_in_bonus,2026-02-07 22:32:52,false
+40315,10676,referral ,service_reminder,2025-03-07 00:58:48,true
+40316,12728,web ,0_apr_event,2024-10-28 12:00:29,true
+40317,13524,referral ,0_apr_event,2025-02-22 22:11:40,true
+40318,13393,third_party_site ,0_apr_event,2024-12-19 08:01:57,false
+40319,14697,WEB,service_reminder,2024-12-14 22:57:51,true
+40320,14146,phone,trade_in_bonus,2025-09-05 08:52:05,true
+40321,14486,walk-in,trade_in_bonus,2024-11-12 03:48:53,false
+40322,11350,REFERRAL,service_reminder,2025-07-18 06:26:28,false
+40323,,phone ,spring_sale,2024-11-13 22:21:20,false
+40324,12214,WEB,service_reminder,2024-07-26 18:08:01,true
+40325,11567,REFERRAL,0_apr_event,2025-07-10 00:02:56,false
+40326,10708,THIRD_PARTY_SITE,trade_in_bonus,2024-11-07 09:16:30,false
+40327,10724,walk-in ,spring_sale,2025-01-31 11:56:42,false
+40328,10073,third_party_site ,0_apr_event,2026-04-28 22:35:46,true
+40329,15149,REFERRAL,service_reminder,2024-09-23 16:22:23,false
+40330,,phone,0_apr_event,2026-05-19 12:27:48,true
+40331,13594,walk-in,spring_sale,2025-09-12 23:43:09,true
+40332,11684,referral,trade_in_bonus,2025-05-08 01:38:14,true
+40333,10863,WALK-IN,service_reminder,2025-01-16 22:59:07,false
+40334,12028,WALK-IN,service_reminder,2026-04-02 12:20:18,true
+40335,13519,phone ,service_reminder,2025-01-15 12:59:35,false
+40336,14168,web ,service_reminder,2025-10-18 16:06:12,false
+40337,13751,REFERRAL,0_apr_event,2026-06-12 11:52:04,false
+40338,11589,WEB,service_reminder,2024-08-29 23:07:37,false
+40339,14055,walk-in,service_reminder,2024-11-10 20:10:22,false
+40340,14945,web ,trade_in_bonus,2024-12-15 16:14:10,false
+40341,13598,THIRD_PARTY_SITE,trade_in_bonus,2025-09-06 09:30:32,true
+40342,13251,WEB,spring_sale,2026-04-27 11:18:24,false
+40343,10122,REFERRAL,0_apr_event,2025-10-22 03:43:55,true
+40344,14544,THIRD_PARTY_SITE,trade_in_bonus,2025-02-05 16:30:15,true
+40345,12613,web,spring_sale,2025-09-01 11:43:47,false
+40346,14429,WEB,trade_in_bonus,2025-10-11 18:45:31,false
+40347,10478,WEB,0_apr_event,2025-12-03 23:17:44,true
+40348,12897,REFERRAL,service_reminder,2024-10-11 19:54:54,true
+40349,12016,referral,0_apr_event,2025-04-23 01:46:11,true
+40350,,phone,spring_sale,2024-07-28 17:43:46,false
+40351,11931,phone ,spring_sale,2024-10-14 01:18:04,false
+40352,11157,PHONE,trade_in_bonus,2024-09-28 10:34:24,false
+40353,14051,THIRD_PARTY_SITE,trade_in_bonus,2025-09-18 20:38:27,false
+40354,14508,walk-in,spring_sale,2024-09-26 13:39:27,true
+40355,13407,walk-in,spring_sale,2025-04-14 01:08:51,false
+40356,,Referal,service_reminder,2025-09-08 22:32:52,true
+40357,15040,third_party_site,spring_sale,2026-05-24 22:50:22,false
+40358,11507,phone,service_reminder,2024-07-26 20:26:57,false
+40359,,THIRD_PARTY_SITE,service_reminder,2025-03-24 11:16:16,true
+40360,14565,walk-in,0_apr_event,2025-10-26 02:43:09,true
+40361,11852,PHONE,spring_sale,2026-05-14 13:54:00,false
+40362,12299,walk-in,trade_in_bonus,2026-07-04 10:17:22,true
+40363,11271,web,0_apr_event,2025-05-12 07:20:49,false
+40364,10325,phone,trade_in_bonus,2026-02-17 01:57:51,false
+40365,14208,Referal,trade_in_bonus,2026-06-27 07:07:38,true
+40366,13784,walk-in,0_apr_event,2024-07-28 14:25:15,true
+40367,11698,WALK-IN,service_reminder,2025-12-10 06:00:54,true
+40368,12687,referral,spring_sale,2026-01-19 19:33:52,false
+40369,12039,third_party_site ,service_reminder,2024-08-28 19:15:09,false
+40370,10699,third_party_site,0_apr_event,2026-06-02 01:09:52,false
+40371,13724,third_party_site,spring_sale,2026-03-27 01:04:21,false
+40372,14703,walk-in ,service_reminder,2025-11-23 21:33:32,true
+40373,14905,THIRD_PARTY_SITE,service_reminder,2025-04-04 03:18:42,false
+40374,12995,web ,0_apr_event,2025-10-07 09:18:01,true
+40375,12957,web,service_reminder,2025-12-19 16:29:00,false
+40376,15056,third_party_site,trade_in_bonus,2024-12-31 09:43:04,true
+40377,11187,web,trade_in_bonus,2025-03-20 02:27:07,false
+40378,14099,web ,trade_in_bonus,2025-07-15 21:01:19,true
+40379,13071,phone,0_apr_event,2025-04-26 17:38:34,true
+40380,10684,Referal,spring_sale,2025-10-18 09:43:45,true
+40381,11638,walk-in ,trade_in_bonus,2025-02-11 19:18:02,true
+40382,13562,WALK-IN,service_reminder,2025-01-13 12:04:16,true
+40383,11697,web,0_apr_event,2025-09-06 09:31:32,true
+40384,13266,WALK-IN,spring_sale,2026-02-20 11:56:27,false
+40385,10430,THIRD_PARTY_SITE,trade_in_bonus,2025-04-08 23:15:57,true
+40386,,phone,service_reminder,2025-06-08 07:50:37,true
+40387,14769,referral ,service_reminder,2026-04-03 06:41:12,false
+40388,,web ,spring_sale,2025-12-25 02:45:17,true
+40389,10096,web ,service_reminder,2024-10-10 08:19:23,false
+40390,11907,REFERRAL,service_reminder,2026-02-07 16:28:18,true
+40391,13024,web,service_reminder,2025-09-01 20:37:33,true
+40392,12161,WEB,spring_sale,2024-07-30 21:12:55,true
+40393,14320,phone,spring_sale,2025-06-07 09:19:46,true
+40394,12675,phone,trade_in_bonus,2024-09-30 03:46:50,false
+40395,11584,Referal,service_reminder,2026-06-05 21:12:33,false
+40396,12466,third_party_site,0_apr_event,2025-12-08 19:08:28,false
+40397,12762,WALK-IN,trade_in_bonus,2026-04-23 09:35:14,false
+40398,15113,third_party_site,0_apr_event,2026-03-17 09:33:25,true
+40399,11000,Referal,spring_sale,2025-11-21 14:30:25,false
+40400,14538,walk-in,service_reminder,2025-06-14 23:05:42,true
+40401,10929,web,0_apr_event,2026-05-20 08:42:18,true
+40402,10951,walk-in ,0_apr_event,2024-12-01 00:07:35,false
+40403,13412,PHONE,spring_sale,2026-05-25 14:02:34,true
+40404,13850,referral,spring_sale,2026-05-20 04:15:41,false
+40405,12632,referral ,spring_sale,2025-01-12 10:49:00,false
+40406,10041,walk-in ,spring_sale,2024-08-10 23:04:19,true
+40407,10744,phone,spring_sale,2025-07-02 06:30:49,false
+40408,,WEB,spring_sale,2026-01-31 14:55:18,true
+40409,11030,PHONE,trade_in_bonus,2024-11-02 22:48:32,true
+40410,14280,web,trade_in_bonus,2024-08-24 00:15:53,true
+40411,12605,phone,0_apr_event,2025-05-20 17:43:41,false
+40412,10252,web,0_apr_event,2025-07-19 02:47:48,false
+40413,13268,web,trade_in_bonus,2024-07-16 14:23:05,false
+40414,13451,REFERRAL,0_apr_event,2025-09-28 10:24:55,true
+40415,10572,web ,service_reminder,2025-06-24 08:16:28,false
+40416,13243,PHONE,0_apr_event,2026-03-17 09:27:40,true
+40417,10512,phone ,trade_in_bonus,2025-04-07 04:10:06,true
+40418,13463,third_party_site ,service_reminder,2025-02-17 01:09:50,true
+40419,14896,referral,0_apr_event,2024-08-24 18:07:07,true
+40420,13462,phone ,trade_in_bonus,2024-11-03 16:06:29,true
+40421,14058,Referal,0_apr_event,2026-01-05 04:42:28,false
+40422,11914,web,0_apr_event,2024-11-22 03:53:59,false
+40423,,web ,0_apr_event,2026-06-11 06:16:46,true
+40424,11747,phone,trade_in_bonus,2024-12-06 20:05:08,false
+40425,11984,web,service_reminder,2024-07-18 15:10:06,true
+40426,14388,phone ,service_reminder,2024-11-30 05:40:59,false
+40427,14567,THIRD_PARTY_SITE,spring_sale,2025-10-11 15:52:20,false
+40428,12644,referral ,service_reminder,2025-02-17 05:11:46,false
+40429,11970,walk-in ,trade_in_bonus,2025-06-06 17:17:38,false
+40430,14987,PHONE,service_reminder,2026-02-09 16:01:39,false
+40431,,phone ,trade_in_bonus,2024-08-15 18:02:05,false
+40432,10627,phone ,spring_sale,2025-06-12 19:08:06,false
+40433,14617,walk-in,spring_sale,2025-04-27 09:29:11,true
+40434,10947,third_party_site ,service_reminder,2026-05-28 02:51:11,false
+40435,10147,third_party_site ,trade_in_bonus,2024-12-06 04:24:13,true
+40436,12903,web ,service_reminder,2026-02-23 19:17:56,true
+40437,14347,Referal,trade_in_bonus,2025-01-27 16:58:31,false
+40438,10407,PHONE,trade_in_bonus,2026-03-23 10:52:00,false
+40439,10778,web ,0_apr_event,2025-11-07 03:19:22,true
+40440,13124,walk-in,spring_sale,2025-04-07 13:06:13,true
+40441,11650,web,trade_in_bonus,2025-10-19 05:33:30,true
+40442,14773,REFERRAL,trade_in_bonus,2025-04-08 11:06:17,true
+40443,10667,walk-in ,service_reminder,2026-06-05 00:11:32,false
+40444,12837,WEB,0_apr_event,2025-03-17 17:32:23,false
+40445,11433,phone,0_apr_event,2025-09-06 20:42:18,true
+40446,11430,phone,trade_in_bonus,2025-06-19 13:41:51,true
+40447,14030,walk-in,0_apr_event,2024-11-02 05:46:35,true
+40448,10830,REFERRAL,spring_sale,2024-07-08 14:00:13,false
+40449,13599,THIRD_PARTY_SITE,service_reminder,2026-05-11 20:59:38,false
+40450,14164,phone,0_apr_event,2024-08-28 01:53:48,true
+40451,12698,THIRD_PARTY_SITE,0_apr_event,2024-09-23 01:48:09,true
+40452,10018,third_party_site ,0_apr_event,2024-12-08 18:08:48,false
+40453,14972,walk-in,0_apr_event,2024-08-01 07:11:15,true
+40454,13772,third_party_site ,service_reminder,2025-03-21 21:58:59,true
+40455,15136,web,spring_sale,2024-10-13 05:10:04,true
+40456,10697,walk-in ,spring_sale,2025-11-10 09:53:19,true
+40457,10604,WALK-IN,spring_sale,2026-06-25 14:37:09,true
+40458,,REFERRAL,0_apr_event,2025-02-28 06:11:37,true
+40459,12132,phone ,0_apr_event,2025-02-14 18:50:04,true
+40460,11143,WALK-IN,trade_in_bonus,2024-08-23 22:57:52,true
+40461,14569,PHONE,0_apr_event,2025-06-26 13:32:32,false
+40462,14715,REFERRAL,spring_sale,2025-12-21 00:09:45,true
+40463,14316,Referal,trade_in_bonus,2026-06-04 21:54:34,false
+40464,11015,walk-in,service_reminder,2025-05-18 07:21:02,true
+40465,10444,third_party_site,trade_in_bonus,2025-02-12 10:06:17,false
+40466,10875,THIRD_PARTY_SITE,spring_sale,2025-06-07 06:08:31,false
+40467,12471,REFERRAL,spring_sale,2025-09-11 18:32:20,true
+40468,12280,PHONE,spring_sale,2025-09-24 22:45:48,true
+40469,11712,phone,0_apr_event,2024-10-13 12:31:27,false
+40470,12509,referral ,0_apr_event,2026-03-07 07:41:33,true
+40471,14000,web,0_apr_event,2025-04-27 16:49:10,true
+40472,12638,THIRD_PARTY_SITE,trade_in_bonus,2025-12-24 18:39:36,false
+40473,10829,web,trade_in_bonus,2024-11-05 02:37:39,true
+40474,12638,WEB,0_apr_event,2025-09-01 20:38:31,false
+40475,14533,walk-in ,service_reminder,2026-06-30 14:10:57,false
+40476,10575,Referal,0_apr_event,2024-08-07 11:08:43,true
+40477,11924,walk-in,service_reminder,2025-12-05 08:56:41,true
+40478,13409,phone,service_reminder,2024-08-27 02:52:23,true
+40479,11909,web,spring_sale,2025-11-06 15:13:53,false
+40480,10855,third_party_site ,0_apr_event,2025-03-12 00:43:15,true
+40481,,walk-in,trade_in_bonus,2025-03-24 11:11:34,true
+40482,12095,WEB,service_reminder,2026-03-18 05:08:48,false
+40483,13822,WEB,service_reminder,2025-05-12 17:03:57,true
+40484,,WEB,spring_sale,2025-01-18 03:55:59,true
+40485,13040,THIRD_PARTY_SITE,spring_sale,2025-05-15 18:06:31,false
+40486,10791,PHONE,0_apr_event,2024-09-12 03:53:45,false
+40487,12446,walk-in ,service_reminder,2025-01-19 04:44:36,false
+40488,11998,walk-in ,0_apr_event,2025-11-27 22:05:24,true
+40489,12691,walk-in,0_apr_event,2026-05-29 20:25:19,true
+40490,13614,third_party_site,trade_in_bonus,2025-07-24 11:15:22,true
+40491,11302,web ,service_reminder,2025-03-13 06:51:12,true
+40492,12571,referral,spring_sale,2025-03-08 20:32:24,false
+40493,12155,referral ,service_reminder,2026-07-07 02:01:39,false
+40494,13660,third_party_site,service_reminder,2026-04-14 15:15:23,false
+40495,11520,web ,0_apr_event,2025-08-14 09:07:09,true
+40496,12962,web ,0_apr_event,2025-01-27 07:47:05,false
+40497,12299,WEB,spring_sale,2025-03-21 19:06:10,true
+40498,14084,REFERRAL,spring_sale,2025-10-16 14:56:41,true
+40499,12110,web ,spring_sale,2026-01-04 06:10:16,false
+40500,14415,web,service_reminder,2025-09-03 20:53:49,true
+40501,12088,Referal,0_apr_event,2025-01-02 00:35:59,false
+40502,10046,web,spring_sale,2025-11-08 06:09:33,false
+40503,,Referal,0_apr_event,2026-05-08 11:09:39,false
+40504,13785,PHONE,0_apr_event,2025-10-08 07:25:31,false
+40505,12960,phone,0_apr_event,2025-07-14 14:26:20,true
+40506,13247,PHONE,0_apr_event,2026-05-24 04:24:20,false
+40507,10682,walk-in,service_reminder,2025-08-07 03:24:23,false
+40508,10731,third_party_site,trade_in_bonus,2024-11-03 05:34:46,true
+40509,13147,REFERRAL,0_apr_event,2026-04-24 15:43:32,true
+40510,10963,referral ,spring_sale,2025-10-21 18:34:56,false
+40511,12771,web,spring_sale,2025-11-08 06:22:16,false
+40512,15177,phone ,service_reminder,2025-11-26 21:32:24,false
+40513,13173,walk-in,spring_sale,2024-08-14 08:12:52,true
+40514,11281,walk-in,service_reminder,2025-08-13 05:56:00,false
+40515,11329,referral ,service_reminder,2025-11-18 20:10:11,true
+40516,12081,referral ,service_reminder,2025-05-03 13:21:13,false
+40517,14138,THIRD_PARTY_SITE,0_apr_event,2025-02-17 07:03:51,false
+40518,14443,WALK-IN,spring_sale,2025-10-22 08:39:06,true
+40519,11984,PHONE,0_apr_event,2025-08-30 23:12:33,false
+40520,14880,walk-in,0_apr_event,2025-03-25 22:27:43,true
+40521,12181,referral ,spring_sale,2026-06-07 23:44:42,true
+40522,12536,phone ,0_apr_event,2024-08-18 13:57:48,false
+40523,14752,walk-in ,service_reminder,2024-07-22 21:13:07,true
+40524,13905,walk-in,service_reminder,2025-10-29 00:43:41,false
+40525,12087,third_party_site,trade_in_bonus,2025-01-12 16:56:27,false
+40526,12635,walk-in ,trade_in_bonus,2025-04-25 10:12:45,false
+40527,10817,third_party_site,spring_sale,2025-12-29 15:33:40,false
+40528,14410,third_party_site,0_apr_event,2025-07-02 00:14:51,false
+40529,13750,phone,service_reminder,2024-10-08 15:53:53,true
+40530,10669,third_party_site,trade_in_bonus,2025-12-29 13:49:42,false
+40531,12074,walk-in ,trade_in_bonus,2026-03-12 08:19:46,true
+40532,14747,phone,0_apr_event,2024-12-23 20:04:20,false
+40533,13666,referral,spring_sale,2024-08-18 03:39:21,false
+40534,13573,walk-in,service_reminder,2025-05-12 06:08:27,true
+40535,12274,phone,service_reminder,2024-10-04 17:56:34,true
+40536,12912,phone,spring_sale,2026-04-29 15:01:13,true
+40537,10150,web ,0_apr_event,2025-04-26 19:11:20,false
+40538,12312,web ,service_reminder,2025-12-15 10:04:23,false
+40539,13191,walk-in,0_apr_event,2024-09-29 04:47:02,false
+40540,14503,referral ,0_apr_event,2025-03-08 09:18:40,false
+40541,13879,phone,trade_in_bonus,2024-10-20 23:06:38,true
+40542,12225,walk-in,0_apr_event,2025-01-15 18:08:42,true
+40543,12798,walk-in,service_reminder,2025-12-16 13:39:13,true
+40544,13852,WALK-IN,service_reminder,2025-06-04 21:26:07,false
+40545,14158,third_party_site,spring_sale,2025-05-19 18:07:26,false
+40546,11291,phone,spring_sale,2026-04-17 15:58:47,true
+40547,13471,third_party_site,trade_in_bonus,2025-01-20 19:23:55,false
+40548,12509,REFERRAL,0_apr_event,2024-12-26 14:05:06,true
+40549,10379,web,service_reminder,2025-06-07 13:44:52,true
+40550,11835,phone,service_reminder,2024-10-22 08:57:42,false
+40551,14023,web,0_apr_event,2025-08-13 23:37:41,true
+40552,13192,walk-in,0_apr_event,2026-06-13 16:57:10,true
+40553,13857,walk-in ,trade_in_bonus,2025-09-20 07:14:32,false
+40554,,phone,0_apr_event,2025-02-11 17:59:11,false
+40555,14344,web,trade_in_bonus,2025-09-14 19:16:54,true
+40556,10378,web,trade_in_bonus,2026-04-12 23:30:19,true
+40557,12523,third_party_site,trade_in_bonus,2025-02-28 05:41:14,true
+40558,13935,REFERRAL,trade_in_bonus,2024-08-17 15:10:45,false
+40559,11439,referral ,spring_sale,2025-11-26 13:12:37,true
+40560,13108,third_party_site ,spring_sale,2025-11-07 00:49:44,true
+40561,11430,third_party_site ,service_reminder,2024-10-26 20:44:24,false
+40562,,web,trade_in_bonus,2026-02-14 08:22:39,false
+40563,10774,Referal,0_apr_event,2026-02-27 06:23:47,false
+40564,10673,walk-in,trade_in_bonus,2026-06-01 10:27:25,true
+40565,10488,Referal,service_reminder,2024-12-01 21:27:17,false
+40566,12080,WALK-IN,0_apr_event,2026-02-21 19:30:35,true
+40567,11703,phone ,0_apr_event,2025-01-22 19:05:58,true
+40568,12457,PHONE,service_reminder,2024-07-13 18:24:05,false
+40569,15144,third_party_site ,spring_sale,2025-01-13 17:38:07,true
+40570,,walk-in,service_reminder,2025-01-12 12:53:28,true
+40571,10650,PHONE,spring_sale,2025-12-11 05:44:13,false
+40572,10382,referral ,trade_in_bonus,2025-01-04 09:03:55,true
+40573,15058,THIRD_PARTY_SITE,0_apr_event,2026-02-05 11:44:53,false
+40574,14187,walk-in,trade_in_bonus,2024-11-02 20:35:27,false
+40575,13780,PHONE,0_apr_event,2025-01-19 19:50:21,true
+40576,14314,phone,trade_in_bonus,2024-11-21 13:39:00,false
+40577,14079,third_party_site,spring_sale,2025-07-27 19:00:58,true
+40578,13630,PHONE,service_reminder,2025-03-21 12:22:56,false
+40579,12308,web ,service_reminder,2025-02-10 00:31:35,true
+40580,14209,WEB,spring_sale,2026-01-19 02:28:42,false
+40581,,web,service_reminder,2026-05-24 20:33:36,true
+40582,11104,third_party_site ,trade_in_bonus,2025-05-03 13:48:08,true
+40583,11475,phone ,service_reminder,2024-09-15 04:28:21,true
+40584,13242,walk-in ,0_apr_event,2026-05-11 03:06:56,true
+40585,11717,REFERRAL,spring_sale,2025-11-10 09:50:28,true
+40586,,web ,0_apr_event,2024-10-24 18:40:48,false
+40587,11846,WEB,service_reminder,2026-02-23 18:59:34,true
+40588,10538,phone ,trade_in_bonus,2026-05-16 21:20:54,true
+40589,13695,Referal,spring_sale,2025-04-14 11:09:28,false
+40590,10056,walk-in,service_reminder,2026-01-05 11:44:17,true
+40591,11934,third_party_site,spring_sale,2026-03-16 10:08:36,true
+40592,10047,web ,trade_in_bonus,2025-07-09 14:44:35,false
+40593,14519,THIRD_PARTY_SITE,trade_in_bonus,2025-10-30 20:31:07,false
+40594,,web,spring_sale,2025-12-05 11:55:21,true
+40595,12742,Referal,service_reminder,2026-02-14 22:50:40,true
+40596,12565,web ,trade_in_bonus,2025-04-06 17:28:02,false
+40597,10340,Referal,spring_sale,2026-02-08 13:27:53,true
+40598,10254,web ,0_apr_event,2024-12-19 19:08:44,true
+40599,12588,walk-in,spring_sale,2026-01-23 13:19:42,false
+40600,15138,phone,trade_in_bonus,2025-11-05 12:11:36,false
+40601,11561,Referal,service_reminder,2025-01-08 10:34:44,false
+40602,12682,referral ,service_reminder,2025-03-27 19:22:42,true
+40603,12867,web ,trade_in_bonus,2024-09-26 17:40:36,true
+40604,12138,web,0_apr_event,2025-07-30 02:54:30,false
+40605,14031,referral ,spring_sale,2026-05-21 22:57:10,true
+40606,14088,web,0_apr_event,2024-07-13 12:53:51,true
+40607,13024,third_party_site,spring_sale,2025-09-12 02:28:52,false
+40608,12706,Referal,spring_sale,2025-05-12 23:02:38,true
+40609,14493,phone ,spring_sale,2026-03-11 19:07:43,false
+40610,12374,web ,0_apr_event,2026-06-23 15:27:42,true
+40611,12135,walk-in,service_reminder,2025-04-20 19:19:15,true
+40612,10497,referral,spring_sale,2025-01-28 21:45:21,false
+40613,11863,phone,trade_in_bonus,2025-02-20 12:51:01,false
+40614,15058,phone,0_apr_event,2025-03-26 09:19:13,true
+40615,13367,third_party_site,0_apr_event,2024-12-08 03:02:16,true
+40616,10046,phone,spring_sale,2024-07-31 12:33:47,false
+40617,10362,phone,0_apr_event,2025-01-22 20:08:41,true
+40618,14725,PHONE,trade_in_bonus,2024-11-17 14:08:08,false
+40619,10859,web ,0_apr_event,2026-01-17 13:10:03,true
+40620,10685,referral,spring_sale,2024-10-24 22:56:30,false
+40621,10659,phone ,spring_sale,2024-08-31 22:24:20,true
+40622,,phone,0_apr_event,2026-04-26 21:18:30,true
+40623,13013,Referal,service_reminder,2025-03-12 14:48:30,true
+40624,13506,phone,spring_sale,2025-05-08 21:41:34,false
+40625,11076,WEB,trade_in_bonus,2025-05-17 03:04:25,true
+40626,10962,REFERRAL,spring_sale,2025-10-30 01:06:41,true
+40627,11298,PHONE,0_apr_event,2025-06-15 20:29:01,false
+40628,11608,phone,0_apr_event,2025-10-29 17:44:50,true
+40629,14721,WEB,spring_sale,2025-07-29 09:10:55,false
+40630,12193,Referal,service_reminder,2025-04-12 01:13:34,true
+40631,11354,Referal,trade_in_bonus,2024-08-04 02:01:27,true
+40632,13400,web,spring_sale,2024-09-24 23:11:08,true
+40633,10316,web,trade_in_bonus,2024-11-02 09:28:37,true
+40634,13263,walk-in,spring_sale,2024-09-24 19:51:32,true
+40635,12762,third_party_site ,spring_sale,2024-09-23 16:36:37,false
+40636,13590,phone,service_reminder,2024-12-11 11:17:07,false
+40637,14691,phone ,service_reminder,2025-10-30 15:16:27,true
+40638,10446,walk-in ,trade_in_bonus,2026-06-01 15:49:08,false
+40639,11541,walk-in,trade_in_bonus,2024-09-08 00:56:55,true
+40640,12261,referral,spring_sale,2025-04-23 15:13:32,false
+40641,10151,third_party_site,service_reminder,2026-05-28 15:47:21,true
+40642,14579,phone,trade_in_bonus,2025-10-08 23:16:35,false
+40643,10459,web,service_reminder,2025-08-30 01:42:28,false
+40644,12400,third_party_site ,trade_in_bonus,2026-03-23 11:20:25,true
+40645,10048,Referal,spring_sale,2025-06-13 03:43:27,true
+40646,12566,phone,service_reminder,2024-12-14 19:33:29,true
+40647,14631,walk-in,0_apr_event,2024-09-18 02:17:59,true
+40648,13830,third_party_site,0_apr_event,2025-04-08 11:52:48,true
+40649,13850,WEB,service_reminder,2025-11-17 10:41:30,true
+40650,13732,phone ,0_apr_event,2024-08-09 00:43:16,true
+40651,10036,web ,spring_sale,2024-08-24 13:24:50,true
+40652,14469,Referal,0_apr_event,2026-05-19 21:15:50,false
+40653,14442,third_party_site,0_apr_event,2026-03-09 12:25:39,true
+40654,10200,PHONE,trade_in_bonus,2026-01-06 10:16:11,false
+40655,13641,walk-in ,0_apr_event,2025-10-30 21:26:33,true
+40656,13035,walk-in ,spring_sale,2024-08-01 18:02:35,false
+40657,10460,WEB,0_apr_event,2025-03-02 13:55:11,true
+40658,10661,web,service_reminder,2025-01-28 19:02:04,false
+40659,,referral,trade_in_bonus,2024-10-17 22:04:47,true
+40660,12190,web,0_apr_event,2025-04-17 17:50:41,true
+40661,10835,walk-in,spring_sale,2025-04-23 06:58:11,false
+40662,10342,referral ,spring_sale,2025-06-21 11:38:47,false
+40663,14946,WALK-IN,trade_in_bonus,2026-05-02 12:25:10,false
+40664,15120,walk-in,0_apr_event,2024-11-02 06:23:38,false
+40665,13814,THIRD_PARTY_SITE,spring_sale,2026-02-14 08:03:35,true
+40666,11460,walk-in,service_reminder,2025-03-11 21:39:46,true
+40667,11628,phone,service_reminder,2025-11-17 22:24:40,true
+40668,11009,walk-in,trade_in_bonus,2024-10-03 00:50:36,false
+40669,11122,referral,trade_in_bonus,2025-04-16 02:42:59,false
+40670,12353,walk-in,0_apr_event,2025-09-05 03:36:54,true
+40671,12867,walk-in,0_apr_event,2026-06-24 04:45:40,false
+40672,14884,referral ,service_reminder,2025-09-25 13:27:22,true
+40673,14449,third_party_site ,spring_sale,2026-04-12 21:07:23,false
+40674,11907,web,service_reminder,2024-11-06 00:46:40,false
+40675,11965,WEB,trade_in_bonus,2026-04-18 13:00:30,true
+40676,11722,WALK-IN,trade_in_bonus,2025-07-11 10:48:53,true
+40677,13167,WEB,0_apr_event,2026-06-17 18:28:35,true
+40678,11258,phone,0_apr_event,2024-09-13 05:06:55,true
+40679,,REFERRAL,service_reminder,2024-11-28 08:25:10,false
+40680,12484,phone,service_reminder,2025-04-08 21:35:58,true
+40681,11313,phone ,service_reminder,2026-03-07 10:06:27,false
+40682,11660,phone,0_apr_event,2025-10-27 18:35:55,true
+40683,13978,walk-in,trade_in_bonus,2026-06-09 15:59:04,true
+40684,10354,third_party_site,spring_sale,2025-07-25 06:49:08,true
+40685,14758,THIRD_PARTY_SITE,0_apr_event,2024-10-23 15:32:39,false
+40686,15169,phone ,spring_sale,2025-11-06 09:13:51,false
+40687,10027,third_party_site,trade_in_bonus,2025-11-28 08:43:22,false
+40688,11425,third_party_site,service_reminder,2026-02-22 20:39:56,false
+40689,,phone,spring_sale,2025-06-07 23:43:40,true
+40690,10385,REFERRAL,0_apr_event,2025-08-16 14:26:17,true
+40691,12182,phone ,spring_sale,2024-07-23 07:08:00,false
+40692,10616,PHONE,trade_in_bonus,2025-03-05 11:42:46,false
+40693,15007,third_party_site,service_reminder,2025-12-28 05:12:45,true
+40694,10339,third_party_site,trade_in_bonus,2024-09-12 15:28:25,false
+40695,10036,third_party_site ,0_apr_event,2024-07-23 14:57:26,false
+40696,13736,third_party_site,0_apr_event,2026-05-20 17:40:18,true
+40697,13412,Referal,service_reminder,2026-05-04 23:31:03,true
+40698,11498,WEB,spring_sale,2024-08-15 20:56:18,true
+40699,13462,phone ,spring_sale,2024-09-13 07:06:56,false
+40700,14964,third_party_site,0_apr_event,2025-06-25 01:23:20,true
+40701,14352,phone,trade_in_bonus,2025-04-13 00:30:36,false
+40702,12740,walk-in,spring_sale,2026-01-05 10:53:25,true
+40703,14309,third_party_site,spring_sale,2026-03-16 23:54:58,false
+40704,10658,referral ,service_reminder,2024-11-06 06:26:29,true
+40705,13602,walk-in,0_apr_event,2026-02-28 21:34:43,true
+40706,10979,phone ,service_reminder,2024-10-02 13:05:21,true
+40707,14868,third_party_site ,0_apr_event,2025-05-09 22:51:54,true
+40708,10912,PHONE,service_reminder,2026-03-14 00:26:50,true
+40709,10320,Referal,service_reminder,2026-04-07 22:45:48,false
+40710,14325,referral,service_reminder,2024-08-09 01:16:45,false
+40711,13285,referral,spring_sale,2025-04-22 20:51:22,false
+40712,12411,phone,trade_in_bonus,2024-07-14 03:28:01,true
+40713,13980,third_party_site ,service_reminder,2026-02-27 06:36:04,false
+40714,12590,referral ,trade_in_bonus,2026-01-05 01:49:43,false
+40715,13457,phone,trade_in_bonus,2025-04-21 08:15:11,true
+40716,10450,PHONE,trade_in_bonus,2026-05-23 20:57:26,false
+40717,12223,web,spring_sale,2025-04-02 10:19:44,true
+40718,12129,WEB,trade_in_bonus,2024-10-05 04:24:07,false
+40719,11912,third_party_site,trade_in_bonus,2025-06-03 09:14:11,true
+40720,11663,third_party_site,trade_in_bonus,2026-02-11 01:55:25,true
+40721,12072,phone,trade_in_bonus,2024-07-29 21:03:47,false
+40722,10712,WEB,0_apr_event,2024-07-13 00:49:59,false
+40723,12202,third_party_site,0_apr_event,2026-03-26 10:53:05,true
+40724,10649,REFERRAL,service_reminder,2025-01-06 16:04:02,true
+40725,15136,referral,service_reminder,2026-05-26 20:28:09,true
+40726,10633,walk-in,service_reminder,2025-04-08 09:37:51,false
+40727,10298,third_party_site,spring_sale,2024-11-21 00:05:38,false
+40728,10298,third_party_site,spring_sale,2025-11-07 19:01:24,true
+40729,13521,phone ,0_apr_event,2024-10-18 01:55:27,false
+40730,12548,walk-in,spring_sale,2026-02-22 09:42:40,true
+40731,14252,Referal,trade_in_bonus,2025-08-19 09:50:43,false
+40732,11281,web ,trade_in_bonus,2024-10-13 10:38:32,true
+40733,14505,third_party_site,trade_in_bonus,2025-04-14 18:02:14,true
+40734,11625,walk-in,service_reminder,2025-09-07 07:13:49,false
+40735,13276,third_party_site,spring_sale,2026-04-16 16:21:25,false
+40736,14360,phone,spring_sale,2025-06-06 15:12:41,false
+40737,12072,WEB,0_apr_event,2024-11-23 07:26:04,true
+40738,13336,REFERRAL,trade_in_bonus,2025-07-31 11:48:42,false
+40739,12108,walk-in ,0_apr_event,2025-10-13 13:06:09,false
+40740,13532,referral,0_apr_event,2024-07-07 15:52:54,true
+40741,14017,referral,spring_sale,2026-01-16 04:56:33,false
+40742,,third_party_site ,0_apr_event,2026-06-02 06:49:08,true
+40743,14501,third_party_site,0_apr_event,2026-02-01 02:45:30,false
+40744,14596,phone ,trade_in_bonus,2026-01-03 23:51:20,true
+40745,10572,referral ,trade_in_bonus,2024-08-12 20:39:43,true
+40746,10408,web,0_apr_event,2025-05-24 12:08:34,true
+40747,,WALK-IN,service_reminder,2026-04-08 18:50:54,false
+40748,12416,REFERRAL,trade_in_bonus,2025-11-10 19:35:13,true
+40749,12533,Referal,service_reminder,2025-07-06 08:16:51,false
+40750,12314,web ,service_reminder,2024-10-13 23:01:40,false
+40751,13223,Referal,trade_in_bonus,2026-04-11 03:23:36,true
+40752,12424,web,service_reminder,2024-08-26 05:29:34,false
+40753,10611,web,service_reminder,2025-04-18 16:00:35,false
+40754,11424,THIRD_PARTY_SITE,trade_in_bonus,2026-04-05 04:10:12,true
+40755,12128,walk-in,trade_in_bonus,2025-06-02 07:25:00,true
+40756,14145,Referal,spring_sale,2025-04-25 20:14:44,true
+40757,14851,web,0_apr_event,2024-11-24 19:26:10,false
+40758,14694,third_party_site,0_apr_event,2026-02-28 14:21:39,false
+40759,12874,phone ,spring_sale,2025-08-11 14:31:49,true
+40760,11827,REFERRAL,0_apr_event,2025-06-23 05:51:43,false
+40761,13829,web,service_reminder,2024-09-07 04:03:18,true
+40762,11961,third_party_site ,0_apr_event,2025-07-27 10:44:52,true
+40763,13685,third_party_site ,0_apr_event,2024-08-13 03:22:42,true
+40764,11715,WEB,trade_in_bonus,2025-11-26 16:24:33,true
+40765,10585,walk-in,0_apr_event,2025-12-08 21:33:46,true
+40766,14186,web ,0_apr_event,2024-11-29 13:26:20,false
+40767,14536,THIRD_PARTY_SITE,service_reminder,2026-05-02 13:50:44,false
+40768,10478,referral,service_reminder,2025-11-27 01:01:41,true
+40769,10164,PHONE,service_reminder,2025-09-22 13:46:11,true
+40770,13316,walk-in ,trade_in_bonus,2025-10-29 18:31:10,true
+40771,13712,walk-in,service_reminder,2026-01-25 07:42:54,true
+40772,14023,web,trade_in_bonus,2025-01-08 19:58:48,false
+40773,14237,phone,0_apr_event,2025-11-12 07:15:56,true
+40774,11564,third_party_site,trade_in_bonus,2025-12-06 05:54:23,false
+40775,10892,third_party_site ,0_apr_event,2025-09-26 05:25:51,false
+40776,14803,THIRD_PARTY_SITE,0_apr_event,2025-06-30 21:44:00,false
+40777,14659,WALK-IN,service_reminder,2025-10-02 03:51:57,true
+40778,10147,web,0_apr_event,2026-06-29 05:43:49,true
+40779,14730,REFERRAL,service_reminder,2024-08-25 04:04:10,false
+40780,14452,phone,0_apr_event,2024-12-11 08:35:28,false
+40781,11582,walk-in,service_reminder,2025-11-01 01:02:25,true
+40782,11747,Referal,0_apr_event,2025-02-26 15:43:14,false
+40783,15049,phone,service_reminder,2025-01-19 23:38:51,false
+40784,10415,walk-in,spring_sale,2025-08-13 09:42:25,true
+40785,11406,phone,0_apr_event,2026-05-24 14:30:03,false
+40786,14275,phone,spring_sale,2025-03-22 13:06:34,false
+40787,11026,REFERRAL,spring_sale,2025-07-11 06:09:58,false
+40788,15031,web ,trade_in_bonus,2025-08-03 22:10:38,false
+40789,13139,THIRD_PARTY_SITE,trade_in_bonus,2024-10-05 12:59:51,false
+40790,11375,phone ,service_reminder,2025-04-20 23:16:56,true
+40791,14224,third_party_site,0_apr_event,2026-07-03 00:48:04,true
+40792,12851,walk-in ,trade_in_bonus,2025-06-14 14:06:34,false
+40793,10216,phone ,service_reminder,2025-06-19 06:11:23,true
+40794,12544,referral ,0_apr_event,2025-02-03 06:08:47,true
+40795,14625,phone ,0_apr_event,2025-07-22 03:13:32,false
+40796,12153,walk-in ,spring_sale,2024-11-16 03:01:50,true
+40797,13660,web ,service_reminder,2026-05-14 01:30:00,true
+40798,13392,third_party_site ,spring_sale,2025-11-28 11:36:38,false
+40799,10900,THIRD_PARTY_SITE,0_apr_event,2024-12-09 21:01:51,true
+40800,10972,WEB,spring_sale,2026-03-27 08:34:07,false
+40801,10156,phone ,spring_sale,2025-10-08 09:23:30,false
+40802,13058,phone,spring_sale,2026-03-30 00:24:00,false
+40803,13762,phone,spring_sale,2026-05-21 14:26:47,false
+40804,12215,walk-in ,spring_sale,2025-10-10 19:14:12,true
+40805,,walk-in,0_apr_event,2024-10-13 17:43:31,false
+40806,12492,phone ,service_reminder,2025-12-09 12:14:04,false
+40807,13752,WALK-IN,service_reminder,2026-05-25 06:29:52,false
+40808,10685,web ,spring_sale,2025-05-04 12:19:50,false
+40809,15033,WEB,trade_in_bonus,2025-10-27 07:05:05,true
+40810,12433,PHONE,spring_sale,2025-06-08 17:14:17,false
+40811,10192,phone,service_reminder,2024-08-27 21:20:44,false
+40812,13792,walk-in,0_apr_event,2024-09-22 09:17:35,true
+40813,12428,walk-in,service_reminder,2025-06-05 22:14:41,true
+40814,13424,WALK-IN,spring_sale,2026-03-03 15:13:39,false
+40815,10461,phone,spring_sale,2025-07-05 06:49:39,false
+40816,13255,third_party_site,trade_in_bonus,2025-10-06 13:31:19,false
+40817,13766,web ,spring_sale,2026-04-15 03:02:22,false
+40818,13770,third_party_site,service_reminder,2024-08-02 14:48:27,false
+40819,10852,third_party_site ,service_reminder,2026-05-13 01:58:44,false
+40820,,third_party_site,spring_sale,2024-09-20 04:40:24,false
+40821,13443,WEB,trade_in_bonus,2025-09-10 03:02:58,true
+40822,,phone ,service_reminder,2025-09-20 18:32:20,false
+40823,14417,THIRD_PARTY_SITE,0_apr_event,2025-12-27 12:26:47,true
+40824,15094,phone,service_reminder,2024-11-09 08:36:45,true
+40825,12078,THIRD_PARTY_SITE,trade_in_bonus,2025-12-12 04:05:14,true
+40826,10293,third_party_site,spring_sale,2026-06-30 14:53:24,false
+40827,12728,third_party_site ,spring_sale,2025-10-12 21:29:54,true
+40828,11593,walk-in,service_reminder,2026-03-09 16:26:57,true
+40829,10720,web ,service_reminder,2024-11-13 15:38:54,false
+40830,14276,web ,spring_sale,2025-05-19 15:20:28,true
+40831,11496,Referal,0_apr_event,2025-05-19 10:44:27,true
+40832,13682,web,0_apr_event,2025-06-30 14:05:42,true
+40833,11374,walk-in,0_apr_event,2024-12-15 07:48:51,false
+40834,13844,third_party_site,trade_in_bonus,2025-10-06 18:31:14,true
+40835,15008,web ,spring_sale,2024-12-31 21:19:30,true
+40836,13123,third_party_site,spring_sale,2025-10-09 12:01:31,false
+40837,14868,web ,service_reminder,2024-11-09 21:27:21,false
+40838,12145,web ,spring_sale,2025-05-17 09:24:40,false
+40839,11825,third_party_site ,trade_in_bonus,2026-05-20 14:15:43,false
+40840,10763,WEB,service_reminder,2025-01-24 05:08:55,true
+40841,,third_party_site,spring_sale,2025-10-19 14:46:50,false
+40842,14282,web ,0_apr_event,2025-09-13 23:19:33,true
+40843,13496,phone,spring_sale,2025-04-23 23:07:48,false
+40844,11247,third_party_site ,trade_in_bonus,2026-07-04 19:39:22,true
+40845,13841,web,0_apr_event,2025-10-08 00:24:35,false
+40846,12295,web ,service_reminder,2024-07-10 18:42:24,false
+40847,14829,Referal,trade_in_bonus,2024-11-24 23:20:56,false
+40848,10275,walk-in,trade_in_bonus,2025-01-12 03:08:25,true
+40849,14260,phone,service_reminder,2025-05-08 17:18:55,false
+40850,14988,PHONE,trade_in_bonus,2025-06-30 05:15:21,false
+40851,15192,phone,0_apr_event,2026-03-07 00:36:43,true
+40852,14832,REFERRAL,trade_in_bonus,2026-06-19 06:21:42,false
+40853,14691,web,spring_sale,2025-11-30 07:54:13,true
+40854,13306,WALK-IN,0_apr_event,2025-10-20 11:02:12,true
+40855,13630,phone,spring_sale,2025-11-30 01:59:58,false
+40856,11356,PHONE,trade_in_bonus,2025-01-21 13:45:09,false
+40857,12163,walk-in ,0_apr_event,2026-07-01 02:41:18,true
+40858,14282,web,spring_sale,2026-03-21 15:21:23,false
+40859,12777,phone,0_apr_event,2026-01-16 14:33:52,true
+40860,13037,WEB,0_apr_event,2025-08-18 06:59:21,false
+40861,12036,WALK-IN,service_reminder,2025-03-14 03:35:45,false
+40862,,walk-in,trade_in_bonus,2024-09-26 15:10:41,true
+40863,11367,REFERRAL,trade_in_bonus,2026-04-20 20:31:17,true
+40864,12058,walk-in,trade_in_bonus,2025-01-18 03:14:26,false
+40865,13954,third_party_site,0_apr_event,2026-06-17 05:10:53,false
+40866,10054,PHONE,trade_in_bonus,2024-12-13 15:51:47,false
+40867,,phone ,0_apr_event,2024-12-24 09:11:52,false
+40868,10363,REFERRAL,0_apr_event,2025-04-20 18:41:00,true
+40869,14433,walk-in,trade_in_bonus,2025-11-07 11:17:01,false
+40870,14273,PHONE,trade_in_bonus,2025-04-14 09:28:25,false
+40871,,PHONE,0_apr_event,2024-10-12 06:09:34,false
+40872,13118,web,0_apr_event,2026-06-07 04:02:58,false
+40873,11114,PHONE,trade_in_bonus,2026-06-15 21:18:31,true
+40874,13770,referral,spring_sale,2026-06-28 05:11:07,true
+40875,11112,phone,trade_in_bonus,2024-12-02 06:35:01,false
+40876,12340,phone,0_apr_event,2024-12-02 10:50:10,false
+40877,14464,third_party_site,trade_in_bonus,2024-07-25 02:50:59,false
+40878,13602,third_party_site,spring_sale,2024-08-04 06:38:16,true
+40879,12727,WALK-IN,spring_sale,2024-09-16 13:09:37,true
+40880,11827,third_party_site,0_apr_event,2025-01-06 23:20:06,false
+40881,12980,walk-in,service_reminder,2025-12-26 20:01:40,false
+40882,12722,WEB,0_apr_event,2025-04-25 09:58:25,false
+40883,11385,walk-in,trade_in_bonus,2024-10-09 12:52:40,false
+40884,12101,REFERRAL,service_reminder,2025-10-22 03:40:12,true
+40885,10466,phone,service_reminder,2024-08-06 23:34:06,true
+40886,13544,THIRD_PARTY_SITE,0_apr_event,2025-05-24 00:33:35,false
+40887,13149,THIRD_PARTY_SITE,trade_in_bonus,2026-03-26 17:35:08,true
+40888,11194,third_party_site,spring_sale,2025-03-20 05:02:54,false
+40889,13972,third_party_site ,service_reminder,2025-07-18 21:22:06,true
+40890,12011,PHONE,spring_sale,2025-01-06 23:19:06,false
+40891,12729,PHONE,0_apr_event,2026-03-28 12:03:21,true
+40892,13141,third_party_site ,spring_sale,2025-01-03 03:10:08,true
+40893,11378,third_party_site,service_reminder,2025-06-28 18:22:37,true
+40894,10752,web,spring_sale,2026-04-03 03:21:45,false
+40895,11429,walk-in,spring_sale,2024-07-29 12:21:46,true
+40896,13392,third_party_site,0_apr_event,2026-02-10 09:44:11,false
+40897,12229,walk-in,trade_in_bonus,2025-01-09 10:44:01,true
+40898,11424,phone,service_reminder,2025-07-25 13:31:57,false
+40899,14580,walk-in,spring_sale,2025-03-28 08:21:14,true
+40900,11909,third_party_site ,trade_in_bonus,2025-03-21 02:40:12,true
+40901,13842,third_party_site,0_apr_event,2024-08-05 07:34:40,false
+40902,12142,walk-in,spring_sale,2024-11-16 15:15:37,true
+40903,14306,phone ,service_reminder,2026-03-04 18:28:57,true
+40904,11872,web,trade_in_bonus,2025-08-29 09:53:46,false
+40905,13611,Referal,spring_sale,2026-02-24 08:36:50,true
+40906,11741,WEB,spring_sale,2026-03-25 10:19:53,false
+40907,13669,web ,trade_in_bonus,2025-01-05 11:31:48,true
+40908,14047,referral,spring_sale,2025-09-06 18:30:56,false
+40909,11367,web,trade_in_bonus,2025-10-05 02:49:46,true
+40910,10954,phone ,trade_in_bonus,2024-12-24 23:30:27,false
+40911,13247,web,spring_sale,2025-06-30 09:23:39,false
+40912,10349,web,service_reminder,2025-09-08 12:49:35,true
+40913,10528,walk-in,trade_in_bonus,2024-11-09 21:54:35,true
+40914,10148,WEB,service_reminder,2026-02-24 14:32:04,true
+40915,14635,third_party_site,0_apr_event,2025-03-12 09:38:28,true
+40916,12272,phone,spring_sale,2026-06-10 12:33:48,true
+40917,10294,phone,trade_in_bonus,2026-04-28 10:26:47,false
+40918,15184,referral ,spring_sale,2024-09-12 11:19:59,true
+40919,11677,REFERRAL,trade_in_bonus,2025-08-22 04:39:09,true
+40920,10918,PHONE,service_reminder,2025-01-28 01:11:46,true
+40921,10559,web ,0_apr_event,2025-11-18 23:43:31,false
+40922,13976,walk-in,0_apr_event,2024-10-01 18:28:07,true
+40923,12769,WEB,trade_in_bonus,2026-05-04 16:26:59,true
+40924,,phone,trade_in_bonus,2025-02-28 00:51:51,true
+40925,14805,walk-in ,spring_sale,2024-07-18 12:25:35,false
+40926,11651,Referal,service_reminder,2026-03-01 03:27:41,false
+40927,14616,WEB,service_reminder,2025-05-07 15:17:40,true
+40928,14240,Referal,0_apr_event,2025-01-28 19:56:52,true
+40929,10829,third_party_site ,spring_sale,2026-03-21 05:33:05,true
+40930,,third_party_site ,spring_sale,2026-02-19 13:31:10,false
+40931,13090,phone ,spring_sale,2025-08-02 18:24:23,true
+40932,13527,THIRD_PARTY_SITE,spring_sale,2026-05-18 11:02:22,false
+40933,10045,WEB,0_apr_event,2025-11-09 02:51:30,false
+40934,12956,third_party_site ,service_reminder,2026-04-06 21:31:18,false
+40935,10481,web,spring_sale,2025-01-14 23:31:03,true
+40936,10018,web,0_apr_event,2026-03-04 11:31:52,true
+40937,14486,third_party_site,service_reminder,2025-08-26 04:46:36,true
+40938,10919,phone ,spring_sale,2024-11-24 11:47:36,false
+40939,10983,THIRD_PARTY_SITE,service_reminder,2025-11-07 13:16:22,false
+40940,12903,web ,service_reminder,2025-06-08 19:25:30,true
+40941,11307,walk-in ,trade_in_bonus,2025-09-15 18:03:47,false
+40942,14407,third_party_site,trade_in_bonus,2024-09-23 07:52:08,true
+40943,10029,Referal,spring_sale,2025-06-11 20:38:54,true
+40944,13142,REFERRAL,0_apr_event,2024-07-30 07:10:08,false
+40945,12420,web ,0_apr_event,2026-06-26 05:05:46,true
+40946,13843,web,0_apr_event,2025-11-14 22:51:26,false
+40947,12430,referral ,0_apr_event,2026-01-03 23:14:57,true
+40948,10418,WEB,spring_sale,2025-05-28 07:49:54,false
+40949,12868,Referal,trade_in_bonus,2025-05-02 17:36:13,false
+40950,12084,walk-in,trade_in_bonus,2025-05-22 06:56:13,false
+40951,15155,web,spring_sale,2024-11-14 21:28:32,true
+40952,10465,third_party_site,0_apr_event,2025-03-29 14:42:53,false
+40953,13621,WEB,trade_in_bonus,2025-10-26 21:24:11,false
+40954,,referral,service_reminder,2025-08-10 03:34:55,true
+40955,10105,WALK-IN,0_apr_event,2024-12-28 21:09:49,true
+40956,11657,WEB,0_apr_event,2025-09-22 14:33:18,true
+40957,11528,walk-in,0_apr_event,2024-11-10 08:38:38,false
+40958,14029,referral ,spring_sale,2025-03-15 05:12:50,true
+40959,13680,third_party_site,0_apr_event,2025-08-06 22:59:11,false
+40960,14536,web,trade_in_bonus,2026-02-20 20:33:28,true
+40961,15006,phone,spring_sale,2024-10-12 20:33:46,true
+40962,13468,Referal,spring_sale,2025-11-23 06:23:12,true
+40963,13136,Referal,0_apr_event,2026-04-30 01:46:53,false
+40964,13929,phone ,service_reminder,2025-01-26 14:18:16,false
+40965,12711,web ,0_apr_event,2026-05-20 12:53:54,true
+40966,10637,REFERRAL,trade_in_bonus,2026-01-02 16:12:44,false
+40967,10128,THIRD_PARTY_SITE,service_reminder,2024-10-02 07:03:10,true
+40968,,third_party_site ,0_apr_event,2025-01-21 09:49:31,true
+40969,14332,walk-in ,0_apr_event,2025-08-25 15:59:12,true
+40970,,walk-in,0_apr_event,2025-01-08 21:52:15,true
+40971,11001,third_party_site,0_apr_event,2024-08-28 04:27:26,true
+40972,11681,third_party_site,0_apr_event,2024-08-19 10:59:08,true
+40973,,phone,trade_in_bonus,2024-12-31 16:34:46,true
+40974,14435,walk-in,trade_in_bonus,2024-09-15 20:34:25,false
+40975,,phone,service_reminder,2024-11-15 13:58:49,false
+40976,10534,third_party_site,spring_sale,2026-06-14 06:30:10,false
+40977,,phone,service_reminder,2026-02-17 21:35:12,true
+40978,13974,referral ,0_apr_event,2026-01-03 20:46:59,false
+40979,,phone,0_apr_event,2025-10-06 05:24:10,true
+40980,13556,PHONE,0_apr_event,2025-12-12 21:51:03,true
+40981,15192,referral ,service_reminder,2025-04-08 16:51:32,false
+40982,12577,third_party_site,trade_in_bonus,2026-03-26 01:13:59,false
+40983,13351,WALK-IN,service_reminder,2025-01-11 02:57:44,true
+40984,12167,walk-in,spring_sale,2024-09-15 23:06:48,true
+40985,15200,third_party_site,spring_sale,2026-06-25 17:31:20,false
+40986,12631,web ,spring_sale,2026-05-04 17:07:05,true
+40987,10173,phone,trade_in_bonus,2025-01-19 12:37:33,true
+40988,14154,phone,spring_sale,2025-09-20 20:31:29,false
+40989,,referral,spring_sale,2025-05-10 12:02:20,false
+40990,11312,REFERRAL,trade_in_bonus,2025-02-08 22:56:44,false
+40991,13617,REFERRAL,service_reminder,2026-03-11 09:43:36,true
+40992,10552,walk-in,0_apr_event,2025-04-19 06:03:40,true
+40993,11544,Referal,spring_sale,2025-03-07 16:09:35,false
+40994,11171,phone,spring_sale,2024-12-30 11:43:07,true
+40995,12351,phone,trade_in_bonus,2025-10-05 21:46:02,true
+40996,12092,phone,trade_in_bonus,2025-07-24 18:53:41,false
+40997,12299,referral ,service_reminder,2026-05-12 02:01:08,false
+40998,11590,web,service_reminder,2026-06-28 11:35:36,false
+40999,13314,PHONE,service_reminder,2024-12-23 06:44:25,true
+41000,,third_party_site ,trade_in_bonus,2025-09-14 19:25:26,true
+41001,,referral ,service_reminder,2025-03-06 13:57:27,true
+41002,13552,web,0_apr_event,2025-04-27 13:11:45,true
+41003,15086,WEB,0_apr_event,2024-07-15 08:35:41,false
+41004,11513,THIRD_PARTY_SITE,service_reminder,2025-04-16 14:15:46,true
+41005,12149,phone,service_reminder,2026-03-25 14:36:12,true
+41006,13555,walk-in,0_apr_event,2025-09-29 07:39:03,true
+41007,14230,WEB,service_reminder,2025-07-09 16:50:22,true
+41008,14829,walk-in,0_apr_event,2024-08-27 18:24:31,false
+41009,,walk-in,trade_in_bonus,2026-06-30 12:34:42,false
+41010,10663,phone ,service_reminder,2025-05-06 03:15:38,false
+41011,11515,PHONE,service_reminder,2025-07-17 08:21:26,true
+41012,11916,PHONE,trade_in_bonus,2025-03-29 01:18:42,false
+41013,14575,web,0_apr_event,2024-12-27 12:37:58,false
+41014,14749,walk-in ,trade_in_bonus,2026-02-22 11:19:48,true
+41015,10724,walk-in,service_reminder,2025-11-19 04:46:18,true
+41016,11954,walk-in ,spring_sale,2025-11-04 11:51:45,false
+41017,13728,phone,trade_in_bonus,2025-01-31 23:46:32,false
+41018,10118,PHONE,service_reminder,2025-11-11 23:59:54,false
+41019,10582,web ,spring_sale,2025-07-18 01:01:40,true
+41020,13420,phone,trade_in_bonus,2025-02-21 14:14:06,true
+41021,15192,walk-in ,trade_in_bonus,2025-07-22 20:36:04,true
+41022,11272,walk-in,spring_sale,2026-06-15 20:29:41,false
+41023,12854,walk-in ,trade_in_bonus,2026-01-19 23:48:10,false
+41024,11218,WALK-IN,spring_sale,2026-06-10 10:51:15,false
+41025,12462,third_party_site,spring_sale,2025-10-16 11:07:38,true
+41026,11305,walk-in,service_reminder,2025-02-20 21:12:23,false
+41027,10529,third_party_site ,service_reminder,2026-06-28 07:49:19,false
+41028,,web ,spring_sale,2025-03-15 07:35:02,true
+41029,10008,referral ,service_reminder,2025-10-08 09:44:21,true
+41030,11299,WEB,service_reminder,2026-02-06 20:55:17,true
+41031,13658,referral ,service_reminder,2025-10-12 01:57:00,true
+41032,13676,third_party_site,spring_sale,2024-12-24 04:52:36,false
+41033,11065,phone,service_reminder,2025-03-03 16:46:22,true
+41034,11543,third_party_site ,spring_sale,2026-02-24 11:08:23,true
+41035,14662,third_party_site,service_reminder,2026-04-03 02:27:32,false
+41036,12391,web,0_apr_event,2026-05-06 02:48:28,true
+41037,13402,PHONE,trade_in_bonus,2024-11-23 22:25:02,false
+41038,13044,phone,0_apr_event,2025-01-08 16:18:07,false
+41039,13948,phone,service_reminder,2025-02-11 12:02:22,false
+41040,14993,referral ,trade_in_bonus,2026-01-06 06:36:01,false
+41041,14203,walk-in,0_apr_event,2025-03-29 00:00:15,false
+41042,14634,WALK-IN,service_reminder,2025-09-27 23:51:59,true
+41043,12201,referral ,spring_sale,2026-02-24 22:39:44,true
+41044,13195,phone,trade_in_bonus,2025-12-07 12:33:10,true
+41045,14236,walk-in ,spring_sale,2026-03-12 23:46:38,false
+41046,10028,walk-in,service_reminder,2025-01-15 14:04:03,true
+41047,14826,referral,trade_in_bonus,2024-09-25 16:56:56,true
+41048,14022,referral,trade_in_bonus,2025-02-03 12:40:06,false
+41049,14497,web,0_apr_event,2026-04-26 09:25:23,false
+41050,10125,third_party_site,spring_sale,2024-09-07 00:25:32,false
+41051,10026,PHONE,trade_in_bonus,2026-02-11 00:41:16,true
+41052,15100,referral,trade_in_bonus,2024-12-24 04:04:13,false
+41053,14818,REFERRAL,0_apr_event,2025-11-18 09:06:48,true
+41054,13306,Referal,0_apr_event,2025-10-09 19:59:56,false
+41055,12469,third_party_site,trade_in_bonus,2026-04-22 20:04:02,true
+41056,10089,phone,0_apr_event,2025-05-30 05:05:11,false
+41057,12764,Referal,trade_in_bonus,2024-10-23 03:51:18,false
+41058,14688,phone,spring_sale,2025-09-25 01:06:42,false
+41059,10954,phone,0_apr_event,2024-10-09 15:39:27,true
+41060,13609,phone,spring_sale,2025-12-25 20:07:23,true
+41061,13069,phone,spring_sale,2025-04-28 12:37:28,true
+41062,11886,phone,0_apr_event,2026-03-27 08:33:04,false
+41063,12966,Referal,spring_sale,2025-05-28 21:11:54,false
+41064,12199,walk-in,spring_sale,2024-09-05 15:03:48,false
+41065,14300,THIRD_PARTY_SITE,0_apr_event,2025-09-16 22:21:03,false
+41066,13090,web,service_reminder,2024-09-02 11:23:49,false
+41067,10297,referral,0_apr_event,2024-12-18 00:33:21,true
+41068,11828,Referal,0_apr_event,2025-08-28 18:33:47,false
+41069,13198,WEB,service_reminder,2025-10-15 23:45:15,true
+41070,11296,THIRD_PARTY_SITE,spring_sale,2025-07-24 17:27:10,false
+41071,10575,walk-in,trade_in_bonus,2024-10-19 00:12:35,false
+41072,12651,Referal,spring_sale,2024-12-12 08:10:02,true
+41073,12807,phone,service_reminder,2024-10-11 02:41:48,true
+41074,10471,PHONE,service_reminder,2025-09-17 18:47:36,false
+41075,14317,walk-in,spring_sale,2025-05-08 14:44:58,false
+41076,10431,referral,trade_in_bonus,2026-01-19 23:47:55,false
+41077,13959,phone,0_apr_event,2024-07-19 04:02:24,true
+41078,11087,Referal,service_reminder,2024-08-29 23:12:23,true
+41079,14828,phone,0_apr_event,2026-04-12 04:41:44,false
+41080,14773,WEB,spring_sale,2025-08-28 12:23:26,false
+41081,10196,walk-in ,0_apr_event,2025-08-07 04:59:03,true
+41082,14329,walk-in,service_reminder,2024-09-17 06:37:15,false
+41083,10992,walk-in,service_reminder,2025-10-28 07:11:07,false
+41084,14473,third_party_site,service_reminder,2026-05-15 20:00:58,true
+41085,13924,third_party_site,trade_in_bonus,2026-05-02 08:45:12,true
+41086,12434,WEB,0_apr_event,2026-04-09 05:00:02,true
+41087,15106,referral,0_apr_event,2025-11-10 06:53:55,false
+41088,12285,walk-in,spring_sale,2026-03-11 17:26:24,false
+41089,12459,referral ,trade_in_bonus,2026-04-16 09:10:08,false
+41090,10523,web ,0_apr_event,2024-12-17 23:37:10,false
+41091,11337,third_party_site,0_apr_event,2026-05-18 01:50:30,true
+41092,10741,THIRD_PARTY_SITE,spring_sale,2026-04-01 19:58:34,false
+41093,10060,walk-in,trade_in_bonus,2025-10-30 16:00:31,true
+41094,13391,third_party_site,spring_sale,2025-12-15 13:36:07,false
+41095,13935,phone,service_reminder,2025-06-16 08:40:15,false
+41096,,WALK-IN,trade_in_bonus,2025-03-05 05:54:55,false
+41097,13702,third_party_site,0_apr_event,2024-08-10 05:21:22,false
+41098,10754,phone,spring_sale,2024-10-08 18:10:04,false
+41099,13330,phone,spring_sale,2026-05-29 10:09:12,false
+41100,11856,third_party_site,trade_in_bonus,2024-08-25 08:17:46,true
+41101,11622,walk-in,trade_in_bonus,2025-01-25 14:10:55,false
+41102,15038,third_party_site,0_apr_event,2024-07-18 02:28:55,true
+41103,13297,phone ,0_apr_event,2025-11-02 14:43:09,false
+41104,12563,walk-in,0_apr_event,2024-12-11 11:50:34,false
+41105,12036,referral ,0_apr_event,2024-08-06 16:54:46,true
+41106,13810,PHONE,spring_sale,2024-12-22 14:31:31,true
+41107,11447,THIRD_PARTY_SITE,0_apr_event,2026-06-22 16:55:38,true
+41108,10194,THIRD_PARTY_SITE,spring_sale,2026-06-17 13:19:47,false
+41109,13157,referral,0_apr_event,2024-08-22 03:43:11,false
+41110,13493,third_party_site,spring_sale,2025-05-01 08:39:22,true
+41111,14925,WALK-IN,trade_in_bonus,2026-05-29 13:27:27,true
+41112,12590,walk-in ,spring_sale,2024-07-09 13:09:18,false
+41113,11007,Referal,0_apr_event,2025-05-15 10:57:37,false
+41114,11192,phone,service_reminder,2026-03-23 13:54:27,true
+41115,11430,phone,trade_in_bonus,2025-05-09 18:32:56,true
+41116,12693,phone ,trade_in_bonus,2026-03-23 14:44:46,true
+41117,12194,referral ,service_reminder,2025-11-28 12:08:55,false
+41118,10688,PHONE,0_apr_event,2026-02-06 03:27:40,true
+41119,12305,web,trade_in_bonus,2024-07-28 13:32:28,true
+41120,10517,PHONE,trade_in_bonus,2026-06-12 19:34:04,false
+41121,11152,walk-in ,service_reminder,2026-06-07 11:49:04,false
+41122,12966,Referal,spring_sale,2025-01-05 21:35:55,true
+41123,10505,walk-in ,service_reminder,2024-11-07 02:56:39,false
+41124,13569,referral ,spring_sale,2025-11-09 06:37:13,true
+41125,14203,THIRD_PARTY_SITE,spring_sale,2025-07-18 02:41:42,false
+41126,12736,walk-in ,0_apr_event,2025-07-20 20:39:02,true
+41127,13521,walk-in,spring_sale,2026-05-20 06:29:56,false
+41128,14188,WEB,0_apr_event,2025-10-13 15:53:25,false
+41129,10598,walk-in ,spring_sale,2024-07-16 07:12:46,false
+41130,15067,web ,spring_sale,2025-03-06 12:11:55,false
+41131,14389,walk-in ,spring_sale,2025-09-02 11:53:25,false
+41132,12583,Referal,0_apr_event,2025-11-01 03:00:49,true
+41133,13290,third_party_site,service_reminder,2025-11-01 22:50:01,true
+41134,12858,third_party_site,trade_in_bonus,2025-08-26 11:25:10,false
+41135,11953,WEB,spring_sale,2025-10-22 12:24:43,false
+41136,13102,REFERRAL,0_apr_event,2025-03-08 05:08:58,false
+41137,11047,third_party_site,0_apr_event,2024-10-02 04:47:01,false
+41138,10502,THIRD_PARTY_SITE,trade_in_bonus,2026-01-10 13:38:59,true
+41139,10392,phone,trade_in_bonus,2024-12-15 22:08:17,true
+41140,12804,walk-in,spring_sale,2026-05-24 05:10:39,true
+41141,15194,WALK-IN,trade_in_bonus,2024-07-22 07:01:43,false
+41142,12711,referral ,0_apr_event,2025-01-04 00:05:08,false
+41143,14137,Referal,0_apr_event,2025-07-17 05:28:23,false
+41144,13626,THIRD_PARTY_SITE,trade_in_bonus,2026-06-08 17:05:29,true
+41145,12370,walk-in,spring_sale,2025-06-10 18:20:10,false
+41146,14420,third_party_site ,service_reminder,2025-07-15 11:35:49,false
+41147,11531,third_party_site,0_apr_event,2025-07-13 02:29:23,false
+41148,14176,walk-in,trade_in_bonus,2025-06-15 06:41:02,true
+41149,10584,third_party_site,0_apr_event,2025-10-31 01:50:21,false
+41150,10146,phone ,0_apr_event,2024-11-07 04:20:09,false
+41151,12617,phone,spring_sale,2024-07-13 02:59:47,true
+41152,13666,web,0_apr_event,2024-09-27 00:50:46,false
+41153,10438,third_party_site,trade_in_bonus,2025-06-15 01:57:29,true
+41154,11040,web ,service_reminder,2025-03-28 04:21:05,true
+41155,12356,walk-in,service_reminder,2024-07-11 11:33:53,false
+41156,12060,phone,trade_in_bonus,2026-03-23 16:29:47,true
+41157,,referral ,0_apr_event,2024-12-15 17:15:24,true
+41158,11930,web,spring_sale,2025-09-07 09:03:39,true
+41159,11482,WEB,service_reminder,2025-04-06 01:24:00,false
+41160,15001,web,0_apr_event,2024-11-24 17:19:32,true
+41161,10677,phone,service_reminder,2025-09-09 21:13:38,false
+41162,10240,PHONE,0_apr_event,2026-05-21 12:49:17,true
+41163,13444,REFERRAL,spring_sale,2025-10-07 20:58:54,true
+41164,11580,web,spring_sale,2025-01-11 08:58:28,false
+41165,14300,WALK-IN,spring_sale,2024-09-20 08:30:25,false
+41166,14660,web,service_reminder,2026-01-14 21:13:28,false
+41167,13140,phone ,trade_in_bonus,2025-12-19 03:01:11,true
+41168,10199,REFERRAL,trade_in_bonus,2025-05-14 15:13:19,true
+41169,11150,WALK-IN,0_apr_event,2025-04-14 10:17:54,false
+41170,12066,Referal,spring_sale,2024-07-17 08:45:56,true
+41171,13224,web,service_reminder,2025-06-09 13:47:35,true
+41172,13713,THIRD_PARTY_SITE,spring_sale,2025-04-04 23:22:28,false
+41173,10966,web,service_reminder,2024-12-23 03:11:01,true
+41174,10209,third_party_site ,service_reminder,2025-06-12 04:22:17,true
+41175,10779,phone,0_apr_event,2025-04-10 21:35:50,false
+41176,13511,referral ,service_reminder,2025-09-15 13:38:39,false
+41177,10175,WALK-IN,service_reminder,2026-06-01 16:03:25,false
+41178,12624,third_party_site ,service_reminder,2025-07-01 01:34:45,true
+41179,10170,THIRD_PARTY_SITE,service_reminder,2024-08-01 22:52:38,false
+41180,13295,REFERRAL,trade_in_bonus,2026-01-29 14:22:59,true
+41181,12368,REFERRAL,trade_in_bonus,2026-07-06 15:26:18,false
+41182,10204,REFERRAL,spring_sale,2025-08-14 22:23:44,false
+41183,10018,WEB,service_reminder,2025-01-29 05:49:11,false
+41184,12146,phone ,trade_in_bonus,2025-03-10 03:08:23,false
+41185,10733,PHONE,trade_in_bonus,2024-10-07 00:28:31,false
+41186,13860,WALK-IN,spring_sale,2026-06-16 16:28:28,true
+41187,12859,THIRD_PARTY_SITE,spring_sale,2026-03-04 07:09:33,false
+41188,11436,PHONE,trade_in_bonus,2026-03-13 20:04:54,true
+41189,10434,referral,service_reminder,2025-10-31 18:34:31,true
+41190,13010,third_party_site,0_apr_event,2025-06-11 06:45:24,false
+41191,11898,web,0_apr_event,2024-09-14 14:30:39,false
+41192,11040,web,trade_in_bonus,2024-12-29 19:33:02,false
+41193,13316,third_party_site,spring_sale,2024-09-01 10:56:33,true
+41194,13719,phone,trade_in_bonus,2026-02-24 21:53:05,false
+41195,12735,walk-in,service_reminder,2024-11-30 09:45:35,true
+41196,13700,web,spring_sale,2026-04-27 22:24:32,false
+41197,13236,third_party_site,service_reminder,2026-03-12 04:23:22,false
+41198,12517,web ,service_reminder,2026-04-16 03:27:59,true
+41199,14972,Referal,0_apr_event,2025-06-28 10:50:04,true
+41200,12391,walk-in ,trade_in_bonus,2024-11-25 06:54:14,false
+41201,13112,third_party_site,service_reminder,2026-05-24 22:25:00,true
+41202,14691,referral,service_reminder,2025-04-01 07:04:59,false
+41203,,WALK-IN,service_reminder,2025-10-17 09:44:07,true
+41204,10140,third_party_site ,spring_sale,2024-08-09 17:17:24,false
+41205,10629,referral,service_reminder,2024-11-17 22:10:36,true
+41206,10475,Referal,service_reminder,2025-04-25 13:03:15,true
+41207,14842,phone,spring_sale,2025-03-22 21:56:30,false
+41208,14986,REFERRAL,trade_in_bonus,2024-12-06 00:21:29,false
+41209,11030,third_party_site,service_reminder,2025-04-03 11:24:42,true
+41210,14169,web ,service_reminder,2026-01-11 02:05:17,false
+41211,11582,web,0_apr_event,2025-09-03 02:32:54,true
+41212,11766,REFERRAL,0_apr_event,2026-02-07 05:21:35,true
+41213,12636,phone,service_reminder,2025-09-16 19:19:56,false
+41214,12039,Referal,trade_in_bonus,2024-08-28 21:13:53,false
+41215,12135,web,service_reminder,2025-12-29 07:44:25,false
+41216,14398,phone ,trade_in_bonus,2025-09-08 12:32:31,true
+41217,12344,phone ,trade_in_bonus,2025-04-08 00:46:04,true
+41218,14328,walk-in ,service_reminder,2025-11-17 09:43:44,true
+41219,11412,third_party_site ,spring_sale,2026-05-17 12:07:00,false
+41220,14589,third_party_site,0_apr_event,2026-06-26 17:45:58,false
+41221,11265,PHONE,service_reminder,2025-04-25 07:49:33,false
+41222,11829,WEB,0_apr_event,2024-09-06 09:41:32,true
+41223,14591,phone,service_reminder,2024-08-04 23:54:01,true
+41224,12099,web,0_apr_event,2025-06-13 03:54:18,false
+41225,13831,phone ,trade_in_bonus,2025-12-24 10:47:17,true
+41226,15005,phone ,spring_sale,2026-03-09 12:05:02,false
+41227,10546,phone ,spring_sale,2025-11-04 14:59:32,false
+41228,13044,walk-in ,0_apr_event,2025-08-18 03:01:44,false
+41229,10239,referral,spring_sale,2025-10-11 06:28:10,false
+41230,13602,referral ,spring_sale,2025-03-24 17:23:38,false
+41231,12560,third_party_site,0_apr_event,2026-03-06 23:21:17,true
+41232,12046,WEB,service_reminder,2024-12-25 01:25:19,false
+41233,,THIRD_PARTY_SITE,trade_in_bonus,2024-08-25 05:46:33,false
+41234,14430,WALK-IN,0_apr_event,2025-09-12 12:16:50,false
+41235,14433,third_party_site,service_reminder,2025-04-13 03:50:52,true
+41236,12987,walk-in ,spring_sale,2026-02-12 16:41:43,false
+41237,12891,Referal,spring_sale,2026-07-03 11:37:16,false
+41238,14741,web,spring_sale,2025-04-21 20:32:40,false
+41239,13789,walk-in,trade_in_bonus,2026-05-17 13:11:03,true
+41240,12568,third_party_site ,0_apr_event,2025-11-03 22:24:12,true
+41241,11104,phone,spring_sale,2026-03-03 18:06:36,true
+41242,14013,web ,service_reminder,2025-07-31 05:08:10,false
+41243,14929,web,service_reminder,2025-12-21 10:08:44,false
+41244,14669,referral,spring_sale,2025-11-29 20:47:22,true
+41245,,THIRD_PARTY_SITE,trade_in_bonus,2026-03-21 13:06:50,true
+41246,12142,web,0_apr_event,2025-12-11 22:09:35,false
+41247,,THIRD_PARTY_SITE,service_reminder,2025-12-01 16:23:05,false
+41248,11039,phone ,service_reminder,2025-02-09 18:48:51,true
+41249,11382,walk-in,0_apr_event,2025-08-01 22:40:07,false
+41250,13392,web,spring_sale,2024-10-25 23:34:05,false
+41251,10211,web,spring_sale,2025-10-24 04:32:15,true
+41252,,REFERRAL,service_reminder,2025-02-13 20:31:07,true
+41253,13255,third_party_site,trade_in_bonus,2025-06-01 07:33:06,true
+41254,11562,web,spring_sale,2024-12-02 06:01:54,true
+41255,14444,web,trade_in_bonus,2025-06-26 01:06:37,true
+41256,14836,phone,service_reminder,2025-11-26 01:07:56,true
+41257,12205,web ,spring_sale,2026-06-03 05:38:27,true
+41258,11040,PHONE,trade_in_bonus,2025-04-11 21:46:09,false
+41259,11268,third_party_site,trade_in_bonus,2026-06-21 21:52:42,false
+41260,11948,REFERRAL,service_reminder,2026-05-14 11:43:22,true
+41261,14429,phone ,0_apr_event,2025-12-05 17:27:51,false
+41262,10435,THIRD_PARTY_SITE,trade_in_bonus,2025-01-28 01:28:14,true
+41263,14297,third_party_site ,service_reminder,2025-11-13 08:29:42,true
+41264,11811,Referal,trade_in_bonus,2025-11-02 03:47:55,true
+41265,10669,third_party_site,0_apr_event,2025-03-07 13:11:03,false
+41266,14548,phone ,trade_in_bonus,2025-04-18 05:56:08,true
+41267,11226,third_party_site,spring_sale,2025-07-10 05:30:01,false
+41268,14928,web ,spring_sale,2025-03-16 05:50:10,false
+41269,12685,walk-in,trade_in_bonus,2026-05-16 12:27:46,false
+41270,14162,third_party_site,0_apr_event,2025-11-18 01:00:18,false
+41271,14436,web,spring_sale,2024-08-30 12:59:59,false
+41272,14206,referral ,0_apr_event,2026-02-05 01:27:36,false
+41273,12110,web,trade_in_bonus,2026-03-21 11:50:13,false
+41274,14234,phone ,spring_sale,2025-07-03 18:49:37,false
+41275,10176,web,0_apr_event,2025-03-23 15:25:35,false
+41276,10659,third_party_site,0_apr_event,2025-12-19 00:34:22,true
+41277,12637,phone ,trade_in_bonus,2025-06-30 10:36:13,true
+41278,13061,phone,0_apr_event,2025-01-22 12:29:00,false
+41279,10109,web,0_apr_event,2025-12-16 18:12:51,true
+41280,11730,PHONE,0_apr_event,2024-09-06 11:07:38,true
+41281,12339,phone,spring_sale,2025-03-31 20:04:13,true
+41282,12826,web,service_reminder,2025-10-01 09:02:45,false
+41283,12526,Referal,spring_sale,2026-02-22 21:21:17,false
+41284,13876,PHONE,0_apr_event,2024-08-21 09:08:22,false
+41285,13753,PHONE,spring_sale,2026-06-19 15:26:10,true
+41286,11082,third_party_site,spring_sale,2026-01-22 12:14:56,true
+41287,,PHONE,0_apr_event,2026-03-18 04:34:36,false
+41288,10660,third_party_site,0_apr_event,2026-06-10 05:20:26,true
+41289,,WALK-IN,trade_in_bonus,2026-05-25 23:04:51,true
+41290,14618,phone ,service_reminder,2025-10-19 20:37:45,true
+41291,13545,THIRD_PARTY_SITE,service_reminder,2024-08-27 02:45:58,false
+41292,13681,referral ,0_apr_event,2024-09-02 13:49:49,true
+41293,13389,third_party_site ,service_reminder,2026-02-27 07:42:05,false
+41294,,phone,0_apr_event,2025-10-19 12:57:19,false
+41295,13284,Referal,spring_sale,2025-10-07 07:24:34,true
+41296,,WEB,0_apr_event,2025-10-28 02:11:56,false
+41297,12172,REFERRAL,trade_in_bonus,2025-12-28 21:42:06,false
+41298,14176,REFERRAL,0_apr_event,2025-11-15 15:32:34,false
+41299,10050,referral,0_apr_event,2024-10-24 07:08:29,false
+41300,,PHONE,trade_in_bonus,2026-05-09 06:02:50,false
+41301,,third_party_site ,spring_sale,2024-09-03 23:38:22,true
+41302,14838,phone,trade_in_bonus,2025-05-11 16:32:11,false
+41303,12982,third_party_site ,0_apr_event,2024-11-21 09:07:03,false
+41304,14710,third_party_site,trade_in_bonus,2025-09-26 15:14:49,true
+41305,11244,referral,service_reminder,2025-09-10 11:08:47,false
+41306,10664,third_party_site,spring_sale,2024-07-15 16:36:34,false
+41307,13775,REFERRAL,service_reminder,2025-05-28 03:11:55,true
+41308,14469,third_party_site,0_apr_event,2024-10-04 05:07:14,true
+41309,12116,walk-in,0_apr_event,2025-02-08 22:58:49,false
+41310,14952,walk-in ,service_reminder,2026-04-02 23:50:30,false
+41311,14234,THIRD_PARTY_SITE,service_reminder,2025-12-27 21:01:07,true
+41312,10743,third_party_site,service_reminder,2025-09-12 05:53:12,false
+41313,12592,third_party_site,0_apr_event,2025-10-20 19:04:41,true
+41314,15066,phone ,trade_in_bonus,2025-08-13 00:15:37,true
+41315,13663,third_party_site,spring_sale,2026-07-05 01:20:29,false
+41316,10531,walk-in,spring_sale,2025-12-18 17:29:11,false
+41317,14015,referral,trade_in_bonus,2026-02-11 09:54:05,false
+41318,15089,Referal,service_reminder,2026-02-13 07:05:26,false
+41319,10771,walk-in,spring_sale,2024-07-09 21:40:44,true
+41320,,THIRD_PARTY_SITE,service_reminder,2026-01-23 03:29:45,true
+41321,14262,walk-in ,0_apr_event,2024-09-11 03:07:23,true
+41322,11933,referral ,trade_in_bonus,2024-11-27 05:06:55,true
+41323,13030,third_party_site,trade_in_bonus,2025-08-16 02:47:42,false
+41324,14096,web,service_reminder,2025-12-01 22:46:30,true
+41325,13812,REFERRAL,0_apr_event,2025-03-13 04:08:37,true
+41326,12319,THIRD_PARTY_SITE,service_reminder,2024-12-07 21:22:50,true
+41327,10449,WALK-IN,spring_sale,2024-07-15 04:51:31,false
+41328,10273,walk-in,spring_sale,2024-12-14 18:21:08,false
+41329,,phone,trade_in_bonus,2025-02-21 18:13:20,false
+41330,11701,Referal,spring_sale,2025-11-16 13:42:59,true
+41331,13075,WALK-IN,0_apr_event,2024-10-07 21:19:29,false
+41332,13306,walk-in,spring_sale,2025-06-20 01:17:15,true
+41333,10776,referral,0_apr_event,2025-12-23 18:14:24,true
+41334,10781,PHONE,trade_in_bonus,2024-12-24 09:21:47,false
+41335,12998,web ,0_apr_event,2025-06-27 08:05:22,false
+41336,10421,WALK-IN,0_apr_event,2024-07-24 13:53:12,false
+41337,11260,walk-in ,spring_sale,2025-10-07 12:41:04,false
+41338,12951,walk-in,service_reminder,2025-12-08 20:49:40,true
+41339,11849,third_party_site,spring_sale,2025-12-09 02:57:04,false
+41340,14349,THIRD_PARTY_SITE,service_reminder,2024-10-08 09:48:16,false
+41341,11353,walk-in ,spring_sale,2024-11-14 08:39:37,false
+41342,,Referal,trade_in_bonus,2026-01-23 12:41:46,true
+41343,12931,PHONE,0_apr_event,2025-12-22 04:15:27,true
+41344,11261,third_party_site ,trade_in_bonus,2025-01-07 07:18:26,false
+41345,13192,third_party_site,spring_sale,2026-03-23 05:16:00,false
+41346,14001,WALK-IN,spring_sale,2025-05-09 12:26:37,false
+41347,11031,phone,spring_sale,2025-11-11 11:02:00,false
+41348,,Referal,0_apr_event,2024-12-21 13:25:50,true
+41349,12578,web ,service_reminder,2025-04-14 10:39:48,false
+41350,12648,third_party_site,service_reminder,2025-08-10 00:20:52,false
+41351,13252,third_party_site,trade_in_bonus,2025-01-15 19:28:54,true
+41352,12372,walk-in,0_apr_event,2026-06-02 01:20:17,true
+41353,,PHONE,spring_sale,2025-06-20 06:27:30,true
+41354,13520,third_party_site,spring_sale,2025-11-11 07:20:01,true
+41355,11984,referral,spring_sale,2024-12-12 23:50:46,false
+41356,11205,WEB,service_reminder,2025-03-04 02:07:25,true
+41357,11184,WALK-IN,service_reminder,2025-12-16 07:54:22,true
+41358,11079,referral ,0_apr_event,2025-12-08 15:22:02,true
+41359,14872,WALK-IN,0_apr_event,2025-04-06 23:01:10,true
+41360,,WALK-IN,spring_sale,2025-11-05 13:27:37,true
+41361,,WALK-IN,service_reminder,2025-04-10 16:51:35,true
+41362,11320,REFERRAL,0_apr_event,2025-05-04 15:33:56,true
+41363,14001,third_party_site,trade_in_bonus,2026-01-11 10:42:10,false
+41364,11326,third_party_site ,service_reminder,2026-03-23 21:38:45,true
+41365,13971,PHONE,0_apr_event,2025-03-05 11:23:56,false
+41366,14000,phone ,spring_sale,2025-05-05 23:42:13,false
+41367,12973,walk-in,spring_sale,2025-07-09 11:29:20,false
+41368,,walk-in,service_reminder,2026-04-15 20:08:54,true
+41369,13213,WALK-IN,service_reminder,2025-12-09 10:34:05,true
+41370,11538,web ,service_reminder,2025-07-29 22:27:16,false
+41371,11343,phone,service_reminder,2025-11-26 05:07:10,true
+41372,14815,walk-in ,0_apr_event,2026-05-10 06:39:12,false
+41373,13727,WALK-IN,0_apr_event,2026-01-22 18:53:46,true
+41374,11280,web ,service_reminder,2025-02-22 02:24:01,true
+41375,11358,WALK-IN,trade_in_bonus,2025-10-19 19:39:22,true
+41376,10678,walk-in ,trade_in_bonus,2024-11-08 07:51:54,true
+41377,14927,web,trade_in_bonus,2024-11-22 04:27:17,false
+41378,14759,referral,spring_sale,2026-06-13 20:29:54,false
+41379,11408,referral ,trade_in_bonus,2026-05-27 20:17:30,true
+41380,11269,referral ,service_reminder,2024-12-09 19:35:08,false
+41381,14280,THIRD_PARTY_SITE,trade_in_bonus,2024-09-24 19:12:06,false
+41382,,PHONE,trade_in_bonus,2024-12-27 08:22:25,true
+41383,13761,referral,0_apr_event,2025-10-29 01:44:40,true
+41384,14529,WALK-IN,service_reminder,2025-11-04 20:20:28,false
+41385,10653,third_party_site,0_apr_event,2024-08-27 20:25:27,true
+41386,14746,referral ,service_reminder,2026-01-16 08:09:58,false
+41387,10485,THIRD_PARTY_SITE,0_apr_event,2025-04-12 00:07:33,false
+41388,11491,walk-in,spring_sale,2024-10-05 03:34:51,false
+41389,,phone,service_reminder,2024-07-25 04:19:24,false
+41390,12442,phone,0_apr_event,2024-12-16 11:39:41,false
+41391,12868,walk-in,0_apr_event,2025-12-27 05:56:33,true
+41392,13120,referral,service_reminder,2025-07-08 17:47:01,true
+41393,11142,phone,trade_in_bonus,2025-11-24 09:49:02,false
+41394,13023,referral,spring_sale,2025-12-21 12:43:02,true
+41395,13015,Referal,trade_in_bonus,2026-03-05 22:05:08,false
+41396,11171,phone,service_reminder,2026-04-05 18:19:09,false
+41397,14157,web ,spring_sale,2025-09-17 11:17:22,false
+41398,12476,phone,trade_in_bonus,2024-12-16 13:48:56,true
+41399,12185,walk-in ,0_apr_event,2026-01-27 08:28:56,true
+41400,11277,web,0_apr_event,2026-04-09 17:10:00,false
+41401,11843,walk-in,spring_sale,2025-08-25 02:03:58,false
+41402,12445,WEB,service_reminder,2025-11-14 02:06:42,true
+41403,12184,walk-in,spring_sale,2025-01-19 04:12:04,true
+41404,13370,THIRD_PARTY_SITE,spring_sale,2025-10-08 11:22:21,false
+41405,10640,WALK-IN,0_apr_event,2026-05-03 11:54:00,true
+41406,13292,Referal,0_apr_event,2024-10-24 02:04:04,false
+41407,10506,phone,service_reminder,2026-06-22 11:50:14,false
+41408,14148,PHONE,spring_sale,2024-10-11 18:53:13,false
+41409,10246,phone,spring_sale,2024-12-09 10:48:07,true
+41410,10895,walk-in ,0_apr_event,2025-07-04 07:51:14,true
+41411,14965,REFERRAL,spring_sale,2025-01-09 07:55:28,true
+41412,13952,referral,spring_sale,2026-01-18 22:10:26,false
+41413,10570,web,service_reminder,2025-01-15 18:08:37,true
+41414,10585,REFERRAL,spring_sale,2024-11-06 14:11:09,false
+41415,11704,web,0_apr_event,2025-08-28 20:07:34,true
+41416,10702,walk-in,spring_sale,2026-04-16 22:17:54,false
+41417,,REFERRAL,spring_sale,2024-11-30 23:30:40,true
+41418,13035,WEB,spring_sale,2024-09-06 04:27:41,false
+41419,14208,phone ,spring_sale,2025-07-30 06:04:37,false
+41420,13528,phone ,spring_sale,2026-05-24 01:03:30,false
+41421,14280,walk-in ,spring_sale,2026-07-06 20:02:17,false
+41422,14644,referral,0_apr_event,2025-08-23 06:38:51,true
+41423,13885,WEB,spring_sale,2025-04-16 16:57:37,false
+41424,14423,phone,spring_sale,2026-03-21 02:57:07,false
+41425,10650,PHONE,service_reminder,2025-06-03 03:46:32,true
+41426,13030,THIRD_PARTY_SITE,0_apr_event,2025-10-25 00:26:38,true
+41427,,web,0_apr_event,2025-10-14 12:40:09,true
+41428,14088,walk-in ,0_apr_event,2025-08-14 19:03:43,true
+41429,10296,PHONE,service_reminder,2025-10-04 06:16:20,true
+41430,10057,PHONE,0_apr_event,2024-10-28 12:27:33,true
+41431,12509,REFERRAL,0_apr_event,2025-12-07 07:59:47,true
+41432,13580,web,trade_in_bonus,2025-04-17 18:09:45,false
+41433,11887,walk-in,spring_sale,2025-08-24 22:34:31,true
+41434,14771,THIRD_PARTY_SITE,spring_sale,2025-07-12 18:04:15,true
+41435,12203,web,spring_sale,2024-08-21 06:29:53,true
+41436,15115,phone,trade_in_bonus,2025-11-10 21:42:39,true
+41437,13666,referral,0_apr_event,2024-10-09 10:42:53,false
+41438,12916,REFERRAL,0_apr_event,2025-04-12 01:48:04,false
+41439,11218,phone,0_apr_event,2026-06-12 02:57:31,true
+41440,14363,phone,service_reminder,2025-03-04 00:02:43,false
+41441,10681,web ,spring_sale,2025-04-21 06:42:51,true
+41442,11112,PHONE,0_apr_event,2025-11-27 17:21:22,true
+41443,,phone,service_reminder,2025-08-05 14:59:31,false
+41444,11914,phone,service_reminder,2025-02-09 08:41:51,true
+41445,,WEB,0_apr_event,2024-09-07 11:31:37,true
+41446,11828,referral,trade_in_bonus,2024-10-21 23:12:16,true
+41447,10796,Referal,trade_in_bonus,2025-07-03 00:47:30,true
+41448,12040,phone,spring_sale,2025-01-14 15:24:32,false
+41449,10133,web,trade_in_bonus,2025-06-11 11:45:53,false
+41450,11151,phone,spring_sale,2026-01-15 19:34:18,false
+41451,13468,web,spring_sale,2025-03-29 02:17:13,false
+41452,,walk-in,trade_in_bonus,2025-02-20 02:49:32,false
+41453,13961,walk-in,spring_sale,2025-11-04 14:48:25,false
+41454,11694,walk-in ,spring_sale,2026-05-02 01:08:43,false
+41455,13313,phone,spring_sale,2025-07-05 03:54:12,false
+41456,14311,web,0_apr_event,2025-02-11 05:54:08,true
+41457,10437,THIRD_PARTY_SITE,spring_sale,2025-12-31 08:42:57,false
+41458,11531,referral,spring_sale,2026-01-09 11:15:10,false
+41459,13038,phone ,0_apr_event,2025-09-19 04:23:25,true
+41460,12359,WEB,0_apr_event,2025-12-05 17:04:36,true
+41461,13215,web ,spring_sale,2025-05-10 04:30:48,true
+41462,14788,third_party_site,service_reminder,2025-03-30 19:45:19,false
+41463,10964,third_party_site,0_apr_event,2025-07-11 14:02:27,true
+41464,14276,referral,trade_in_bonus,2026-05-31 16:52:05,true
+41465,10768,phone,0_apr_event,2025-09-07 23:20:15,true
+41466,13918,phone,0_apr_event,2024-10-05 09:16:55,false
+41467,,web ,trade_in_bonus,2025-05-05 03:41:13,false
+41468,11631,web ,service_reminder,2026-02-26 14:03:03,false
+41469,11084,walk-in ,spring_sale,2026-05-23 10:48:17,true
+41470,13225,WEB,spring_sale,2025-09-01 18:55:57,true
+41471,12385,third_party_site,service_reminder,2026-03-16 20:03:30,false
+41472,13867,REFERRAL,0_apr_event,2024-11-08 16:43:35,true
+41473,12035,Referal,0_apr_event,2024-08-19 11:47:15,true
+41474,11120,phone,spring_sale,2025-12-02 22:20:35,true
+41475,14471,web,trade_in_bonus,2026-04-02 14:01:21,false
+41476,10018,web,trade_in_bonus,2026-06-12 23:43:21,true
+41477,10046,THIRD_PARTY_SITE,trade_in_bonus,2026-02-24 10:27:29,false
+41478,13318,web,service_reminder,2026-06-24 06:57:56,false
+41479,14262,third_party_site ,spring_sale,2026-03-22 23:25:40,false
+41480,14609,web,service_reminder,2025-03-24 01:34:48,false
+41481,14909,web ,trade_in_bonus,2026-02-17 18:39:07,false
+41482,13266,web,trade_in_bonus,2025-02-04 22:33:34,true
+41483,13820,PHONE,service_reminder,2024-12-20 14:44:38,true
+41484,,referral,trade_in_bonus,2025-06-02 00:29:53,false
+41485,,walk-in ,service_reminder,2026-06-06 14:33:20,false
+41486,14791,walk-in,0_apr_event,2024-11-02 21:02:52,false
+41487,13283,REFERRAL,trade_in_bonus,2024-07-15 15:08:17,false
+41488,12886,walk-in,spring_sale,2025-04-17 11:14:52,true
+41489,12409,third_party_site,service_reminder,2025-08-19 17:08:06,true
+41490,12489,referral ,trade_in_bonus,2025-09-05 08:27:04,true
+41491,13615,walk-in,spring_sale,2025-11-07 18:45:40,true
+41492,13592,REFERRAL,service_reminder,2024-08-01 20:37:15,false
+41493,11771,WEB,0_apr_event,2024-09-26 06:50:17,true
+41494,10132,WEB,0_apr_event,2025-10-23 14:56:30,true
+41495,14401,REFERRAL,trade_in_bonus,2026-06-10 15:58:39,false
+41496,10643,referral,trade_in_bonus,2026-05-26 13:08:55,true
+41497,13494,phone,spring_sale,2026-01-21 16:27:30,false
+41498,,web,service_reminder,2026-02-18 00:30:31,false
+41499,15093,PHONE,0_apr_event,2026-04-04 07:19:00,true
+41500,13454,REFERRAL,trade_in_bonus,2024-07-08 23:54:29,false
+41501,10341,referral ,0_apr_event,2025-12-08 18:32:07,true
+41502,14705,third_party_site,trade_in_bonus,2024-10-05 02:08:35,true
+41503,13089,phone,spring_sale,2025-11-25 21:25:19,false
+41504,14351,phone,trade_in_bonus,2024-11-30 05:38:38,false
+41505,11845,WALK-IN,spring_sale,2025-08-21 05:24:43,false
+41506,11650,web,spring_sale,2025-05-24 04:50:34,false
+41507,10856,third_party_site,0_apr_event,2024-12-29 21:43:05,false
+41508,10188,web ,spring_sale,2024-07-18 07:33:29,true
+41509,11956,referral ,spring_sale,2024-07-16 21:26:10,true
+41510,11221,third_party_site ,0_apr_event,2025-05-19 12:29:25,false
+41511,14162,WALK-IN,service_reminder,2025-03-07 04:22:05,true
+41512,14026,REFERRAL,0_apr_event,2026-05-29 10:17:22,true
+41513,12528,WALK-IN,spring_sale,2026-04-06 03:43:53,true
+41514,10488,web,service_reminder,2026-05-10 21:25:07,false
+41515,12728,referral,spring_sale,2024-09-02 17:58:14,false
+41516,12611,phone,spring_sale,2026-02-01 13:25:32,true
+41517,13706,WALK-IN,service_reminder,2026-02-13 16:25:08,true
+41518,12075,phone ,spring_sale,2024-11-16 23:10:11,false
+41519,10764,PHONE,trade_in_bonus,2025-02-15 22:15:15,false
+41520,10528,REFERRAL,0_apr_event,2025-07-24 21:25:58,true
+41521,14471,referral,service_reminder,2025-11-05 15:13:04,true
+41522,12963,phone,trade_in_bonus,2025-09-09 04:56:39,true
+41523,10560,Referal,spring_sale,2026-02-10 15:56:05,true
+41524,12089,web,0_apr_event,2025-04-03 15:08:31,true
+41525,10494,WEB,0_apr_event,2025-01-12 18:05:18,false
+41526,11657,Referal,trade_in_bonus,2025-12-07 10:28:41,false
+41527,15128,third_party_site,service_reminder,2025-07-18 09:51:07,false
+41528,12136,WEB,trade_in_bonus,2026-07-05 07:43:15,false
+41529,13860,web ,0_apr_event,2026-03-23 17:40:38,true
+41530,13701,referral,trade_in_bonus,2024-11-13 07:06:41,true
+41531,12917,phone ,trade_in_bonus,2026-03-23 00:52:28,true
+41532,13084,phone ,service_reminder,2026-06-12 09:02:01,true
+41533,12063,referral ,spring_sale,2025-02-03 22:30:14,true
+41534,14786,THIRD_PARTY_SITE,service_reminder,2025-10-01 01:18:31,false
+41535,12698,walk-in,0_apr_event,2024-10-20 05:05:45,true
+41536,10403,third_party_site ,service_reminder,2025-08-22 22:00:16,true
+41537,12130,phone,0_apr_event,2025-04-04 13:21:46,true
+41538,10092,web,service_reminder,2024-08-25 18:23:16,true
+41539,10512,REFERRAL,0_apr_event,2024-10-09 08:29:49,true
+41540,14256,phone,0_apr_event,2024-09-24 18:47:04,true
+41541,12184,walk-in,trade_in_bonus,2025-07-24 12:42:22,false
+41542,11967,third_party_site ,0_apr_event,2026-05-28 15:18:12,false
+41543,11448,referral,trade_in_bonus,2026-02-08 10:52:00,false
+41544,14388,web ,service_reminder,2024-09-02 03:07:48,false
+41545,15144,third_party_site,service_reminder,2024-07-31 22:08:06,false
+41546,12089,walk-in,trade_in_bonus,2025-11-17 08:57:40,false
+41547,13813,web,0_apr_event,2025-09-28 07:57:43,false
+41548,11586,phone,0_apr_event,2024-09-28 19:55:01,false
+41549,13307,walk-in,service_reminder,2024-11-24 10:09:25,true
+41550,13881,WEB,service_reminder,2025-01-01 10:41:41,true
+41551,10165,walk-in,spring_sale,2026-06-06 21:54:43,false
+41552,10986,PHONE,0_apr_event,2025-05-08 04:08:57,false
+41553,14470,third_party_site,service_reminder,2025-11-11 17:54:35,false
+41554,10623,THIRD_PARTY_SITE,trade_in_bonus,2024-10-11 19:12:42,false
+41555,15155,WALK-IN,0_apr_event,2025-05-21 21:49:14,false
+41556,14523,phone,spring_sale,2024-12-24 22:17:46,false
+41557,13631,web ,0_apr_event,2025-02-01 18:47:32,false
+41558,12736,phone ,trade_in_bonus,2024-07-10 22:38:31,true
+41559,11240,third_party_site,spring_sale,2025-06-11 08:42:46,true
+41560,10575,walk-in,trade_in_bonus,2025-05-08 04:14:47,false
+41561,11054,Referal,spring_sale,2026-02-11 16:25:50,true
+41562,12578,THIRD_PARTY_SITE,trade_in_bonus,2024-09-23 03:23:51,true
+41563,14635,referral,service_reminder,2025-06-18 15:10:48,true
+41564,10016,phone,service_reminder,2025-05-31 08:20:41,false
+41565,13502,THIRD_PARTY_SITE,spring_sale,2026-03-15 21:10:19,true
+41566,13205,referral ,trade_in_bonus,2024-10-04 10:39:57,true
+41567,12425,walk-in ,0_apr_event,2026-03-03 16:05:28,true
+41568,12956,WALK-IN,trade_in_bonus,2026-06-29 00:27:18,true
+41569,,walk-in ,0_apr_event,2026-01-17 07:07:13,false
+41570,14881,web ,0_apr_event,2025-09-13 02:26:48,false
+41571,11905,web,spring_sale,2024-11-18 22:33:21,false
+41572,11032,REFERRAL,trade_in_bonus,2026-04-28 03:34:03,true
+41573,12178,walk-in ,0_apr_event,2024-10-04 21:41:35,false
+41574,11581,phone,trade_in_bonus,2025-01-28 13:07:57,false
+41575,11928,phone ,0_apr_event,2025-12-23 06:53:02,false
+41576,14160,web,service_reminder,2025-03-30 17:46:46,true
+41577,13380,PHONE,trade_in_bonus,2025-12-01 23:26:54,true
+41578,10189,REFERRAL,0_apr_event,2025-10-22 06:55:24,true
+41579,11149,web,trade_in_bonus,2025-10-13 07:58:04,false
+41580,11741,referral,service_reminder,2024-08-16 22:30:16,false
+41581,11389,WEB,service_reminder,2026-06-04 12:42:14,true
+41582,10774,walk-in,trade_in_bonus,2025-01-31 01:39:56,true
+41583,15040,THIRD_PARTY_SITE,spring_sale,2025-10-31 16:06:31,true
+41584,10022,referral ,0_apr_event,2026-06-03 19:30:20,false
+41585,10645,phone,service_reminder,2026-01-26 15:22:19,true
+41586,10313,referral,spring_sale,2025-08-04 07:19:54,false
+41587,12213,phone,spring_sale,2024-12-23 03:11:47,true
+41588,12247,WALK-IN,service_reminder,2025-10-30 08:07:45,true
+41589,14044,REFERRAL,trade_in_bonus,2026-02-13 05:23:31,true
+41590,10883,web ,0_apr_event,2026-02-23 19:03:31,false
+41591,15107,walk-in,service_reminder,2025-04-18 00:12:24,true
+41592,15092,web,trade_in_bonus,2025-02-07 03:48:23,false
+41593,14015,phone ,trade_in_bonus,2025-04-20 20:31:07,true
+41594,13020,third_party_site ,trade_in_bonus,2025-02-11 06:30:25,false
+41595,,third_party_site,spring_sale,2024-09-11 19:25:21,false
+41596,10112,web,0_apr_event,2025-05-08 10:17:32,true
+41597,13411,web,0_apr_event,2026-04-09 03:52:47,true
+41598,12982,walk-in ,service_reminder,2025-01-10 08:56:10,true
+41599,10025,third_party_site,spring_sale,2026-04-07 18:00:58,true
+41600,12743,walk-in,0_apr_event,2024-10-17 07:57:40,true
+41601,12818,PHONE,0_apr_event,2024-12-23 19:57:02,true
+41602,12462,third_party_site,spring_sale,2026-02-23 17:10:19,false
+41603,14517,referral ,0_apr_event,2026-06-27 04:38:45,true
+41604,14671,WALK-IN,0_apr_event,2024-11-27 11:58:27,true
+41605,13691,referral,spring_sale,2025-01-24 16:08:02,true
+41606,14644,web,trade_in_bonus,2025-07-19 10:25:24,true
+41607,13280,phone,spring_sale,2026-03-10 10:26:42,false
+41608,14157,Referal,spring_sale,2025-04-25 13:46:26,false
+41609,11550,third_party_site ,trade_in_bonus,2025-02-13 14:58:50,true
+41610,,THIRD_PARTY_SITE,0_apr_event,2025-09-01 05:41:16,false
+41611,11638,third_party_site,trade_in_bonus,2025-11-18 13:59:54,false
+41612,,phone,trade_in_bonus,2025-10-22 19:03:13,true
+41613,13017,third_party_site,0_apr_event,2026-01-24 23:52:15,false
+41614,10505,phone ,service_reminder,2026-02-21 17:22:24,true
+41615,12100,web ,spring_sale,2025-01-28 08:11:27,false
+41616,,web,spring_sale,2025-03-22 17:10:20,true
+41617,13165,web,spring_sale,2025-03-23 20:50:52,true
+41618,,referral ,0_apr_event,2025-08-11 06:07:19,true
+41619,11108,walk-in ,spring_sale,2024-09-16 11:49:04,true
+41620,14774,referral ,trade_in_bonus,2025-06-25 17:39:21,false
+41621,12040,third_party_site,trade_in_bonus,2025-12-17 11:46:05,false
+41622,13534,web ,0_apr_event,2025-09-06 14:34:22,true
+41623,14621,third_party_site,spring_sale,2025-10-20 15:01:03,true
+41624,10480,THIRD_PARTY_SITE,trade_in_bonus,2025-06-05 00:33:27,true
+41625,14824,referral,service_reminder,2026-04-28 10:16:11,false
+41626,10789,REFERRAL,trade_in_bonus,2024-12-12 05:41:09,false
+41627,10310,third_party_site,0_apr_event,2025-10-26 14:02:39,true
+41628,13370,WEB,spring_sale,2026-03-06 18:29:54,false
+41629,13383,third_party_site ,spring_sale,2026-05-10 18:46:38,true
+41630,,WEB,trade_in_bonus,2026-03-25 11:15:18,true
+41631,10188,web,service_reminder,2025-07-29 21:58:42,false
+41632,13021,phone,trade_in_bonus,2025-05-03 09:21:23,true
+41633,11575,phone ,spring_sale,2025-01-08 01:02:02,false
+41634,12307,PHONE,trade_in_bonus,2024-10-31 05:22:37,true
+41635,12162,third_party_site,0_apr_event,2025-08-18 03:43:56,true
+41636,14681,web ,0_apr_event,2026-03-25 17:09:23,true
+41637,12215,walk-in,service_reminder,2025-06-20 11:43:50,true
+41638,12715,phone,trade_in_bonus,2025-04-02 15:12:03,true
+41639,,third_party_site,trade_in_bonus,2024-10-20 17:46:00,false
+41640,11002,web ,spring_sale,2024-12-22 02:24:07,false
+41641,14691,third_party_site,0_apr_event,2026-03-24 07:38:06,false
+41642,14521,referral ,0_apr_event,2025-09-09 22:17:48,true
+41643,12098,walk-in ,trade_in_bonus,2026-03-31 04:50:43,true
+41644,11625,walk-in ,trade_in_bonus,2024-07-31 04:59:08,false
+41645,13929,walk-in,trade_in_bonus,2024-09-05 15:47:05,true
+41646,15057,web,trade_in_bonus,2025-10-20 14:48:15,false
+41647,10872,walk-in ,trade_in_bonus,2025-11-15 14:28:45,true
+41648,12750,phone,trade_in_bonus,2025-06-03 08:56:58,true
+41649,13111,walk-in ,trade_in_bonus,2025-03-23 18:12:54,true
+41650,11135,referral,trade_in_bonus,2025-05-30 17:10:40,true
+41651,,WEB,spring_sale,2026-01-07 03:24:44,false
+41652,12519,walk-in,0_apr_event,2024-09-22 19:20:51,true
+41653,13917,third_party_site,0_apr_event,2026-05-13 01:46:07,false
+41654,15056,WALK-IN,service_reminder,2026-03-24 09:17:43,false
+41655,,walk-in,spring_sale,2024-08-26 10:54:27,false
+41656,13273,third_party_site,service_reminder,2025-04-07 20:12:28,true
+41657,14847,phone ,spring_sale,2026-05-10 20:10:44,true
+41658,10127,phone,0_apr_event,2025-04-21 01:24:17,false
+41659,13664,PHONE,trade_in_bonus,2025-06-12 21:15:12,false
+41660,10329,phone,spring_sale,2026-04-12 11:22:09,false
+41661,10391,REFERRAL,trade_in_bonus,2024-07-23 16:21:59,true
+41662,11180,phone,0_apr_event,2024-10-14 02:43:02,true
+41663,13026,THIRD_PARTY_SITE,trade_in_bonus,2024-08-28 06:39:28,true
+41664,14522,web ,trade_in_bonus,2025-02-16 11:02:12,true
+41665,10610,phone,service_reminder,2024-09-06 07:09:22,false
+41666,13386,third_party_site,spring_sale,2025-05-16 12:29:08,false
+41667,14945,third_party_site ,spring_sale,2026-01-07 13:12:30,true
+41668,14048,third_party_site,trade_in_bonus,2025-05-17 02:41:25,true
+41669,11616,phone,0_apr_event,2024-10-14 14:53:53,false
+41670,14226,phone,trade_in_bonus,2026-01-28 23:04:14,false
+41671,11723,PHONE,0_apr_event,2025-04-04 22:00:04,false
+41672,14406,Referal,trade_in_bonus,2025-12-21 15:23:57,false
+41673,12304,phone,0_apr_event,2025-09-16 13:07:51,true
+41674,10189,Referal,spring_sale,2025-03-26 19:06:45,true
+41675,14078,third_party_site ,0_apr_event,2024-12-20 22:52:28,false
+41676,,walk-in,0_apr_event,2025-10-19 09:34:23,false
+41677,12514,walk-in,trade_in_bonus,2025-08-31 22:21:11,false
+41678,10428,referral ,service_reminder,2026-01-09 14:38:17,false
+41679,14412,third_party_site,service_reminder,2025-06-16 00:52:49,true
+41680,14013,PHONE,0_apr_event,2025-10-27 08:55:52,false
+41681,14818,phone,0_apr_event,2025-02-14 03:24:28,false
+41682,13792,WALK-IN,spring_sale,2025-03-20 17:07:25,true
+41683,14060,referral ,spring_sale,2025-04-25 00:42:39,true
+41684,12272,referral ,service_reminder,2025-08-20 21:46:15,false
+41685,10245,phone,service_reminder,2025-06-16 19:36:33,false
+41686,12530,referral ,trade_in_bonus,2025-12-19 15:48:08,true
+41687,10584,PHONE,spring_sale,2026-01-05 01:31:30,false
+41688,13857,walk-in ,trade_in_bonus,2025-08-18 13:20:39,true
+41689,14708,third_party_site ,service_reminder,2025-12-29 10:49:37,false
+41690,12117,web ,0_apr_event,2024-07-11 13:15:09,false
+41691,15133,walk-in ,spring_sale,2026-02-03 11:34:59,false
+41692,15200,third_party_site ,service_reminder,2025-06-17 19:32:03,false
+41693,13306,REFERRAL,0_apr_event,2025-07-02 01:28:31,true
+41694,11266,THIRD_PARTY_SITE,trade_in_bonus,2025-04-18 02:06:06,true
+41695,10421,referral,spring_sale,2025-01-02 15:03:57,false
+41696,14677,phone,service_reminder,2024-12-19 03:14:54,true
+41697,11282,web,0_apr_event,2024-10-24 17:09:33,false
+41698,15103,phone,trade_in_bonus,2026-06-09 07:03:16,false
+41699,10275,WEB,trade_in_bonus,2024-09-02 05:52:31,true
+41700,12806,PHONE,trade_in_bonus,2024-09-22 16:09:53,true
+41701,10009,phone ,spring_sale,2025-03-28 00:09:19,false
+41702,13181,web ,0_apr_event,2025-06-29 06:44:54,false
+41703,11038,walk-in,0_apr_event,2024-09-17 01:20:46,false
+41704,10224,WEB,spring_sale,2026-04-20 10:12:23,false
+41705,10280,referral,service_reminder,2026-03-28 23:27:35,true
+41706,11528,web ,spring_sale,2025-03-05 16:34:07,false
+41707,14935,phone,trade_in_bonus,2025-02-07 06:13:10,false
+41708,,third_party_site,0_apr_event,2026-01-11 06:50:38,true
+41709,12217,walk-in ,trade_in_bonus,2024-08-17 00:57:56,true
+41710,,web ,trade_in_bonus,2026-04-02 02:23:26,true
+41711,10371,phone,trade_in_bonus,2024-12-05 22:02:31,true
+41712,13824,referral ,trade_in_bonus,2026-04-05 12:08:59,false
+41713,12401,walk-in,spring_sale,2024-12-16 15:21:44,true
+41714,13211,phone,trade_in_bonus,2024-08-06 20:50:20,true
+41715,10523,walk-in,0_apr_event,2025-08-31 11:37:34,true
+41716,14756,WALK-IN,trade_in_bonus,2024-12-17 00:36:44,false
+41717,11347,WALK-IN,service_reminder,2025-10-24 15:25:32,false
+41718,12210,referral,service_reminder,2024-10-23 12:21:23,true
+41719,12163,Referal,0_apr_event,2024-10-02 12:17:56,false
+41720,,WEB,service_reminder,2026-05-26 23:52:58,true
+41721,13002,referral ,trade_in_bonus,2024-12-04 09:00:35,false
+41722,11609,third_party_site,spring_sale,2025-03-17 13:15:26,true
+41723,12440,phone,service_reminder,2025-09-26 15:46:33,true
+41724,13114,web,trade_in_bonus,2026-03-16 09:16:36,false
+41725,13005,referral ,spring_sale,2024-10-16 13:14:31,true
+41726,12173,walk-in,service_reminder,2026-05-27 14:47:52,true
+41727,13396,phone,0_apr_event,2025-08-02 13:02:56,true
+41728,13388,WALK-IN,service_reminder,2025-07-28 16:18:12,true
+41729,12247,phone ,0_apr_event,2024-09-13 21:32:54,false
+41730,,third_party_site ,spring_sale,2026-02-17 01:54:11,true
+41731,10257,phone ,service_reminder,2025-04-11 17:48:44,true
+41732,11525,phone,spring_sale,2025-05-06 05:24:03,true
+41733,14026,third_party_site ,spring_sale,2025-05-25 12:46:45,true
+41734,11404,PHONE,spring_sale,2025-01-10 18:47:27,false
+41735,11144,WALK-IN,trade_in_bonus,2026-05-11 13:35:32,false
+41736,12108,web,0_apr_event,2024-08-29 19:33:39,false
+41737,13198,web,service_reminder,2026-04-25 19:59:35,false
+41738,11326,walk-in ,0_apr_event,2025-11-20 08:24:46,true
+41739,10116,PHONE,trade_in_bonus,2024-09-23 19:48:31,false
+41740,,WALK-IN,service_reminder,2026-05-26 16:36:06,true
+41741,10921,REFERRAL,service_reminder,2025-05-01 20:36:15,false
+41742,13134,third_party_site,spring_sale,2024-07-27 02:25:33,false
+41743,13417,REFERRAL,spring_sale,2025-09-10 22:52:04,true
+41744,,walk-in,0_apr_event,2025-09-24 09:48:48,true
+41745,13352,web ,service_reminder,2025-07-28 01:32:42,true
+41746,14591,WEB,trade_in_bonus,2025-11-08 02:24:52,false
+41747,12170,walk-in,trade_in_bonus,2024-08-05 15:22:57,false
+41748,11447,PHONE,trade_in_bonus,2025-10-30 15:58:07,true
+41749,14124,third_party_site ,0_apr_event,2025-03-18 16:05:52,false
+41750,13413,WALK-IN,trade_in_bonus,2025-06-26 18:06:18,false
+41751,14185,WALK-IN,0_apr_event,2024-09-24 17:25:01,true
+41752,11425,third_party_site,0_apr_event,2026-04-07 22:34:32,true
+41753,13412,web,spring_sale,2025-10-31 02:00:05,true
+41754,15120,WALK-IN,service_reminder,2024-11-24 16:47:00,true
+41755,12202,referral ,trade_in_bonus,2025-10-21 21:41:36,true
+41756,14934,REFERRAL,service_reminder,2026-05-21 22:24:07,false
+41757,11097,PHONE,trade_in_bonus,2025-03-06 21:15:41,true
+41758,12584,REFERRAL,trade_in_bonus,2025-07-12 04:23:01,false
+41759,10790,PHONE,trade_in_bonus,2025-01-21 13:18:37,false
+41760,10792,web,0_apr_event,2026-03-29 02:50:44,true
+41761,14479,PHONE,0_apr_event,2026-04-15 13:33:52,false
+41762,11842,walk-in,service_reminder,2026-03-28 14:11:01,true
+41763,12794,phone ,trade_in_bonus,2025-07-09 17:48:38,false
+41764,12498,phone,spring_sale,2026-01-24 03:43:31,true
+41765,11103,web,trade_in_bonus,2024-08-06 04:03:25,true
+41766,10973,third_party_site,0_apr_event,2025-08-13 18:06:39,false
+41767,12990,web,trade_in_bonus,2024-07-30 03:18:30,false
+41768,14167,referral,service_reminder,2024-07-17 22:07:13,false
+41769,13445,referral ,spring_sale,2026-01-27 21:09:47,false
+41770,13379,third_party_site,service_reminder,2025-03-21 12:51:27,true
+41771,11130,walk-in,0_apr_event,2024-09-08 18:23:45,false
+41772,14697,referral,0_apr_event,2025-03-01 10:21:21,true
+41773,10038,REFERRAL,0_apr_event,2025-05-13 06:39:57,true
+41774,10849,PHONE,service_reminder,2025-01-24 07:07:17,true
+41775,13834,phone ,0_apr_event,2024-10-13 19:45:15,true
+41776,10810,walk-in ,trade_in_bonus,2026-06-14 10:45:15,true
+41777,14837,PHONE,spring_sale,2025-01-18 19:20:20,true
+41778,12109,PHONE,spring_sale,2024-07-17 07:34:13,false
+41779,10257,walk-in ,trade_in_bonus,2025-05-18 03:49:07,false
+41780,,WALK-IN,trade_in_bonus,2024-07-13 15:47:41,false
+41781,12445,REFERRAL,0_apr_event,2024-08-17 22:57:48,true
+41782,12604,PHONE,0_apr_event,2026-03-11 07:19:45,true
+41783,13601,web,service_reminder,2025-04-04 21:32:43,true
+41784,11603,referral ,service_reminder,2025-09-05 17:07:30,true
+41785,12134,WALK-IN,trade_in_bonus,2026-02-22 15:11:39,false
+41786,13972,PHONE,trade_in_bonus,2024-08-01 15:07:17,true
+41787,14419,walk-in ,0_apr_event,2024-08-31 10:39:31,true
+41788,14197,referral ,service_reminder,2024-07-15 13:04:45,true
+41789,13422,third_party_site,spring_sale,2026-07-02 10:18:26,false
+41790,13025,REFERRAL,spring_sale,2024-08-16 00:09:40,false
+41791,13427,referral,trade_in_bonus,2025-11-11 10:42:19,true
+41792,13553,WEB,service_reminder,2024-07-23 10:41:21,false
+41793,13163,web,spring_sale,2026-02-21 05:07:25,false
+41794,12611,REFERRAL,trade_in_bonus,2026-06-25 18:39:28,false
+41795,13966,walk-in,service_reminder,2024-08-24 21:14:53,true
+41796,12128,phone,service_reminder,2025-03-20 09:35:12,false
+41797,10640,walk-in,service_reminder,2025-01-14 15:54:16,false
+41798,13178,third_party_site,trade_in_bonus,2024-09-23 16:17:44,false
+41799,11154,web ,spring_sale,2026-03-20 14:03:32,false
+41800,11601,web,service_reminder,2026-06-22 04:53:39,false
+41801,15184,phone ,service_reminder,2025-02-23 22:40:07,false
+41802,12118,web,trade_in_bonus,2026-02-02 23:32:38,false
+41803,10989,phone ,0_apr_event,2025-09-13 02:35:24,true
+41804,10843,phone,0_apr_event,2025-12-06 13:38:36,true
+41805,12228,WEB,service_reminder,2026-07-05 22:47:47,true
+41806,13906,referral ,0_apr_event,2026-01-14 07:04:25,false
+41807,14825,web ,spring_sale,2026-03-07 05:52:07,false
+41808,10507,third_party_site ,service_reminder,2025-01-04 06:07:39,true
+41809,10461,walk-in ,0_apr_event,2025-01-25 01:30:29,true
+41810,14284,WALK-IN,spring_sale,2024-09-17 22:26:02,true
+41811,15077,phone,trade_in_bonus,2024-08-06 14:47:41,false
+41812,12941,third_party_site ,spring_sale,2024-12-21 23:37:43,false
+41813,13819,PHONE,0_apr_event,2026-05-25 18:06:28,false
+41814,14716,WALK-IN,0_apr_event,2026-06-16 04:07:18,false
+41815,13335,walk-in,service_reminder,2025-09-19 06:42:34,true
+41816,10795,web,spring_sale,2024-10-24 11:55:18,false
+41817,11739,referral ,0_apr_event,2026-07-04 12:59:33,true
+41818,13026,web,0_apr_event,2025-08-09 06:51:32,true
+41819,14409,PHONE,spring_sale,2024-10-30 23:56:39,false
+41820,14265,referral ,0_apr_event,2026-05-31 19:39:09,true
+41821,11675,third_party_site ,trade_in_bonus,2025-09-27 02:42:18,true
+41822,14637,web ,trade_in_bonus,2024-11-07 13:52:04,true
+41823,12540,web,service_reminder,2025-10-21 04:58:17,false
+41824,11169,third_party_site ,service_reminder,2024-09-22 06:37:03,false
+41825,,web ,trade_in_bonus,2025-06-09 21:31:27,false
+41826,13812,WEB,0_apr_event,2025-12-29 09:10:06,false
+41827,13531,PHONE,spring_sale,2025-09-22 21:46:48,false
+41828,13618,third_party_site,0_apr_event,2026-02-26 00:12:50,true
+41829,10004,third_party_site,service_reminder,2024-12-30 04:39:47,false
+41830,10807,third_party_site ,spring_sale,2025-11-25 06:15:27,false
+41831,11872,Referal,spring_sale,2025-04-14 00:12:54,false
+41832,12228,web,service_reminder,2026-07-07 11:07:46,true
+41833,14617,WALK-IN,spring_sale,2025-12-21 22:36:23,true
+41834,10722,walk-in,spring_sale,2025-07-19 03:32:46,true
+41835,12916,web,spring_sale,2026-01-25 01:44:12,false
+41836,13652,walk-in,0_apr_event,2025-04-02 09:46:50,false
+41837,11972,PHONE,spring_sale,2025-12-19 22:51:57,false
+41838,14052,Referal,0_apr_event,2026-01-23 07:02:19,false
+41839,14458,referral ,trade_in_bonus,2025-07-11 21:37:50,false
+41840,11727,walk-in ,service_reminder,2026-02-13 16:00:56,false
+41841,10345,walk-in ,trade_in_bonus,2025-05-17 17:30:56,true
+41842,12414,WEB,spring_sale,2024-07-26 14:07:11,true
+41843,10402,phone ,0_apr_event,2026-01-22 15:46:39,true
+41844,14637,walk-in ,spring_sale,2024-11-25 15:54:07,false
+41845,15123,WALK-IN,0_apr_event,2026-06-27 20:35:13,true
+41846,15165,web,spring_sale,2025-02-02 11:53:50,true
+41847,10819,THIRD_PARTY_SITE,spring_sale,2024-11-27 08:06:37,false
+41848,13554,WALK-IN,trade_in_bonus,2025-08-10 04:54:14,true
+41849,13082,phone,spring_sale,2026-05-16 01:14:09,true
+41850,10498,WALK-IN,trade_in_bonus,2026-04-09 18:52:32,false
+41851,13930,WEB,0_apr_event,2024-11-22 12:32:01,false
+41852,12593,walk-in ,service_reminder,2025-01-01 12:54:11,false
+41853,10523,WEB,0_apr_event,2024-08-01 15:55:48,false
+41854,13698,walk-in,trade_in_bonus,2024-12-20 22:09:00,false
+41855,10137,WALK-IN,0_apr_event,2024-10-21 17:55:16,true
+41856,10577,phone ,spring_sale,2025-02-21 04:36:06,false
+41857,14975,web,trade_in_bonus,2025-12-19 20:34:26,false
+41858,11135,third_party_site,trade_in_bonus,2025-11-30 00:02:50,false
+41859,10735,web,service_reminder,2025-07-17 02:23:38,true
+41860,14258,walk-in,service_reminder,2025-05-04 16:02:04,false
+41861,12421,third_party_site,trade_in_bonus,2025-02-23 00:54:28,false
+41862,13205,THIRD_PARTY_SITE,trade_in_bonus,2026-02-23 12:28:39,false
+41863,12714,walk-in,spring_sale,2026-02-17 16:03:44,true
+41864,10917,referral ,0_apr_event,2024-10-16 20:24:30,false
+41865,12540,PHONE,spring_sale,2024-11-10 08:02:03,false
+41866,13002,web,spring_sale,2025-04-26 10:30:24,true
+41867,11394,web,service_reminder,2026-06-07 08:03:09,false
+41868,10448,walk-in ,0_apr_event,2024-12-15 18:38:03,true
+41869,10214,WALK-IN,spring_sale,2025-01-13 16:13:52,false
+41870,10428,walk-in,trade_in_bonus,2025-09-18 12:06:52,true
+41871,11231,third_party_site,trade_in_bonus,2025-01-03 22:35:35,false
+41872,13671,referral ,spring_sale,2024-09-25 09:51:54,true
+41873,13796,web,service_reminder,2024-11-18 15:03:06,false
+41874,11734,walk-in,trade_in_bonus,2026-05-26 20:15:44,true
+41875,13826,phone,service_reminder,2024-08-16 03:08:06,true
+41876,11346,phone ,service_reminder,2025-09-14 02:07:31,true
+41877,11704,walk-in ,0_apr_event,2025-10-12 09:18:03,false
+41878,15101,Referal,0_apr_event,2025-07-13 13:48:32,false
+41879,14752,walk-in ,spring_sale,2024-12-19 21:02:14,false
+41880,10616,Referal,0_apr_event,2026-05-21 05:03:16,true
+41881,13503,walk-in,trade_in_bonus,2024-12-22 07:48:05,false
+41882,12393,third_party_site ,service_reminder,2025-06-18 11:25:12,false
+41883,13580,phone ,0_apr_event,2026-03-23 09:51:03,false
+41884,10037,referral,service_reminder,2025-07-03 08:43:34,false
+41885,10429,phone,service_reminder,2026-02-01 12:00:13,false
+41886,10546,web ,spring_sale,2026-04-18 11:50:06,false
+41887,12715,phone,spring_sale,2025-09-02 10:10:04,false
+41888,13480,Referal,service_reminder,2024-08-19 06:35:14,false
+41889,,third_party_site,0_apr_event,2025-11-16 06:19:54,false
+41890,10056,PHONE,trade_in_bonus,2025-03-12 22:54:45,false
+41891,,referral,service_reminder,2024-09-11 08:10:46,true
+41892,12706,WEB,spring_sale,2026-03-29 00:13:48,true
+41893,11432,WEB,trade_in_bonus,2025-06-28 22:14:41,true
+41894,12308,Referal,trade_in_bonus,2024-10-15 07:41:54,false
+41895,12656,web ,service_reminder,2026-06-12 05:57:23,false
+41896,13861,web ,spring_sale,2025-03-28 19:14:25,true
+41897,12694,referral ,trade_in_bonus,2025-12-22 16:39:05,false
+41898,15178,walk-in ,0_apr_event,2026-01-13 10:30:17,true
+41899,12847,walk-in ,0_apr_event,2026-04-10 12:27:23,true
+41900,13879,referral,trade_in_bonus,2026-05-21 03:58:08,true
+41901,10362,web,service_reminder,2025-05-13 11:02:06,false
+41902,13748,walk-in,spring_sale,2026-04-13 15:35:21,true
+41903,14975,PHONE,trade_in_bonus,2026-01-14 16:12:36,false
+41904,14625,third_party_site,spring_sale,2026-01-10 20:11:55,false
+41905,12309,Referal,spring_sale,2024-07-11 11:56:03,false
+41906,12206,web,0_apr_event,2025-03-09 17:54:35,false
+41907,14259,walk-in ,0_apr_event,2024-09-20 02:27:54,false
+41908,12233,walk-in,spring_sale,2025-10-01 02:47:46,false
+41909,14170,referral,trade_in_bonus,2025-04-17 15:23:19,false
+41910,14672,web,service_reminder,2025-06-13 16:41:38,true
+41911,10286,referral ,spring_sale,2025-04-25 18:03:48,false
+41912,10990,third_party_site,trade_in_bonus,2025-11-23 23:44:36,false
+41913,13668,phone,service_reminder,2024-09-05 22:06:46,false
+41914,10243,phone,service_reminder,2025-12-29 23:43:14,false
+41915,12991,WEB,0_apr_event,2026-06-24 21:13:13,true
+41916,14923,referral ,0_apr_event,2024-09-10 11:09:23,true
+41917,10505,PHONE,trade_in_bonus,2024-10-27 16:30:05,false
+41918,10905,Referal,0_apr_event,2025-10-15 14:26:50,true
+41919,10171,THIRD_PARTY_SITE,service_reminder,2024-12-04 09:15:01,false
+41920,10089,WALK-IN,0_apr_event,2026-05-01 16:43:44,true
+41921,10223,third_party_site ,0_apr_event,2024-10-27 14:52:41,false
+41922,12739,PHONE,0_apr_event,2025-10-22 09:02:36,false
+41923,14608,Referal,trade_in_bonus,2025-04-18 00:51:56,true
+41924,14646,third_party_site ,spring_sale,2026-06-18 19:59:27,true
+41925,13880,third_party_site,spring_sale,2025-03-26 00:11:54,true
+41926,10726,web,trade_in_bonus,2025-11-19 04:55:27,true
+41927,14998,REFERRAL,trade_in_bonus,2025-09-26 19:53:58,true
+41928,11927,walk-in ,spring_sale,2025-07-20 05:41:22,false
+41929,,phone,trade_in_bonus,2024-11-11 09:15:31,false
+41930,14930,PHONE,trade_in_bonus,2025-09-18 09:38:59,false
+41931,15049,web,trade_in_bonus,2024-09-01 15:36:55,true
+41932,10414,THIRD_PARTY_SITE,trade_in_bonus,2025-07-13 19:27:37,true
+41933,14253,REFERRAL,0_apr_event,2024-08-04 12:47:19,true
+41934,14219,third_party_site,service_reminder,2026-07-07 04:02:34,false
+41935,13898,web,0_apr_event,2024-12-25 03:05:54,true
+41936,12792,third_party_site,spring_sale,2025-11-11 12:08:08,true
+41937,11345,walk-in ,spring_sale,2025-04-13 14:02:49,false
+41938,,WEB,spring_sale,2024-12-19 12:27:37,true
+41939,12260,walk-in ,spring_sale,2025-10-31 04:46:07,true
+41940,10486,Referal,trade_in_bonus,2025-07-31 01:33:36,false
+41941,10745,PHONE,trade_in_bonus,2024-10-02 02:55:42,true
+41942,14265,WEB,service_reminder,2026-01-13 00:44:05,true
+41943,10385,web ,trade_in_bonus,2025-03-11 00:53:56,false
+41944,14531,referral ,service_reminder,2026-01-03 17:40:14,true
+41945,13157,phone,spring_sale,2024-09-06 15:13:05,false
+41946,14212,walk-in,trade_in_bonus,2025-12-30 20:48:41,false
+41947,,phone,0_apr_event,2026-03-22 12:50:03,false
+41948,11746,PHONE,trade_in_bonus,2025-05-06 06:06:01,true
+41949,12009,referral,spring_sale,2025-09-08 04:21:22,true
+41950,12100,third_party_site,0_apr_event,2025-09-19 05:34:52,true
+41951,14616,web ,0_apr_event,2026-01-07 03:04:32,false
+41952,14784,Referal,trade_in_bonus,2025-10-08 14:54:49,false
+41953,11202,web ,service_reminder,2026-03-19 21:43:31,false
+41954,12512,walk-in,service_reminder,2026-06-12 14:02:18,false
+41955,14662,referral,0_apr_event,2025-07-18 01:56:25,false
+41956,12323,referral ,0_apr_event,2026-02-28 05:08:30,false
+41957,12975,phone ,spring_sale,2025-06-01 04:13:51,false
+41958,11312,REFERRAL,service_reminder,2026-04-16 06:02:20,false
+41959,10141,THIRD_PARTY_SITE,spring_sale,2025-05-11 09:16:34,false
+41960,10674,phone ,trade_in_bonus,2026-04-23 21:31:12,true
+41961,14883,WEB,service_reminder,2025-12-25 00:41:39,false
+41962,14317,WALK-IN,service_reminder,2026-04-29 00:46:58,false
+41963,11086,phone,0_apr_event,2025-08-25 07:11:20,false
+41964,11338,referral,trade_in_bonus,2026-01-22 18:03:12,false
+41965,10013,WALK-IN,0_apr_event,2024-10-21 16:45:43,true
+41966,13890,WALK-IN,trade_in_bonus,2025-03-02 06:00:25,false
+41967,10357,phone ,spring_sale,2025-12-14 23:54:51,false
+41968,13912,web,service_reminder,2025-10-10 07:33:22,true
+41969,14881,third_party_site,service_reminder,2025-08-02 04:46:26,true
+41970,13055,walk-in,spring_sale,2026-06-17 16:37:49,false
+41971,11550,phone ,0_apr_event,2025-03-12 02:44:32,true
+41972,11855,walk-in,0_apr_event,2024-07-09 02:40:27,false
+41973,10500,third_party_site ,spring_sale,2026-05-17 03:02:24,true
+41974,14929,third_party_site ,trade_in_bonus,2025-01-14 05:36:11,true
+41975,14590,walk-in ,trade_in_bonus,2024-12-12 01:53:18,true
+41976,11555,walk-in ,0_apr_event,2025-07-06 23:39:39,true
+41977,11602,walk-in ,service_reminder,2024-09-27 00:40:41,true
+41978,13644,walk-in,0_apr_event,2025-03-01 00:37:11,true
+41979,14630,WALK-IN,0_apr_event,2025-02-01 02:08:04,true
+41980,11606,web,spring_sale,2025-07-01 06:51:23,false
+41981,13082,WALK-IN,trade_in_bonus,2026-01-29 10:31:25,false
+41982,10032,third_party_site,trade_in_bonus,2024-09-20 21:54:14,false
+41983,14119,walk-in,service_reminder,2024-12-20 08:32:58,true
+41984,10685,walk-in ,service_reminder,2024-09-23 17:19:44,false
+41985,10640,WEB,0_apr_event,2025-05-16 00:14:12,true
+41986,14122,walk-in,trade_in_bonus,2025-09-09 02:09:43,false
+41987,15108,REFERRAL,spring_sale,2026-05-17 03:53:10,false
+41988,14776,web ,trade_in_bonus,2025-07-01 07:19:00,true
+41989,14633,phone,0_apr_event,2025-04-10 12:11:48,true
+41990,12936,web,spring_sale,2026-04-14 11:35:55,true
+41991,12432,WEB,service_reminder,2024-11-07 19:25:02,false
+41992,10960,WALK-IN,spring_sale,2026-05-20 22:30:14,false
+41993,13862,referral,spring_sale,2025-08-09 07:26:36,true
+41994,,phone,0_apr_event,2025-05-07 17:40:29,false
+41995,11960,third_party_site,trade_in_bonus,2026-02-15 04:37:41,false
+41996,13695,web ,0_apr_event,2025-11-19 14:58:49,true
+41997,11859,WEB,spring_sale,2025-11-28 22:40:24,true
+41998,10638,THIRD_PARTY_SITE,trade_in_bonus,2025-06-04 17:15:34,false
+41999,13888,walk-in ,spring_sale,2025-03-12 02:30:01,true
+42000,14271,WEB,spring_sale,2026-04-20 12:21:40,true
+42001,11253,walk-in,spring_sale,2025-12-28 07:52:03,false
+42002,,phone ,trade_in_bonus,2024-10-13 14:28:58,false
+42003,11249,THIRD_PARTY_SITE,0_apr_event,2025-02-09 17:40:02,false
+42004,13223,referral ,service_reminder,2025-01-02 05:32:08,false
+42005,10630,phone,0_apr_event,2025-02-04 10:07:48,false
+42006,14876,WEB,service_reminder,2025-11-10 09:07:09,false
+42007,12312,WALK-IN,service_reminder,2026-07-04 10:00:43,true
+42008,12095,phone,service_reminder,2026-01-08 15:57:45,false
+42009,11030,walk-in,service_reminder,2024-11-14 04:59:39,false
+42010,12492,phone,0_apr_event,2025-01-04 14:39:18,false
+42011,12748,WALK-IN,0_apr_event,2024-10-12 13:09:10,true
+42012,12950,third_party_site,0_apr_event,2025-08-10 06:50:36,true
+42013,14951,phone,service_reminder,2026-03-17 09:30:44,false
+42014,10681,third_party_site,spring_sale,2026-07-05 17:29:51,true
+42015,14191,third_party_site,trade_in_bonus,2026-03-17 02:18:53,true
+42016,10381,web ,service_reminder,2025-08-28 07:55:48,false
+42017,14638,third_party_site ,trade_in_bonus,2024-09-06 10:40:04,true
+42018,12605,REFERRAL,0_apr_event,2025-04-14 07:28:17,true
+42019,10188,REFERRAL,service_reminder,2025-06-17 11:40:18,true
+42020,13407,third_party_site,trade_in_bonus,2025-12-16 06:31:09,false
+42021,13025,REFERRAL,service_reminder,2026-03-09 02:58:35,false
+42022,15191,third_party_site,0_apr_event,2026-02-20 20:44:42,false
+42023,13958,REFERRAL,0_apr_event,2024-11-29 00:29:28,false
+42024,15178,third_party_site,0_apr_event,2024-10-20 04:36:12,true
+42025,11373,phone ,service_reminder,2024-11-18 07:00:15,false
+42026,14053,third_party_site ,spring_sale,2025-05-16 00:11:59,false
+42027,13532,PHONE,0_apr_event,2025-01-16 03:30:09,true
+42028,14191,web ,spring_sale,2026-02-18 16:29:27,false
+42029,14280,third_party_site ,0_apr_event,2025-02-24 08:26:42,true
+42030,14936,WALK-IN,0_apr_event,2024-09-05 19:33:55,false
+42031,14610,THIRD_PARTY_SITE,service_reminder,2025-11-22 08:55:30,false
+42032,13598,web,spring_sale,2025-06-19 08:37:21,true
+42033,15102,Referal,trade_in_bonus,2026-04-20 22:30:00,false
+42034,14584,phone ,service_reminder,2026-01-21 12:40:30,true
+42035,11484,WEB,service_reminder,2026-06-03 23:07:45,true
+42036,15171,web,0_apr_event,2025-08-04 17:25:01,false
+42037,12242,web,trade_in_bonus,2025-07-12 05:32:05,false
+42038,10470,walk-in,service_reminder,2025-09-07 07:10:45,false
+42039,10117,PHONE,trade_in_bonus,2025-01-26 23:31:51,false
+42040,,web,spring_sale,2025-12-29 06:13:15,true
+42041,12036,phone,service_reminder,2025-08-14 19:44:45,true
+42042,13376,phone,service_reminder,2025-12-13 18:40:44,false
+42043,11918,PHONE,spring_sale,2025-05-13 06:58:02,false
+42044,11174,phone ,trade_in_bonus,2026-03-16 21:58:36,false
+42045,10388,web,spring_sale,2026-01-30 10:01:54,false
+42046,13626,phone ,spring_sale,2024-08-23 07:09:19,true
+42047,13785,web,trade_in_bonus,2025-11-04 06:24:35,true
+42048,13263,phone,spring_sale,2026-04-08 02:25:31,false
+42049,14315,REFERRAL,service_reminder,2025-03-14 02:17:08,true
+42050,,web,spring_sale,2025-02-24 04:13:37,true
+42051,11151,walk-in,trade_in_bonus,2025-02-07 13:43:16,false
+42052,11788,third_party_site,0_apr_event,2025-03-03 22:38:33,true
+42053,10293,web,spring_sale,2025-10-08 23:15:24,false
+42054,12201,third_party_site,spring_sale,2025-07-03 09:05:49,false
+42055,13575,third_party_site,spring_sale,2025-04-19 06:50:24,true
+42056,10901,referral ,spring_sale,2025-04-20 14:34:31,true
+42057,13487,WALK-IN,trade_in_bonus,2025-03-28 10:29:29,true
+42058,14649,phone ,trade_in_bonus,2026-04-28 05:58:56,false
+42059,13164,web,service_reminder,2024-12-15 07:06:35,true
+42060,13971,WEB,0_apr_event,2024-07-28 16:29:13,false
+42061,14875,phone ,0_apr_event,2026-05-16 11:32:35,true
+42062,12257,walk-in,trade_in_bonus,2025-06-16 19:00:53,false
+42063,12158,third_party_site,0_apr_event,2025-03-07 17:36:45,false
+42064,15061,referral,trade_in_bonus,2025-10-07 20:20:55,false
+42065,12064,walk-in,trade_in_bonus,2026-03-22 20:31:26,true
+42066,11470,walk-in,service_reminder,2024-11-14 01:07:38,false
+42067,13627,phone,trade_in_bonus,2026-03-03 10:39:57,true
+42068,,web,spring_sale,2025-07-03 10:05:57,true
+42069,11068,WEB,spring_sale,2026-03-09 20:22:45,false
+42070,13787,referral ,trade_in_bonus,2025-06-16 20:44:20,true
+42071,14008,third_party_site,service_reminder,2025-12-03 23:29:54,true
+42072,10360,Referal,trade_in_bonus,2026-03-26 19:24:16,true
+42073,13168,phone,service_reminder,2025-03-19 12:35:41,false
+42074,13100,WEB,service_reminder,2025-09-12 00:12:18,false
+42075,14901,web,0_apr_event,2026-05-13 11:33:50,false
+42076,13400,referral ,0_apr_event,2024-07-13 20:25:34,false
+42077,12169,Referal,0_apr_event,2025-10-26 11:57:18,false
+42078,10967,walk-in,spring_sale,2024-09-04 21:01:34,false
+42079,11371,PHONE,trade_in_bonus,2025-08-20 06:13:32,false
+42080,11197,walk-in,service_reminder,2025-12-09 06:23:33,false
+42081,12106,third_party_site ,trade_in_bonus,2026-06-04 09:33:01,false
+42082,14867,Referal,0_apr_event,2024-08-26 20:31:38,false
+42083,10481,walk-in,spring_sale,2025-09-23 10:16:21,true
+42084,12460,walk-in,service_reminder,2024-09-26 22:08:40,false
+42085,14616,referral ,trade_in_bonus,2025-04-22 09:08:51,true
+42086,11762,WALK-IN,0_apr_event,2025-09-12 17:37:48,false
+42087,11789,Referal,service_reminder,2026-07-01 22:55:09,true
+42088,14292,third_party_site,0_apr_event,2024-10-13 08:51:44,false
+42089,12485,THIRD_PARTY_SITE,spring_sale,2025-11-06 20:09:32,true
+42090,15037,third_party_site,spring_sale,2026-05-09 15:16:26,true
+42091,13824,phone,spring_sale,2024-10-08 18:15:21,false
+42092,13948,web,0_apr_event,2025-01-20 13:22:42,true
+42093,10648,referral,service_reminder,2025-02-08 10:37:52,true
+42094,12898,walk-in ,trade_in_bonus,2025-12-31 09:03:10,true
+42095,14468,phone,0_apr_event,2026-03-31 13:22:44,true
+42096,10526,PHONE,service_reminder,2025-12-17 06:46:48,false
+42097,,PHONE,spring_sale,2025-04-21 01:12:42,false
+42098,14945,third_party_site,spring_sale,2024-10-09 08:02:38,true
+42099,12170,REFERRAL,spring_sale,2026-04-27 05:33:32,true
+42100,13999,WALK-IN,spring_sale,2024-09-13 15:58:26,false
+42101,14636,REFERRAL,service_reminder,2025-01-24 01:57:35,false
+42102,14536,WEB,service_reminder,2026-01-16 05:33:27,true
+42103,13225,phone,trade_in_bonus,2024-07-21 12:32:14,true
+42104,12020,web,service_reminder,2026-01-10 19:56:12,false
+42105,14889,third_party_site,spring_sale,2025-02-24 08:55:00,false
+42106,11524,phone ,trade_in_bonus,2025-08-12 06:06:06,true
+42107,,phone ,service_reminder,2025-01-14 23:51:55,true
+42108,11629,THIRD_PARTY_SITE,spring_sale,2026-06-25 11:52:26,false
+42109,11101,third_party_site ,0_apr_event,2026-02-16 17:22:08,true
+42110,12330,phone ,trade_in_bonus,2025-04-01 00:02:16,false
+42111,12753,walk-in,trade_in_bonus,2025-07-20 21:48:07,false
+42112,14974,PHONE,trade_in_bonus,2024-12-29 13:27:48,false
+42113,12418,web ,trade_in_bonus,2025-09-16 10:01:48,true
+42114,,web ,service_reminder,2026-01-04 15:52:55,true
+42115,13877,phone ,0_apr_event,2024-11-27 20:45:14,false
+42116,10257,Referal,service_reminder,2025-07-12 07:15:09,false
+42117,13532,THIRD_PARTY_SITE,trade_in_bonus,2025-12-27 12:30:12,true
+42118,11977,web,trade_in_bonus,2025-03-16 17:19:26,false
+42119,11601,third_party_site ,trade_in_bonus,2025-06-17 22:07:04,false
+42120,11689,phone,trade_in_bonus,2024-10-09 02:31:22,true
+42121,12940,walk-in ,0_apr_event,2025-05-04 11:46:05,false
+42122,11008,walk-in,spring_sale,2024-10-25 03:28:39,true
+42123,10999,PHONE,trade_in_bonus,2025-09-12 19:04:21,false
+42124,13370,walk-in ,trade_in_bonus,2025-02-05 16:42:14,true
+42125,12784,phone ,0_apr_event,2026-04-05 20:20:33,true
+42126,14487,phone,service_reminder,2025-05-06 00:03:22,true
+42127,14986,walk-in ,spring_sale,2025-12-19 00:21:42,true
+42128,12283,THIRD_PARTY_SITE,0_apr_event,2025-08-28 02:24:19,false
+42129,13965,walk-in,0_apr_event,2025-10-12 10:24:59,true
+42130,11656,web,spring_sale,2024-09-21 08:47:36,true
+42131,,THIRD_PARTY_SITE,service_reminder,2025-03-29 04:21:54,false
+42132,11255,phone,0_apr_event,2025-12-20 18:31:59,true
+42133,13253,PHONE,spring_sale,2026-03-17 10:46:10,false
+42134,12898,web,service_reminder,2025-03-25 05:03:58,true
+42135,11053,third_party_site ,service_reminder,2025-04-22 17:27:59,false
+42136,12256,referral,service_reminder,2026-01-31 05:46:27,false
+42137,11939,walk-in,spring_sale,2025-08-19 10:23:22,true
+42138,14440,referral ,spring_sale,2024-10-13 06:13:41,true
+42139,11026,web,service_reminder,2026-06-14 12:54:28,true
+42140,13350,WALK-IN,trade_in_bonus,2024-11-27 19:51:53,false
+42141,14505,REFERRAL,trade_in_bonus,2025-09-27 22:43:35,true
+42142,12901,phone,trade_in_bonus,2024-11-12 23:46:59,true
+42143,11970,third_party_site,spring_sale,2025-04-17 13:05:43,false
+42144,12633,referral ,trade_in_bonus,2024-08-01 03:29:38,true
+42145,,referral ,service_reminder,2024-07-20 02:02:35,false
+42146,12384,web ,service_reminder,2025-03-22 03:43:31,false
+42147,14108,walk-in,service_reminder,2026-06-01 15:55:35,true
+42148,11434,REFERRAL,trade_in_bonus,2025-04-16 21:58:56,false
+42149,12724,phone ,service_reminder,2024-10-19 14:44:17,false
+42150,10457,phone,trade_in_bonus,2025-07-06 20:53:22,false
+42151,,phone,service_reminder,2025-06-05 19:16:58,true
+42152,14716,referral,0_apr_event,2025-07-01 10:12:27,true
+42153,10388,phone,0_apr_event,2024-08-22 02:29:14,false
+42154,11714,walk-in,0_apr_event,2024-09-25 12:07:13,false
+42155,10879,referral,trade_in_bonus,2025-06-14 23:16:31,false
+42156,,REFERRAL,service_reminder,2026-04-04 13:06:04,false
+42157,11724,Referal,spring_sale,2025-05-17 10:50:44,true
+42158,,WEB,spring_sale,2025-09-19 11:26:39,false
+42159,15179,walk-in,trade_in_bonus,2024-12-08 15:47:13,true
+42160,14640,WEB,spring_sale,2025-10-02 08:55:05,false
+42161,11054,web,0_apr_event,2026-01-09 15:21:42,true
+42162,14299,web,0_apr_event,2025-12-29 08:04:48,false
+42163,10066,web,service_reminder,2026-02-12 00:44:29,false
+42164,12617,WALK-IN,service_reminder,2024-09-13 19:15:46,true
+42165,10709,REFERRAL,trade_in_bonus,2025-03-23 14:44:00,true
+42166,13308,phone ,spring_sale,2026-01-20 08:25:27,false
+42167,11646,WEB,spring_sale,2024-08-03 05:49:26,false
+42168,14665,walk-in,trade_in_bonus,2025-02-28 15:34:27,false
+42169,14006,PHONE,0_apr_event,2026-06-12 05:02:18,false
+42170,14030,phone ,spring_sale,2026-01-06 05:36:04,true
+42171,11045,Referal,service_reminder,2026-04-23 18:36:30,false
+42172,11758,third_party_site,service_reminder,2025-09-14 04:47:41,true
+42173,12702,REFERRAL,service_reminder,2025-12-19 03:49:56,true
+42174,11600,referral,trade_in_bonus,2025-10-30 10:49:52,false
+42175,,walk-in ,service_reminder,2026-01-02 09:46:16,true
+42176,12550,third_party_site,service_reminder,2025-09-12 08:42:54,false
+42177,12423,phone ,0_apr_event,2025-03-26 02:30:07,false
+42178,10942,third_party_site,trade_in_bonus,2025-10-18 08:36:58,true
+42179,11042,referral ,service_reminder,2024-11-26 10:33:21,false
+42180,10328,referral,trade_in_bonus,2024-12-28 14:48:21,true
+42181,11704,Referal,0_apr_event,2025-11-03 23:32:07,true
+42182,13407,Referal,service_reminder,2025-11-19 19:13:43,true
+42183,12184,Referal,service_reminder,2026-05-09 14:47:13,true
+42184,10711,walk-in ,trade_in_bonus,2025-01-20 19:49:07,true
+42185,10715,web,0_apr_event,2025-09-22 02:21:49,false
+42186,11109,third_party_site,service_reminder,2025-09-25 10:10:51,false
+42187,11287,web,service_reminder,2026-05-22 23:16:45,true
+42188,14972,WALK-IN,service_reminder,2026-04-13 14:04:08,false
+42189,13990,phone ,0_apr_event,2026-03-09 01:41:02,true
+42190,,third_party_site ,trade_in_bonus,2026-06-08 12:30:21,false
+42191,10918,THIRD_PARTY_SITE,spring_sale,2025-04-27 02:37:45,true
+42192,12256,WEB,0_apr_event,2025-12-16 08:09:27,true
+42193,10929,PHONE,trade_in_bonus,2025-04-09 15:09:11,true
+42194,10089,phone,service_reminder,2025-07-25 21:10:02,false
+42195,12947,web ,service_reminder,2025-11-26 18:47:36,false
+42196,15097,phone ,0_apr_event,2025-03-25 04:17:31,false
+42197,12913,phone,spring_sale,2025-06-05 20:23:53,true
+42198,14906,web,0_apr_event,2026-01-09 21:44:50,false
+42199,15015,web,trade_in_bonus,2025-03-29 14:56:12,true
+42200,14679,referral,spring_sale,2025-07-02 13:34:34,true
+42201,14041,third_party_site,service_reminder,2024-07-28 03:08:47,false
+42202,14968,third_party_site ,trade_in_bonus,2025-06-03 02:12:18,true
+42203,,walk-in,0_apr_event,2026-04-24 14:01:35,true
+42204,10408,REFERRAL,0_apr_event,2025-01-26 12:17:14,true
+42205,11380,web,service_reminder,2026-05-09 09:30:19,false
+42206,11827,walk-in ,trade_in_bonus,2026-03-13 04:50:16,false
+42207,13903,phone,trade_in_bonus,2025-11-07 19:05:38,false
+42208,10579,web ,trade_in_bonus,2024-10-23 07:05:41,false
+42209,12600,walk-in,service_reminder,2026-01-30 19:34:01,false
+42210,14652,phone,service_reminder,2026-01-08 16:48:14,false
+42211,11607,referral ,0_apr_event,2026-02-14 04:36:20,false
+42212,12300,walk-in,0_apr_event,2025-11-01 06:12:22,true
+42213,14196,walk-in ,0_apr_event,2024-11-13 15:35:08,true
+42214,10544,walk-in,spring_sale,2026-03-22 16:50:41,false
+42215,10349,referral,spring_sale,2026-01-26 11:56:42,true
+42216,13696,WEB,service_reminder,2026-03-04 08:08:58,false
+42217,11996,PHONE,trade_in_bonus,2024-11-25 20:57:52,true
+42218,15190,walk-in ,spring_sale,2024-08-05 05:51:03,false
+42219,13604,web,service_reminder,2024-08-26 14:43:58,true
+42220,13935,phone ,trade_in_bonus,2024-11-21 06:32:36,true
+42221,10849,PHONE,service_reminder,2024-11-20 07:09:09,false
+42222,11093,web ,spring_sale,2024-12-23 08:31:31,false
+42223,10163,phone,trade_in_bonus,2025-01-13 18:13:01,true
+42224,12244,web ,service_reminder,2026-02-07 22:30:06,true
+42225,13439,referral,service_reminder,2025-07-29 21:22:32,false
+42226,10753,referral ,service_reminder,2025-01-16 01:16:25,true
+42227,12593,third_party_site,service_reminder,2025-06-09 10:21:59,true
+42228,11755,phone ,service_reminder,2025-05-24 20:18:46,false
+42229,13794,WEB,spring_sale,2025-04-26 01:23:34,true
+42230,14957,web,service_reminder,2024-08-05 09:51:00,false
+42231,,phone,spring_sale,2026-02-16 22:43:34,true
+42232,13593,third_party_site,trade_in_bonus,2025-02-26 22:18:31,false
+42233,11500,phone ,trade_in_bonus,2025-08-14 20:50:09,true
+42234,10088,walk-in,spring_sale,2025-10-27 18:04:08,false
+42235,12350,phone ,0_apr_event,2026-05-06 09:59:08,true
+42236,14428,phone ,service_reminder,2025-02-09 18:46:59,false
+42237,11585,walk-in,trade_in_bonus,2026-01-29 15:11:35,true
+42238,14530,phone,spring_sale,2025-09-29 19:08:57,true
+42239,13049,phone ,0_apr_event,2024-08-13 11:46:57,false
+42240,13167,REFERRAL,spring_sale,2026-03-11 18:06:45,true
+42241,13429,REFERRAL,spring_sale,2025-05-01 23:38:55,true
+42242,11230,walk-in ,service_reminder,2025-07-31 04:39:25,false
+42243,,WEB,trade_in_bonus,2026-01-16 07:58:20,false
+42244,11955,referral,0_apr_event,2026-06-16 17:24:36,false
+42245,13634,walk-in,0_apr_event,2024-08-13 06:45:50,true
+42246,13473,PHONE,trade_in_bonus,2026-02-13 12:25:32,false
+42247,13511,WEB,trade_in_bonus,2025-02-01 21:22:57,true
+42248,10576,web,trade_in_bonus,2026-02-12 00:50:03,false
+42249,14327,phone ,spring_sale,2025-08-09 19:45:16,false
+42250,11961,third_party_site,service_reminder,2025-11-29 01:21:52,true
+42251,11834,THIRD_PARTY_SITE,trade_in_bonus,2024-08-18 13:18:08,true
+42252,14318,phone,trade_in_bonus,2025-04-08 04:24:58,false
+42253,14337,walk-in ,spring_sale,2026-07-01 09:35:30,false
+42254,13553,third_party_site,service_reminder,2024-09-04 22:29:06,false
+42255,11164,walk-in ,spring_sale,2024-07-17 07:10:38,false
+42256,14942,THIRD_PARTY_SITE,service_reminder,2025-05-27 14:42:43,false
+42257,15176,REFERRAL,spring_sale,2025-05-31 12:29:41,true
+42258,14231,Referal,spring_sale,2024-12-28 11:59:49,true
+42259,12371,walk-in ,spring_sale,2025-01-13 03:38:26,false
+42260,11264,phone,trade_in_bonus,2024-08-14 01:19:01,true
+42261,13683,phone,service_reminder,2025-09-21 07:27:42,false
+42262,14410,phone,trade_in_bonus,2025-11-14 19:25:13,false
+42263,10554,third_party_site,0_apr_event,2025-12-08 19:44:18,false
+42264,13525,THIRD_PARTY_SITE,trade_in_bonus,2026-01-24 18:39:33,true
+42265,13981,referral,service_reminder,2025-12-30 07:05:00,true
+42266,11150,phone,spring_sale,2024-08-06 01:07:21,true
+42267,12291,third_party_site,service_reminder,2024-09-02 16:23:48,true
+42268,10891,third_party_site ,spring_sale,2025-10-14 21:02:20,false
+42269,10665,WALK-IN,0_apr_event,2025-12-26 07:13:56,true
+42270,12985,PHONE,0_apr_event,2025-11-21 22:30:01,false
+42271,11671,third_party_site ,service_reminder,2025-01-08 06:37:38,true
+42272,14288,referral,spring_sale,2024-11-29 19:06:52,false
+42273,12450,walk-in ,spring_sale,2025-12-13 13:31:50,true
+42274,14824,third_party_site,service_reminder,2025-01-06 07:17:58,true
+42275,12194,referral,0_apr_event,2025-09-03 22:35:47,true
+42276,15050,web ,service_reminder,2024-09-23 10:02:00,true
+42277,14976,phone ,0_apr_event,2026-03-03 15:07:40,true
+42278,12635,walk-in,0_apr_event,2026-01-12 07:25:23,false
+42279,10504,phone,service_reminder,2026-06-15 19:48:03,false
+42280,11317,walk-in,0_apr_event,2025-08-29 15:40:01,false
+42281,10693,REFERRAL,trade_in_bonus,2026-07-01 06:11:07,true
+42282,,phone,trade_in_bonus,2024-08-07 18:47:25,false
+42283,10491,phone,service_reminder,2025-03-17 22:27:03,false
+42284,11993,third_party_site,0_apr_event,2026-03-21 14:33:21,true
+42285,11969,third_party_site,spring_sale,2026-05-31 13:07:51,true
+42286,14225,WEB,spring_sale,2026-06-10 13:04:49,false
+42287,10053,web,service_reminder,2026-01-15 07:53:16,true
+42288,12998,third_party_site ,trade_in_bonus,2025-12-18 00:16:44,true
+42289,12117,referral ,0_apr_event,2026-06-11 03:59:44,false
+42290,11738,WALK-IN,spring_sale,2025-08-31 16:58:31,false
+42291,14392,third_party_site ,0_apr_event,2024-10-16 10:05:20,true
+42292,14685,third_party_site ,spring_sale,2025-04-04 04:27:19,false
+42293,14913,WALK-IN,spring_sale,2025-05-01 07:48:03,true
+42294,12596,phone ,spring_sale,2025-11-24 23:49:23,false
+42295,,phone ,spring_sale,2025-08-26 05:48:01,true
+42296,11710,phone,spring_sale,2024-09-16 20:01:02,true
+42297,13971,referral,spring_sale,2025-01-08 01:26:07,true
+42298,11563,web,trade_in_bonus,2024-10-09 00:50:33,true
+42299,12573,walk-in,service_reminder,2025-04-22 03:04:56,true
+42300,11922,WEB,0_apr_event,2024-07-27 22:08:41,true
+42301,10613,third_party_site ,spring_sale,2025-08-14 04:46:12,false
+42302,10428,THIRD_PARTY_SITE,spring_sale,2026-05-31 21:45:02,true
+42303,13346,web ,0_apr_event,2025-01-02 09:00:07,false
+42304,15024,third_party_site,0_apr_event,2025-05-26 14:05:30,false
+42305,14868,walk-in,0_apr_event,2025-11-14 16:17:11,false
+42306,15098,walk-in,spring_sale,2025-12-07 21:09:17,false
+42307,13747,Referal,spring_sale,2026-04-25 06:59:11,false
+42308,11255,walk-in,spring_sale,2024-12-09 04:57:29,false
+42309,10056,third_party_site ,0_apr_event,2024-12-11 12:24:38,false
+42310,12955,web,trade_in_bonus,2026-05-28 08:09:26,true
+42311,10432,phone,0_apr_event,2025-02-08 19:01:07,false
+42312,10453,referral,0_apr_event,2025-07-16 02:35:51,true
+42313,12956,Referal,service_reminder,2025-11-03 03:11:38,false
+42314,14707,walk-in,trade_in_bonus,2025-03-20 15:32:27,true
+42315,12527,phone ,trade_in_bonus,2026-06-29 08:13:36,false
+42316,14645,third_party_site,trade_in_bonus,2026-02-10 12:21:34,false
+42317,10678,third_party_site,spring_sale,2025-09-17 16:30:24,true
+42318,,phone,0_apr_event,2025-05-22 18:59:34,false
+42319,12528,walk-in ,trade_in_bonus,2025-07-01 16:58:12,true
+42320,10609,third_party_site,trade_in_bonus,2024-11-07 00:44:05,false
+42321,11095,walk-in,service_reminder,2025-03-05 20:06:11,true
+42322,14524,WEB,trade_in_bonus,2024-08-19 00:25:56,true
+42323,14402,walk-in,0_apr_event,2025-11-23 08:05:46,false
+42324,12048,phone,trade_in_bonus,2024-09-07 15:03:37,false
+42325,11607,walk-in,0_apr_event,2025-12-09 11:07:36,true
+42326,13415,Referal,service_reminder,2025-05-23 02:27:57,false
+42327,10280,referral,spring_sale,2025-05-04 11:58:45,true
+42328,14557,third_party_site ,trade_in_bonus,2025-03-07 10:17:12,true
+42329,13052,web,0_apr_event,2025-05-17 17:18:17,false
+42330,14453,Referal,spring_sale,2025-01-27 14:29:12,true
+42331,13720,third_party_site ,spring_sale,2024-12-07 02:37:46,false
+42332,14257,web ,spring_sale,2024-12-20 10:48:43,false
+42333,13329,web ,0_apr_event,2026-06-18 14:08:10,true
+42334,10292,web,0_apr_event,2025-07-20 22:15:12,false
+42335,13241,phone,0_apr_event,2025-05-26 10:55:39,false
+42336,12570,REFERRAL,service_reminder,2024-08-13 04:02:36,true
+42337,14066,phone,0_apr_event,2026-06-10 06:48:28,false
+42338,10374,WALK-IN,0_apr_event,2026-03-01 18:08:07,false
+42339,11088,walk-in,service_reminder,2026-03-19 05:38:39,true
+42340,13515,referral ,spring_sale,2025-11-21 04:21:20,false
+42341,13154,WALK-IN,service_reminder,2025-06-13 23:51:24,true
+42342,14404,web ,trade_in_bonus,2025-02-02 23:15:08,true
+42343,12956,WEB,spring_sale,2026-05-17 01:16:07,true
+42344,10932,web,spring_sale,2025-07-08 05:31:59,true
+42345,12372,PHONE,0_apr_event,2025-01-02 23:21:50,false
+42346,14733,walk-in,trade_in_bonus,2026-04-09 02:29:18,true
+42347,15084,web,service_reminder,2025-01-24 21:53:33,true
+42348,13337,THIRD_PARTY_SITE,trade_in_bonus,2025-01-22 09:32:18,false
+42349,12795,third_party_site ,trade_in_bonus,2025-08-31 20:12:44,true
+42350,12574,phone ,spring_sale,2024-08-12 07:37:33,false
+42351,12244,web,trade_in_bonus,2025-02-15 22:56:41,false
+42352,15149,phone,service_reminder,2025-10-29 23:23:14,false
+42353,13599,phone,service_reminder,2026-01-21 20:02:22,true
+42354,11990,referral ,trade_in_bonus,2026-02-04 22:28:52,false
+42355,14146,web ,0_apr_event,2026-05-04 03:23:51,false
+42356,14793,walk-in ,spring_sale,2026-03-11 03:28:35,false
+42357,14210,PHONE,0_apr_event,2026-02-25 10:53:38,false
+42358,,phone,service_reminder,2025-09-06 03:05:56,true
+42359,13119,referral,0_apr_event,2026-06-23 11:12:11,false
+42360,12011,phone ,trade_in_bonus,2025-07-05 17:30:36,true
+42361,12945,phone,0_apr_event,2025-06-26 08:57:25,false
+42362,10895,phone ,spring_sale,2024-11-20 02:46:40,false
+42363,11867,walk-in,service_reminder,2026-03-29 19:28:21,false
+42364,,third_party_site,trade_in_bonus,2025-11-26 06:58:38,false
+42365,14026,third_party_site,spring_sale,2025-10-25 19:00:16,true
+42366,14701,Referal,spring_sale,2025-04-11 23:33:01,false
+42367,10833,referral ,spring_sale,2025-11-27 06:29:03,false
+42368,12943,REFERRAL,service_reminder,2025-04-14 00:18:26,true
+42369,10298,PHONE,service_reminder,2024-11-01 14:47:11,false
+42370,14240,web ,trade_in_bonus,2025-04-22 12:01:55,true
+42371,14431,REFERRAL,service_reminder,2025-02-11 19:14:04,true
+42372,10191,third_party_site,service_reminder,2025-09-09 03:04:53,true
+42373,13156,referral ,0_apr_event,2026-03-24 15:33:44,true
+42374,10057,phone,0_apr_event,2025-06-27 21:10:16,false
+42375,11019,third_party_site,spring_sale,2025-08-18 11:48:23,false
+42376,10433,WEB,service_reminder,2024-07-23 06:53:25,false
+42377,11137,PHONE,trade_in_bonus,2024-10-29 13:55:17,true
+42378,11819,phone ,spring_sale,2024-09-19 02:29:56,false
+42379,11198,phone,0_apr_event,2026-03-29 06:06:37,true
+42380,11916,REFERRAL,0_apr_event,2026-04-04 03:41:36,true
+42381,12999,REFERRAL,spring_sale,2025-11-29 14:39:24,false
+42382,14615,PHONE,0_apr_event,2025-11-11 01:00:24,false
+42383,12841,third_party_site,0_apr_event,2026-03-23 03:27:21,true
+42384,15190,phone,spring_sale,2025-06-02 13:56:21,false
+42385,12092,web ,spring_sale,2025-02-15 19:52:01,false
+42386,11986,web,0_apr_event,2025-02-09 17:11:40,true
+42387,14981,third_party_site,trade_in_bonus,2026-02-19 12:36:55,false
+42388,12544,WEB,0_apr_event,2024-08-02 06:29:20,false
+42389,11420,phone,spring_sale,2024-08-20 06:21:04,false
+42390,14712,WALK-IN,trade_in_bonus,2026-04-27 22:59:11,false
+42391,13789,THIRD_PARTY_SITE,0_apr_event,2025-06-27 20:51:12,false
+42392,14607,THIRD_PARTY_SITE,trade_in_bonus,2025-12-05 07:31:04,false
+42393,13954,Referal,0_apr_event,2025-08-22 16:58:34,true
+42394,15101,phone,0_apr_event,2024-08-15 00:21:09,false
+42395,10837,walk-in ,service_reminder,2026-06-24 13:04:47,true
+42396,13508,phone,service_reminder,2026-03-31 06:34:06,false
+42397,10478,walk-in,spring_sale,2025-10-15 23:58:10,true
+42398,15140,WEB,trade_in_bonus,2025-03-04 05:55:08,false
+42399,11723,REFERRAL,spring_sale,2025-02-17 03:48:04,false
+42400,14189,walk-in ,0_apr_event,2026-06-08 21:25:02,false
+42401,13720,REFERRAL,service_reminder,2025-07-02 12:03:20,true
+42402,11042,REFERRAL,0_apr_event,2026-03-10 20:05:56,false
+42403,15106,walk-in ,trade_in_bonus,2025-04-18 19:56:25,false
+42404,10525,referral,service_reminder,2024-08-02 22:28:36,true
+42405,12348,phone,spring_sale,2024-10-30 20:40:29,false
+42406,14703,THIRD_PARTY_SITE,0_apr_event,2024-12-03 18:52:34,false
+42407,12933,phone ,service_reminder,2024-12-19 19:22:42,true
+42408,,web,spring_sale,2024-08-20 02:35:40,true
+42409,11330,walk-in,trade_in_bonus,2025-11-20 22:19:25,true
+42410,12977,WEB,spring_sale,2025-10-01 20:41:24,false
+42411,11839,WALK-IN,trade_in_bonus,2024-07-28 14:58:45,false
+42412,10809,REFERRAL,trade_in_bonus,2025-08-14 14:08:36,false
+42413,15144,walk-in,trade_in_bonus,2026-03-30 03:57:01,true
+42414,12617,walk-in,spring_sale,2026-04-24 02:54:06,false
+42415,12185,referral,service_reminder,2025-03-21 09:45:23,false
+42416,13610,phone,spring_sale,2025-07-12 20:11:46,true
+42417,14961,WEB,trade_in_bonus,2025-05-03 16:35:23,false
+42418,11526,WALK-IN,service_reminder,2024-08-14 10:44:58,true
+42419,12202,phone,trade_in_bonus,2025-01-12 19:38:42,true
+42420,14610,walk-in,spring_sale,2026-03-08 20:46:59,false
+42421,14650,PHONE,trade_in_bonus,2026-06-22 03:24:44,true
+42422,10821,referral ,0_apr_event,2025-09-18 13:41:19,false
+42423,14581,phone,trade_in_bonus,2025-05-08 17:21:02,false
+42424,,WALK-IN,0_apr_event,2025-09-04 12:47:47,false
+42425,14779,walk-in,service_reminder,2025-08-03 16:51:02,true
+42426,13057,web,service_reminder,2025-02-05 22:20:18,false
+42427,13212,THIRD_PARTY_SITE,spring_sale,2024-09-25 01:19:36,true
+42428,15142,third_party_site ,service_reminder,2026-04-08 23:10:03,false
+42429,11420,walk-in,spring_sale,2025-10-21 09:12:18,true
+42430,10746,referral ,spring_sale,2025-06-16 19:42:36,false
+42431,12678,third_party_site,trade_in_bonus,2025-01-11 14:51:42,false
+42432,11675,WALK-IN,service_reminder,2025-05-01 05:27:28,true
+42433,14859,third_party_site,service_reminder,2026-01-19 20:40:14,false
+42434,14367,referral ,trade_in_bonus,2025-01-29 06:06:36,true
+42435,11324,web,service_reminder,2025-07-10 04:32:15,false
+42436,10691,referral ,service_reminder,2025-05-27 06:06:43,true
+42437,13298,referral ,trade_in_bonus,2025-07-22 03:45:44,true
+42438,,Referal,service_reminder,2024-10-16 22:26:25,true
+42439,11679,WEB,service_reminder,2024-10-29 08:07:28,false
+42440,10340,third_party_site ,service_reminder,2025-10-25 06:29:50,false
+42441,12718,third_party_site ,trade_in_bonus,2025-12-08 23:15:37,false
+42442,11543,web ,0_apr_event,2026-06-04 08:38:49,false
+42443,10831,walk-in ,service_reminder,2025-07-24 17:34:33,true
+42444,10041,third_party_site,spring_sale,2025-06-22 02:33:27,false
+42445,,third_party_site,0_apr_event,2025-01-09 07:39:02,true
+42446,12474,web ,spring_sale,2024-11-19 14:15:03,false
+42447,14575,referral,spring_sale,2024-08-15 16:45:54,true
+42448,13926,REFERRAL,service_reminder,2025-04-10 18:37:38,true
+42449,12087,WEB,trade_in_bonus,2026-05-18 00:10:25,false
+42450,11112,referral ,trade_in_bonus,2026-07-01 03:45:27,true
+42451,11736,third_party_site,spring_sale,2025-07-31 04:06:04,false
+42452,10215,third_party_site,service_reminder,2024-10-06 17:15:51,false
+42453,12265,walk-in ,trade_in_bonus,2025-03-10 02:11:28,false
+42454,12765,walk-in,service_reminder,2025-06-25 12:22:12,true
+42455,,web,trade_in_bonus,2024-08-07 04:15:01,true
+42456,13148,phone,0_apr_event,2025-08-05 16:25:47,true
+42457,14399,web,spring_sale,2025-04-11 23:32:20,true
+42458,,phone,service_reminder,2024-08-10 01:18:08,true
+42459,10832,referral,spring_sale,2024-12-09 15:56:14,false
+42460,11747,walk-in,service_reminder,2025-07-20 00:01:07,true
+42461,12870,WALK-IN,service_reminder,2024-09-02 12:15:01,false
+42462,,phone,0_apr_event,2025-06-09 11:22:55,true
+42463,13921,Referal,trade_in_bonus,2024-12-26 07:14:37,false
+42464,10708,PHONE,spring_sale,2024-11-26 11:19:18,true
+42465,11968,walk-in,spring_sale,2025-01-27 16:08:27,true
+42466,11527,Referal,service_reminder,2025-01-20 04:09:05,false
+42467,12060,WEB,trade_in_bonus,2026-04-28 11:42:40,true
+42468,12923,web,trade_in_bonus,2025-10-22 23:51:54,false
+42469,12467,WALK-IN,service_reminder,2024-10-23 12:58:52,false
+42470,13015,REFERRAL,spring_sale,2025-11-29 12:21:58,true
+42471,12550,third_party_site,trade_in_bonus,2026-03-15 02:37:08,true
+42472,13121,REFERRAL,service_reminder,2025-01-20 02:41:14,false
+42473,11698,phone ,service_reminder,2025-03-04 01:40:46,true
+42474,12470,REFERRAL,trade_in_bonus,2026-01-03 02:29:50,true
+42475,12664,walk-in ,0_apr_event,2024-11-29 21:30:24,true
+42476,14880,PHONE,0_apr_event,2025-08-31 11:38:32,false
+42477,13590,phone ,trade_in_bonus,2024-10-26 04:39:56,true
+42478,10978,third_party_site,spring_sale,2025-03-04 17:05:39,false
+42479,13549,referral,trade_in_bonus,2025-12-28 08:28:48,true
+42480,10626,referral ,spring_sale,2025-10-30 13:16:10,true
+42481,13771,THIRD_PARTY_SITE,spring_sale,2025-09-18 11:27:48,false
+42482,10120,web,trade_in_bonus,2024-12-14 15:50:23,true
+42483,10172,walk-in ,spring_sale,2025-07-20 13:41:36,false
+42484,10136,REFERRAL,service_reminder,2024-07-10 11:08:36,false
+42485,13387,REFERRAL,service_reminder,2025-02-04 03:13:23,true
+42486,11536,phone ,0_apr_event,2024-11-23 23:14:37,false
+42487,13985,phone,service_reminder,2025-04-27 19:45:16,false
+42488,13194,PHONE,service_reminder,2025-09-09 06:38:29,false
+42489,10040,WEB,trade_in_bonus,2025-12-31 16:28:26,true
+42490,15039,THIRD_PARTY_SITE,spring_sale,2025-09-24 05:12:00,false
+42491,,phone,spring_sale,2025-01-09 14:18:19,false
+42492,14940,referral,0_apr_event,2024-12-29 00:29:02,true
+42493,13766,Referal,spring_sale,2026-06-18 18:48:58,false
+42494,11711,third_party_site ,0_apr_event,2025-06-17 19:34:30,true
+42495,13431,THIRD_PARTY_SITE,trade_in_bonus,2026-05-05 15:49:00,false
+42496,13310,web ,spring_sale,2026-03-22 23:14:37,true
+42497,13116,phone,0_apr_event,2026-03-29 20:32:28,true
+42498,11557,walk-in ,service_reminder,2025-08-23 22:18:05,true
+42499,14135,referral,service_reminder,2026-06-19 20:45:14,true
+42500,11824,Referal,spring_sale,2025-10-24 17:26:50,true
+42501,11125,PHONE,spring_sale,2026-06-19 07:51:08,true
+42502,14327,referral ,spring_sale,2024-09-20 09:09:44,true
+42503,11263,web,trade_in_bonus,2025-12-24 20:53:38,true
+42504,11677,walk-in ,trade_in_bonus,2024-12-11 11:33:25,true
+42505,14432,third_party_site ,spring_sale,2026-06-05 15:52:17,true
+42506,11976,third_party_site,service_reminder,2025-01-28 16:32:19,true
+42507,13750,THIRD_PARTY_SITE,service_reminder,2025-03-27 03:18:08,false
+42508,13585,THIRD_PARTY_SITE,trade_in_bonus,2026-04-06 00:52:59,false
+42509,,third_party_site ,trade_in_bonus,2024-08-01 17:54:47,true
+42510,13140,phone ,spring_sale,2024-10-01 07:51:11,false
+42511,12132,third_party_site,0_apr_event,2026-06-06 01:48:56,false
+42512,10194,PHONE,spring_sale,2024-10-28 18:45:24,false
+42513,12535,third_party_site ,spring_sale,2025-07-28 17:48:17,false
+42514,11419,third_party_site,spring_sale,2024-10-16 22:22:31,true
+42515,,web ,trade_in_bonus,2024-07-09 14:13:08,true
+42516,12373,web,spring_sale,2025-11-02 15:18:50,false
+42517,12042,walk-in,0_apr_event,2025-01-17 05:44:51,true
+42518,12291,third_party_site ,spring_sale,2025-11-26 01:54:11,false
+42519,11400,phone,trade_in_bonus,2025-07-16 20:16:34,true
+42520,14261,referral ,spring_sale,2024-08-08 13:26:34,false
+42521,13095,THIRD_PARTY_SITE,service_reminder,2024-09-18 16:53:53,true
+42522,10477,third_party_site ,spring_sale,2025-06-03 00:25:49,false
+42523,11971,third_party_site,trade_in_bonus,2025-01-17 11:40:35,false
+42524,,Referal,0_apr_event,2025-08-11 08:53:19,true
+42525,,phone,trade_in_bonus,2025-01-16 04:27:36,true
+42526,12742,third_party_site ,spring_sale,2025-11-10 07:31:18,false
+42527,14376,walk-in ,spring_sale,2024-07-27 16:06:48,false
+42528,14040,third_party_site,spring_sale,2026-03-23 16:09:35,false
+42529,12278,phone,0_apr_event,2026-05-26 19:11:00,false
+42530,11558,walk-in,spring_sale,2024-09-07 01:20:05,true
+42531,14948,web ,0_apr_event,2024-07-24 21:56:13,true
+42532,14514,referral,spring_sale,2026-04-05 18:53:41,true
+42533,13146,WEB,trade_in_bonus,2025-10-23 22:50:37,false
+42534,12768,third_party_site,trade_in_bonus,2024-10-31 04:52:44,true
+42535,12218,web,trade_in_bonus,2025-07-06 11:10:36,true
+42536,11867,web,service_reminder,2026-05-12 23:19:54,false
+42537,11171,phone,service_reminder,2026-04-20 01:30:07,true
+42538,15185,third_party_site ,service_reminder,2026-03-10 17:13:56,false
+42539,14467,WEB,trade_in_bonus,2026-03-08 00:30:09,false
+42540,13635,web ,spring_sale,2025-02-20 22:22:55,true
+42541,12094,PHONE,spring_sale,2024-09-21 08:58:45,true
+42542,14237,walk-in,trade_in_bonus,2025-06-24 17:46:32,true
+42543,12442,THIRD_PARTY_SITE,0_apr_event,2025-09-20 10:32:52,true
+42544,12465,walk-in,0_apr_event,2024-11-04 01:33:35,false
+42545,14646,phone ,trade_in_bonus,2025-04-15 19:21:36,false
+42546,11811,referral,spring_sale,2024-09-07 21:23:59,true
+42547,13439,THIRD_PARTY_SITE,trade_in_bonus,2024-12-26 15:26:16,false
+42548,10502,referral,0_apr_event,2024-08-04 01:35:25,true
+42549,11623,WEB,spring_sale,2026-04-29 23:39:16,false
+42550,13197,web,spring_sale,2025-05-13 12:05:48,false
+42551,10871,phone,0_apr_event,2025-10-28 05:57:53,false
+42552,14412,walk-in,service_reminder,2025-03-23 18:28:24,true
+42553,14287,web,service_reminder,2025-06-21 11:05:51,false
+42554,11855,referral ,0_apr_event,2025-04-07 02:24:07,true
+42555,13604,walk-in ,service_reminder,2025-12-13 11:12:44,false
+42556,11823,third_party_site,trade_in_bonus,2024-08-21 11:27:09,false
+42557,14776,web,spring_sale,2025-10-27 07:22:22,false
+42558,12413,web,trade_in_bonus,2025-02-02 05:03:10,true
+42559,15113,web,service_reminder,2025-09-02 08:30:34,true
+42560,13198,phone,trade_in_bonus,2025-12-28 08:17:34,false
+42561,14470,REFERRAL,0_apr_event,2025-05-28 01:36:05,false
+42562,10418,Referal,spring_sale,2025-05-08 16:09:18,false
+42563,10724,walk-in,0_apr_event,2025-12-28 01:22:19,false
+42564,13147,referral,service_reminder,2025-10-22 03:58:49,false
+42565,13438,phone,0_apr_event,2026-01-17 17:37:12,false
+42566,10919,web,trade_in_bonus,2024-07-10 18:19:59,true
+42567,10148,web,0_apr_event,2024-07-29 17:25:57,true
+42568,14667,phone,trade_in_bonus,2026-04-04 11:13:08,false
+42569,12778,walk-in ,service_reminder,2024-11-12 13:26:43,false
+42570,10232,WALK-IN,0_apr_event,2024-09-26 16:05:29,false
+42571,14225,phone,service_reminder,2024-12-20 16:20:11,true
+42572,12072,walk-in ,trade_in_bonus,2026-03-09 10:06:45,true
+42573,14064,third_party_site ,trade_in_bonus,2025-12-31 18:06:47,true
+42574,11015,web,trade_in_bonus,2026-04-04 23:35:08,true
+42575,14458,THIRD_PARTY_SITE,spring_sale,2024-09-10 20:01:15,true
+42576,10389,walk-in,service_reminder,2024-10-26 22:52:02,false
+42577,14647,web,0_apr_event,2025-07-19 19:11:57,true
+42578,13545,referral,trade_in_bonus,2024-08-25 14:51:45,false
+42579,14002,web,0_apr_event,2024-09-23 16:03:52,true
+42580,13777,third_party_site,0_apr_event,2026-01-02 07:13:59,false
+42581,14954,web,trade_in_bonus,2025-08-15 09:48:08,false
+42582,14347,THIRD_PARTY_SITE,service_reminder,2025-01-05 03:08:42,true
+42583,13397,web,trade_in_bonus,2026-03-17 19:00:37,false
+42584,13892,web,service_reminder,2025-08-21 15:50:15,false
+42585,13368,third_party_site ,trade_in_bonus,2025-08-22 20:41:27,false
+42586,12929,Referal,spring_sale,2025-04-15 09:18:00,false
+42587,11133,referral ,trade_in_bonus,2026-05-28 09:49:11,false
+42588,13870,web ,spring_sale,2024-10-30 19:27:55,false
+42589,12769,web ,service_reminder,2024-09-22 14:15:05,true
+42590,14377,web,service_reminder,2025-11-16 04:36:55,false
+42591,10831,walk-in,trade_in_bonus,2026-04-29 00:19:55,false
+42592,12281,web ,trade_in_bonus,2025-04-14 09:08:44,true
+42593,12265,third_party_site ,trade_in_bonus,2025-09-06 15:39:23,true
+42594,10616,referral,0_apr_event,2026-05-25 01:53:02,false
+42595,13890,third_party_site,trade_in_bonus,2025-06-25 17:19:12,false
+42596,11516,walk-in,trade_in_bonus,2026-02-15 22:48:42,false
+42597,11906,web,trade_in_bonus,2024-11-19 10:45:49,false
+42598,12431,Referal,0_apr_event,2026-03-02 15:36:55,true
+42599,11464,web,0_apr_event,2025-02-03 06:11:51,false
+42600,13171,third_party_site,spring_sale,2026-01-07 20:29:41,false
+42601,11542,web,spring_sale,2025-04-21 03:02:47,true
+42602,14679,third_party_site ,service_reminder,2026-03-05 09:09:36,false
+42603,13813,web ,spring_sale,2025-07-09 07:24:48,true
+42604,11765,Referal,trade_in_bonus,2026-03-14 07:47:34,false
+42605,13260,walk-in,spring_sale,2025-01-15 09:28:12,true
+42606,10212,Referal,0_apr_event,2024-07-28 17:11:44,false
+42607,,web ,0_apr_event,2024-12-05 10:44:22,false
+42608,13494,PHONE,spring_sale,2025-03-21 12:53:53,false
+42609,11282,phone ,service_reminder,2024-09-16 17:11:18,true
+42610,11536,WEB,spring_sale,2026-04-12 19:29:03,false
+42611,14656,WALK-IN,spring_sale,2025-07-09 16:28:30,false
+42612,10240,WEB,service_reminder,2025-03-04 01:08:17,false
+42613,10237,PHONE,spring_sale,2026-01-27 23:31:44,true
+42614,12288,THIRD_PARTY_SITE,trade_in_bonus,2025-03-06 05:35:56,true
+42615,13946,Referal,service_reminder,2025-01-22 02:45:15,false
+42616,12220,phone,0_apr_event,2026-06-01 01:44:58,true
+42617,12272,web ,0_apr_event,2024-08-09 09:49:17,true
+42618,14601,third_party_site,service_reminder,2025-11-13 02:08:58,false
+42619,15191,Referal,0_apr_event,2024-09-21 19:52:25,false
+42620,13597,third_party_site ,service_reminder,2025-05-09 07:09:16,false
+42621,14766,walk-in ,trade_in_bonus,2026-03-13 15:20:54,false
+42622,12174,PHONE,0_apr_event,2026-06-25 23:58:40,true
+42623,11183,walk-in,trade_in_bonus,2026-01-18 23:43:38,false
+42624,14512,phone,service_reminder,2025-03-30 10:01:44,true
+42625,15137,web ,0_apr_event,2025-12-29 19:53:05,false
+42626,13616,Referal,service_reminder,2025-01-25 03:07:02,true
+42627,10634,WEB,spring_sale,2025-09-23 13:31:22,false
+42628,11467,phone,service_reminder,2026-03-04 22:19:55,true
+42629,14419,third_party_site,service_reminder,2024-07-20 22:25:26,false
+42630,11432,web ,spring_sale,2026-01-22 01:51:59,false
+42631,12426,PHONE,trade_in_bonus,2025-09-19 03:35:22,true
+42632,12146,phone ,spring_sale,2026-06-30 02:14:13,false
+42633,10929,REFERRAL,spring_sale,2026-02-06 19:50:31,true
+42634,10588,WALK-IN,service_reminder,2024-11-12 14:23:47,true
+42635,13524,third_party_site,0_apr_event,2025-01-07 19:37:29,true
+42636,12077,phone,spring_sale,2026-04-23 21:08:24,true
+42637,12867,THIRD_PARTY_SITE,service_reminder,2025-10-28 07:38:25,false
+42638,,referral ,trade_in_bonus,2026-05-07 14:50:35,true
+42639,10638,walk-in ,service_reminder,2024-08-29 06:57:17,false
+42640,14925,Referal,service_reminder,2024-10-19 01:19:24,true
+42641,10940,PHONE,trade_in_bonus,2024-08-19 16:27:22,true
+42642,11474,walk-in,spring_sale,2024-08-03 17:59:44,true
+42643,10662,third_party_site,spring_sale,2025-12-04 05:37:10,true
+42644,12278,third_party_site,spring_sale,2026-03-10 00:09:57,false
+42645,12581,referral ,service_reminder,2024-08-12 09:07:42,false
+42646,11775,WALK-IN,trade_in_bonus,2025-11-12 23:00:39,true
+42647,10544,THIRD_PARTY_SITE,service_reminder,2025-04-18 19:25:33,false
+42648,12152,THIRD_PARTY_SITE,0_apr_event,2024-11-05 16:17:46,true
+42649,13196,third_party_site,trade_in_bonus,2026-04-02 16:31:02,true
+42650,13713,referral ,0_apr_event,2025-04-25 10:01:08,false
+42651,10877,walk-in,spring_sale,2025-05-11 14:37:57,true
+42652,12449,phone ,0_apr_event,2025-01-21 15:41:32,true
+42653,13110,phone,0_apr_event,2025-12-06 01:15:02,false
+42654,10448,PHONE,service_reminder,2026-06-04 01:29:23,false
+42655,12717,third_party_site,trade_in_bonus,2026-03-31 21:20:54,false
+42656,12462,PHONE,spring_sale,2026-03-03 20:12:47,true
+42657,12295,walk-in,trade_in_bonus,2025-07-03 01:52:30,false
+42658,12013,third_party_site,spring_sale,2025-05-21 18:31:21,true
+42659,10312,walk-in,0_apr_event,2024-11-20 11:14:22,true
+42660,14160,referral,trade_in_bonus,2025-10-05 17:14:23,false
+42661,10263,referral ,spring_sale,2025-07-18 21:50:40,false
+42662,11354,walk-in,spring_sale,2026-06-05 05:06:43,true
+42663,13703,phone,0_apr_event,2026-02-13 08:50:30,true
+42664,10379,WALK-IN,trade_in_bonus,2024-08-10 06:34:43,false
+42665,,walk-in ,service_reminder,2026-03-22 11:52:57,false
+42666,13492,phone ,0_apr_event,2025-03-22 23:35:33,false
+42667,11796,web,trade_in_bonus,2024-07-11 21:00:32,true
+42668,11901,third_party_site ,0_apr_event,2025-02-27 03:40:47,true
+42669,13561,PHONE,spring_sale,2026-03-23 19:37:42,false
+42670,14408,walk-in,service_reminder,2025-04-01 01:09:50,false
+42671,14936,third_party_site,trade_in_bonus,2025-12-16 05:29:49,true
+42672,10764,walk-in,trade_in_bonus,2025-09-11 00:13:32,false
+42673,12996,THIRD_PARTY_SITE,trade_in_bonus,2026-01-25 08:03:54,true
+42674,,third_party_site,0_apr_event,2025-03-23 05:54:01,true
+42675,12703,phone,service_reminder,2025-05-28 12:52:26,false
+42676,13746,PHONE,0_apr_event,2025-09-19 14:44:14,false
+42677,12815,Referal,0_apr_event,2026-05-17 05:46:34,false
+42678,11889,web ,service_reminder,2025-12-05 05:03:03,false
+42679,10340,walk-in ,trade_in_bonus,2024-11-07 20:58:31,false
+42680,12600,third_party_site,trade_in_bonus,2026-01-31 07:54:41,false
+42681,14329,referral ,trade_in_bonus,2026-03-08 06:27:30,true
+42682,14691,WEB,0_apr_event,2024-08-24 13:02:36,false
+42683,13902,walk-in,trade_in_bonus,2026-02-08 17:25:18,true
+42684,13880,referral,trade_in_bonus,2025-01-08 03:36:04,false
+42685,14964,walk-in,0_apr_event,2024-07-11 01:11:57,true
+42686,10055,WALK-IN,service_reminder,2025-08-14 12:50:12,true
+42687,14230,third_party_site,service_reminder,2025-09-01 15:42:33,true
+42688,13393,Referal,spring_sale,2025-11-16 08:56:06,false
+42689,12564,third_party_site,spring_sale,2024-11-25 15:14:41,false
+42690,12189,WALK-IN,0_apr_event,2026-06-13 09:16:40,false
+42691,14761,referral,trade_in_bonus,2025-02-16 09:59:40,true
+42692,10990,third_party_site,spring_sale,2025-10-01 22:56:05,true
+42693,10329,THIRD_PARTY_SITE,trade_in_bonus,2025-12-20 21:37:58,true
+42694,12941,WALK-IN,trade_in_bonus,2024-07-26 20:23:14,true
+42695,11926,third_party_site ,service_reminder,2025-02-08 19:01:06,true
+42696,14329,web ,service_reminder,2025-09-06 18:52:02,false
+42697,13662,web,spring_sale,2025-11-26 22:18:32,false
+42698,14396,walk-in ,service_reminder,2025-07-28 14:37:48,false
+42699,15029,web,service_reminder,2024-10-25 10:41:02,true
+42700,13213,phone ,spring_sale,2025-03-18 12:26:44,false
+42701,15158,third_party_site ,service_reminder,2026-05-14 20:14:35,false
+42702,11498,PHONE,spring_sale,2025-08-18 22:37:11,false
+42703,,referral,trade_in_bonus,2026-03-08 23:35:13,false
+42704,12788,web,trade_in_bonus,2025-07-25 12:01:18,true
+42705,10499,REFERRAL,0_apr_event,2025-08-03 21:58:19,true
+42706,13502,third_party_site ,0_apr_event,2024-11-22 17:13:30,false
+42707,13126,third_party_site,service_reminder,2025-04-29 07:28:46,false
+42708,12084,phone,0_apr_event,2025-05-28 02:11:48,true
+42709,12499,web,spring_sale,2026-02-19 16:33:21,true
+42710,10899,walk-in,0_apr_event,2025-07-29 17:08:10,true
+42711,12222,phone,spring_sale,2025-03-08 10:40:12,false
+42712,11461,WALK-IN,trade_in_bonus,2024-11-19 09:53:07,false
+42713,14442,WALK-IN,service_reminder,2024-12-31 23:57:31,false
+42714,11348,WALK-IN,trade_in_bonus,2024-10-15 03:08:03,false
+42715,10948,referral ,spring_sale,2025-11-11 00:22:54,false
+42716,13024,phone,service_reminder,2026-04-20 00:20:09,true
+42717,,web,spring_sale,2025-03-30 22:47:15,false
+42718,11005,third_party_site,trade_in_bonus,2026-02-14 08:26:25,false
+42719,11956,THIRD_PARTY_SITE,trade_in_bonus,2026-01-13 15:20:47,false
+42720,14735,web ,spring_sale,2025-04-10 02:36:55,true
+42721,14824,PHONE,spring_sale,2025-01-27 13:13:45,false
+42722,12848,referral,spring_sale,2025-07-05 02:09:06,false
+42723,12773,phone ,spring_sale,2025-01-20 03:28:22,true
+42724,11830,THIRD_PARTY_SITE,trade_in_bonus,2026-02-26 09:57:52,false
+42725,14404,referral ,0_apr_event,2025-06-30 16:54:13,false
+42726,12619,web,trade_in_bonus,2025-01-21 12:04:10,true
+42727,13006,referral,0_apr_event,2025-10-05 04:18:34,true
+42728,11318,phone ,0_apr_event,2024-07-19 05:50:57,false
+42729,,phone,trade_in_bonus,2025-10-25 22:37:02,true
+42730,13991,web,spring_sale,2025-06-24 20:37:34,false
+42731,13291,web ,0_apr_event,2025-09-30 09:54:15,false
+42732,13875,THIRD_PARTY_SITE,spring_sale,2025-02-01 01:04:16,true
+42733,13180,walk-in,service_reminder,2024-07-31 21:49:40,false
+42734,14898,third_party_site,service_reminder,2025-04-06 06:50:37,true
+42735,14141,phone,spring_sale,2026-05-11 12:45:10,false
+42736,10822,WEB,trade_in_bonus,2025-09-17 01:59:52,true
+42737,13939,Referal,0_apr_event,2026-02-21 21:54:50,true
+42738,11946,web,0_apr_event,2026-04-20 05:09:29,true
+42739,13092,walk-in,0_apr_event,2024-09-03 10:48:01,true
+42740,14848,phone,service_reminder,2025-01-27 10:11:03,true
+42741,12620,phone,trade_in_bonus,2025-07-11 16:39:31,false
+42742,12252,third_party_site,0_apr_event,2025-08-25 14:22:13,true
+42743,13409,THIRD_PARTY_SITE,0_apr_event,2024-10-23 08:03:39,false
+42744,11972,web,trade_in_bonus,2025-03-30 13:48:39,false
+42745,14521,phone ,service_reminder,2024-10-12 01:34:08,true
+42746,12375,third_party_site,spring_sale,2025-10-08 10:46:08,false
+42747,12378,THIRD_PARTY_SITE,spring_sale,2025-10-09 10:53:09,true
+42748,11341,phone,trade_in_bonus,2025-12-21 22:28:32,false
+42749,,THIRD_PARTY_SITE,trade_in_bonus,2025-10-07 21:50:39,true
+42750,10729,phone,spring_sale,2024-09-01 14:25:00,false
+42751,10769,web,trade_in_bonus,2026-01-22 15:33:21,false
+42752,,web,trade_in_bonus,2025-01-07 00:31:47,false
+42753,12547,Referal,0_apr_event,2026-06-27 17:16:25,true
+42754,15025,web ,spring_sale,2026-03-14 18:11:33,true
+42755,10232,web,trade_in_bonus,2026-01-30 03:56:03,true
+42756,11381,web ,spring_sale,2025-08-03 11:47:04,false
+42757,10653,WEB,trade_in_bonus,2026-02-19 16:08:06,true
+42758,14576,WEB,service_reminder,2025-05-11 05:17:21,false
+42759,12184,REFERRAL,service_reminder,2026-04-04 22:15:47,false
+42760,12641,phone,0_apr_event,2026-03-04 14:30:10,false
+42761,10809,REFERRAL,trade_in_bonus,2025-07-22 11:59:27,false
+42762,15088,phone ,service_reminder,2025-01-29 08:43:46,true
+42763,15158,third_party_site,0_apr_event,2025-06-26 06:02:35,false
+42764,10973,THIRD_PARTY_SITE,spring_sale,2026-01-20 23:50:09,true
+42765,14278,walk-in,0_apr_event,2025-11-18 17:41:56,false
+42766,13852,third_party_site,spring_sale,2026-06-23 09:59:08,true
+42767,13371,third_party_site,service_reminder,2024-09-28 19:35:58,true
+42768,13749,phone,service_reminder,2026-05-07 06:44:12,false
+42769,12429,third_party_site,0_apr_event,2025-05-31 08:53:50,false
+42770,12620,third_party_site,service_reminder,2025-04-14 03:27:00,false
+42771,15134,third_party_site,spring_sale,2026-03-20 23:35:26,false
+42772,13371,THIRD_PARTY_SITE,trade_in_bonus,2025-01-03 02:27:43,true
+42773,11926,WALK-IN,0_apr_event,2026-02-14 05:21:23,false
+42774,10765,walk-in,service_reminder,2026-05-28 01:47:59,false
+42775,13677,web,trade_in_bonus,2025-08-24 14:37:13,false
+42776,13299,web ,trade_in_bonus,2024-07-09 16:14:04,true
+42777,11722,walk-in,trade_in_bonus,2025-08-04 14:24:17,true
+42778,,Referal,trade_in_bonus,2025-03-24 08:19:58,true
+42779,11282,third_party_site ,0_apr_event,2025-10-18 21:17:45,false
+42780,11786,WEB,service_reminder,2024-08-12 22:08:32,true
+42781,14769,web,service_reminder,2026-06-24 03:17:07,true
+42782,10681,referral ,trade_in_bonus,2026-02-02 22:25:21,false
+42783,10646,third_party_site,0_apr_event,2025-02-10 11:56:41,false
+42784,,third_party_site ,service_reminder,2024-08-26 12:54:27,false
+42785,13604,walk-in ,0_apr_event,2025-10-11 05:14:30,false
+42786,11656,phone ,spring_sale,2026-04-19 20:11:58,false
+42787,11158,phone,trade_in_bonus,2025-03-21 18:52:21,false
+42788,,third_party_site,trade_in_bonus,2025-04-14 21:03:38,false
+42789,12021,walk-in,0_apr_event,2026-02-11 23:31:07,false
+42790,10507,web,service_reminder,2025-06-14 04:15:01,true
+42791,10060,referral ,trade_in_bonus,2026-02-28 07:36:49,true
+42792,10644,third_party_site,trade_in_bonus,2024-12-23 01:27:23,true
+42793,10858,third_party_site,spring_sale,2025-05-20 05:28:10,false
+42794,,Referal,spring_sale,2025-09-26 21:01:34,true
+42795,12420,web,0_apr_event,2026-05-31 01:08:52,true
+42796,12830,referral ,0_apr_event,2025-07-27 06:12:57,true
+42797,11502,WALK-IN,0_apr_event,2026-05-05 15:49:48,false
+42798,13400,referral,0_apr_event,2024-09-04 13:59:14,false
+42799,10193,walk-in,trade_in_bonus,2025-08-16 12:09:56,true
+42800,12521,third_party_site,0_apr_event,2024-08-13 01:15:07,true
+42801,12414,REFERRAL,0_apr_event,2026-02-21 05:51:14,true
+42802,12598,web,spring_sale,2024-09-12 20:07:48,false
+42803,13258,Referal,spring_sale,2025-12-23 00:39:46,false
+42804,15025,phone,service_reminder,2026-01-08 15:00:53,true
+42805,11704,referral,0_apr_event,2025-08-24 11:26:34,false
+42806,12257,third_party_site,0_apr_event,2026-06-02 06:46:49,true
+42807,12592,walk-in ,spring_sale,2025-05-05 02:14:53,true
+42808,11609,referral,0_apr_event,2024-07-08 11:05:23,true
+42809,13102,WALK-IN,0_apr_event,2025-12-17 15:38:44,false
+42810,11675,walk-in,spring_sale,2025-12-10 12:14:08,true
+42811,,third_party_site,trade_in_bonus,2025-07-23 16:19:58,false
+42812,12296,walk-in ,service_reminder,2024-09-23 17:29:23,true
+42813,14596,WEB,spring_sale,2024-12-20 02:21:59,false
+42814,,third_party_site,service_reminder,2025-12-07 16:38:24,true
+42815,11241,walk-in,trade_in_bonus,2025-08-21 01:18:26,false
+42816,11803,walk-in,0_apr_event,2025-03-26 10:14:48,false
+42817,10981,WEB,0_apr_event,2026-04-21 20:14:49,true
+42818,11736,web,service_reminder,2026-01-06 20:05:47,true
+42819,14359,WEB,trade_in_bonus,2026-05-12 01:11:22,false
+42820,13396,phone,service_reminder,2026-07-04 00:02:59,false
+42821,14695,phone,service_reminder,2024-10-13 19:22:45,true
+42822,11153,THIRD_PARTY_SITE,trade_in_bonus,2024-07-20 09:31:00,true
+42823,12673,third_party_site,trade_in_bonus,2025-02-15 11:40:01,true
+42824,10675,REFERRAL,0_apr_event,2025-06-22 01:25:49,false
+42825,14452,PHONE,0_apr_event,2026-03-28 05:25:27,false
+42826,15192,web ,spring_sale,2025-12-07 02:33:52,false
+42827,13657,phone,service_reminder,2025-07-02 09:54:09,true
+42828,14997,THIRD_PARTY_SITE,spring_sale,2024-11-15 11:21:51,true
+42829,13164,THIRD_PARTY_SITE,spring_sale,2026-04-09 00:08:46,false
+42830,11067,third_party_site,spring_sale,2024-11-10 15:37:42,true
+42831,12334,PHONE,trade_in_bonus,2025-09-28 09:15:08,true
+42832,11140,walk-in ,trade_in_bonus,2025-07-06 21:01:44,false
+42833,14557,walk-in,spring_sale,2025-04-02 05:08:34,true
+42834,10853,referral ,trade_in_bonus,2025-12-25 13:00:19,false
+42835,14436,Referal,0_apr_event,2026-02-03 14:44:04,true
+42836,13815,referral,service_reminder,2026-04-01 07:36:17,false
+42837,12238,referral,spring_sale,2025-07-01 01:57:25,false
+42838,12454,web,0_apr_event,2025-11-01 21:07:33,true
+42839,11778,WALK-IN,trade_in_bonus,2026-06-27 06:06:45,false
+42840,12201,THIRD_PARTY_SITE,0_apr_event,2025-05-09 16:23:17,false
+42841,14811,referral ,spring_sale,2024-11-06 16:42:54,false
+42842,12162,PHONE,spring_sale,2024-11-29 12:34:33,false
+42843,10227,phone,trade_in_bonus,2026-05-27 08:10:37,false
+42844,10005,web,trade_in_bonus,2025-02-24 05:49:49,true
+42845,,walk-in,service_reminder,2025-03-08 07:41:52,true
+42846,12337,third_party_site,trade_in_bonus,2025-12-03 17:54:19,false
+42847,14788,walk-in,spring_sale,2025-12-06 16:35:26,false
+42848,14251,walk-in,0_apr_event,2025-12-28 17:42:40,false
+42849,10421,third_party_site,trade_in_bonus,2025-04-19 04:58:32,true
+42850,14115,WEB,trade_in_bonus,2026-01-04 04:49:59,true
+42851,11060,REFERRAL,spring_sale,2025-09-06 22:05:40,true
+42852,14861,REFERRAL,trade_in_bonus,2026-04-26 11:35:20,false
+42853,14024,third_party_site,trade_in_bonus,2025-01-07 16:54:59,true
+42854,14014,THIRD_PARTY_SITE,spring_sale,2025-10-19 14:48:53,true
+42855,10187,WEB,trade_in_bonus,2026-05-27 14:04:32,false
+42856,11116,Referal,trade_in_bonus,2025-10-08 00:31:10,false
+42857,12054,WALK-IN,service_reminder,2025-09-04 01:38:57,true
+42858,11399,referral,spring_sale,2025-03-19 06:56:50,false
+42859,10264,WEB,service_reminder,2025-06-07 06:23:10,true
+42860,12844,web,0_apr_event,2025-02-13 12:24:13,true
+42861,10111,third_party_site ,trade_in_bonus,2024-09-16 04:35:00,true
+42862,10960,referral,trade_in_bonus,2025-10-01 21:36:22,true
+42863,14180,phone,spring_sale,2024-09-03 00:56:03,true
+42864,14780,third_party_site,0_apr_event,2024-12-14 19:31:01,false
+42865,10843,phone,0_apr_event,2025-01-04 21:59:44,true
+42866,12423,third_party_site,trade_in_bonus,2025-09-30 08:45:21,false
+42867,12818,third_party_site,spring_sale,2024-10-30 02:02:58,true
+42868,14718,phone ,trade_in_bonus,2025-04-28 12:30:59,false
+42869,11109,third_party_site,service_reminder,2025-01-23 19:34:18,false
+42870,12558,walk-in ,0_apr_event,2024-11-17 09:30:54,false
+42871,14764,Referal,service_reminder,2025-05-09 16:04:32,true
+42872,,web,spring_sale,2025-08-24 02:10:42,true
+42873,11794,PHONE,0_apr_event,2025-06-11 06:22:47,true
+42874,13852,WALK-IN,0_apr_event,2024-07-18 23:28:49,true
+42875,15172,web ,0_apr_event,2025-01-28 09:00:29,false
+42876,10903,REFERRAL,service_reminder,2026-04-06 19:52:16,true
+42877,10527,referral ,trade_in_bonus,2024-10-19 06:35:04,true
+42878,14276,third_party_site ,0_apr_event,2025-01-01 03:43:15,true
+42879,13166,referral ,spring_sale,2026-05-28 15:07:04,false
+42880,13227,phone,0_apr_event,2026-01-22 03:37:42,true
+42881,10723,walk-in,0_apr_event,2025-10-30 12:08:24,true
+42882,10006,web,spring_sale,2026-02-24 08:27:55,true
+42883,,PHONE,trade_in_bonus,2025-08-13 16:48:41,true
+42884,12224,WALK-IN,service_reminder,2025-12-17 13:19:54,false
+42885,14658,referral,spring_sale,2025-11-22 15:50:04,false
+42886,12707,referral,service_reminder,2026-06-03 19:28:13,true
+42887,11954,phone,trade_in_bonus,2025-10-25 21:21:41,false
+42888,12102,THIRD_PARTY_SITE,spring_sale,2026-05-12 15:39:12,false
+42889,10405,third_party_site,spring_sale,2025-10-05 15:42:26,true
+42890,13412,third_party_site ,service_reminder,2026-03-07 12:39:11,true
+42891,11770,WALK-IN,spring_sale,2024-10-06 02:11:13,false
+42892,11380,phone,0_apr_event,2025-02-07 12:32:11,true
+42893,11947,web,0_apr_event,2025-01-14 20:13:40,true
+42894,14708,third_party_site,service_reminder,2026-03-01 05:55:33,false
+42895,,web,service_reminder,2025-02-16 07:28:45,false
+42896,14713,web,service_reminder,2025-08-20 02:58:02,false
+42897,12671,THIRD_PARTY_SITE,spring_sale,2024-07-11 02:16:55,false
+42898,14087,referral ,0_apr_event,2025-09-23 22:04:41,false
+42899,11604,THIRD_PARTY_SITE,spring_sale,2026-06-25 19:33:16,false
+42900,13561,phone ,0_apr_event,2025-03-25 23:52:16,true
+42901,13787,third_party_site,trade_in_bonus,2025-01-24 12:12:56,false
+42902,14211,web,service_reminder,2025-03-23 00:59:02,false
+42903,15138,WALK-IN,spring_sale,2026-01-03 01:35:10,true
+42904,10327,walk-in,service_reminder,2026-02-20 08:56:30,true
+42905,13472,WALK-IN,trade_in_bonus,2024-10-09 03:57:46,false
+42906,14351,third_party_site,spring_sale,2025-03-19 14:17:34,true
+42907,13604,phone,spring_sale,2025-05-24 16:00:15,false
+42908,14469,web,0_apr_event,2025-03-19 22:53:31,false
+42909,13187,phone,spring_sale,2025-12-28 02:29:01,true
+42910,11139,Referal,service_reminder,2025-08-13 18:24:02,false
+42911,11505,referral ,0_apr_event,2025-02-28 22:18:47,false
+42912,13609,third_party_site ,spring_sale,2024-12-30 00:24:45,false
+42913,14700,third_party_site,spring_sale,2025-08-08 22:59:25,false
+42914,,third_party_site,0_apr_event,2025-09-11 03:00:44,false
+42915,12464,Referal,trade_in_bonus,2026-01-12 18:08:07,false
+42916,10898,phone ,trade_in_bonus,2025-02-12 02:53:55,false
+42917,11779,third_party_site,service_reminder,2024-08-31 01:55:38,false
+42918,13296,phone ,trade_in_bonus,2024-07-12 00:19:26,false
+42919,11489,WEB,spring_sale,2025-04-12 19:28:53,false
+42920,14864,phone,service_reminder,2025-03-18 02:34:39,false
+42921,10539,WEB,0_apr_event,2025-03-05 00:12:10,false
+42922,13874,PHONE,service_reminder,2025-11-28 14:23:11,true
+42923,15112,phone,spring_sale,2024-08-06 04:14:31,true
+42924,13765,web,service_reminder,2025-09-07 04:50:27,true
+42925,14975,walk-in ,trade_in_bonus,2026-03-27 07:28:12,false
+42926,,phone,trade_in_bonus,2025-07-02 05:46:13,false
+42927,14137,WEB,trade_in_bonus,2026-06-03 04:34:35,false
+42928,12749,REFERRAL,service_reminder,2026-01-22 19:09:22,true
+42929,14513,WALK-IN,trade_in_bonus,2026-05-28 18:27:35,true
+42930,10471,WEB,0_apr_event,2025-06-01 08:46:36,true
+42931,,phone,0_apr_event,2026-02-23 17:36:02,true
+42932,10770,third_party_site ,trade_in_bonus,2025-07-22 01:51:10,true
+42933,10636,Referal,0_apr_event,2026-06-17 02:10:19,true
+42934,13398,walk-in,0_apr_event,2026-06-27 18:00:03,true
+42935,14171,REFERRAL,trade_in_bonus,2025-02-07 09:36:15,false
+42936,11235,web ,trade_in_bonus,2026-01-11 01:05:50,false
+42937,14268,phone,service_reminder,2025-04-10 22:49:58,false
+42938,15010,walk-in,trade_in_bonus,2025-09-24 03:39:40,true
+42939,13556,third_party_site,service_reminder,2025-10-28 12:35:42,true
+42940,11278,web ,0_apr_event,2025-10-06 05:26:27,false
+42941,10718,walk-in ,spring_sale,2024-07-28 10:00:15,true
+42942,14475,WALK-IN,0_apr_event,2024-11-09 04:42:36,true
+42943,10639,phone,0_apr_event,2025-07-02 00:09:45,false
+42944,12801,Referal,service_reminder,2024-08-15 11:32:07,false
+42945,13087,walk-in ,trade_in_bonus,2026-04-04 03:57:51,false
+42946,10846,web,spring_sale,2024-10-19 23:29:57,true
+42947,,referral ,service_reminder,2025-02-14 09:24:30,false
+42948,13641,Referal,0_apr_event,2025-11-15 20:04:07,true
+42949,10048,WEB,trade_in_bonus,2026-06-07 20:18:10,false
+42950,11058,walk-in,spring_sale,2025-04-02 17:36:55,false
+42951,12549,WALK-IN,trade_in_bonus,2025-05-08 22:44:18,false
+42952,14910,third_party_site,trade_in_bonus,2024-10-24 09:22:17,true
+42953,12595,WALK-IN,service_reminder,2024-11-05 00:17:28,true
+42954,15043,THIRD_PARTY_SITE,spring_sale,2025-12-31 13:05:49,false
+42955,13515,REFERRAL,spring_sale,2025-03-26 03:31:39,true
+42956,10766,PHONE,spring_sale,2025-10-06 02:38:24,true
+42957,15019,web,0_apr_event,2025-11-24 05:37:03,false
+42958,,REFERRAL,spring_sale,2024-11-04 02:57:12,false
+42959,13171,phone,0_apr_event,2025-05-29 03:03:05,true
+42960,,third_party_site ,trade_in_bonus,2026-01-22 19:04:29,false
+42961,11488,walk-in,trade_in_bonus,2026-04-29 03:02:38,true
+42962,10067,walk-in ,trade_in_bonus,2026-03-24 13:44:47,true
+42963,14332,third_party_site,service_reminder,2026-05-04 17:03:50,false
+42964,13570,Referal,service_reminder,2026-01-18 05:59:55,false
+42965,11748,third_party_site ,trade_in_bonus,2026-04-21 19:29:26,true
+42966,11934,WEB,0_apr_event,2026-02-07 22:15:33,false
+42967,12124,phone ,spring_sale,2026-03-07 03:02:48,true
+42968,14173,Referal,spring_sale,2026-03-30 18:23:10,true
+42969,11749,referral ,0_apr_event,2025-01-12 01:46:55,false
+42970,12475,third_party_site ,0_apr_event,2026-06-26 14:31:31,false
+42971,12543,referral ,spring_sale,2025-02-26 13:01:55,false
+42972,15156,Referal,trade_in_bonus,2025-11-02 08:30:33,true
+42973,13109,web,spring_sale,2025-07-23 00:48:21,true
+42974,14746,web ,trade_in_bonus,2024-09-11 22:33:44,true
+42975,12308,phone,trade_in_bonus,2025-03-15 09:36:16,true
+42976,12881,referral ,0_apr_event,2025-03-20 04:06:51,true
+42977,14679,WEB,service_reminder,2025-12-27 16:45:58,true
+42978,10086,phone,service_reminder,2024-09-02 09:36:37,true
+42979,15081,phone,trade_in_bonus,2024-12-08 16:36:28,true
+42980,14582,PHONE,spring_sale,2025-02-01 13:11:22,false
+42981,11738,third_party_site,spring_sale,2026-02-16 10:04:25,true
+42982,11296,third_party_site,trade_in_bonus,2026-04-05 08:47:57,false
+42983,,walk-in ,0_apr_event,2026-05-09 13:06:38,false
+42984,,web,spring_sale,2026-07-02 15:36:50,false
+42985,10710,Referal,trade_in_bonus,2025-03-14 15:36:55,false
+42986,12734,phone,trade_in_bonus,2024-09-17 14:25:17,true
+42987,13217,walk-in,trade_in_bonus,2025-08-07 01:39:45,false
+42988,14141,web ,0_apr_event,2026-06-10 15:59:31,false
+42989,12875,web ,service_reminder,2024-07-09 21:37:09,false
+42990,10287,web ,0_apr_event,2025-07-19 04:34:55,false
+42991,12000,third_party_site ,0_apr_event,2025-05-26 02:06:00,false
+42992,10028,WEB,trade_in_bonus,2024-09-07 11:37:58,true
+42993,15056,third_party_site ,spring_sale,2026-03-28 17:33:19,true
+42994,10440,REFERRAL,spring_sale,2025-07-26 14:18:58,true
+42995,,THIRD_PARTY_SITE,trade_in_bonus,2025-07-24 02:47:43,true
+42996,11352,referral,service_reminder,2025-10-13 18:30:37,false
+42997,14851,phone,service_reminder,2025-05-26 18:24:21,true
+42998,11302,THIRD_PARTY_SITE,service_reminder,2025-08-04 07:29:57,false
+42999,10495,web,service_reminder,2025-11-28 07:21:36,false
+43000,12406,third_party_site,trade_in_bonus,2024-08-05 14:09:23,false
