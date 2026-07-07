@@ -38,6 +38,7 @@ Every rule that injects a data quality issue is documented in
 the raw seed data:
 
 **Phone number chaos** (`raw_customers.phone`):
+
 ```
 (663) 193-1491
 +1 498.776.9453
@@ -47,11 +48,13 @@ the raw seed data:
 ```
 
 **State format chaos** (`raw_customers.state`):
+
 ```
 tx / fl / illinois  / AZ / arizona  / florida  / colorado  / TX / Florida / Texas / az / ca
 ```
 
 **The same VIN entered under two different inventory rows** (`raw_vehicles`):
+
 ```
 vin                  row_count
 AGFJZJD89G8VGW1Z3    2
@@ -61,6 +64,7 @@ GV9E56TYXVHF31G7S    2
 
 **Repair order totals that don't match their own line items** (`raw_service_orders` vs.
 `raw_service_line_items`):
+
 ```
 service_order_id   recorded_total   line_item_sum   variance
 80222              2066.02          2014.76         51.26
@@ -111,6 +115,7 @@ problems, not gate the build; marts-layer tests are strict (`error`) and all pas
 The same phone numbers and states from Step 1, now normalized in the marts:
 
 **Cleaned phone** (`dim_customers.phone`, normalized to 10 digits):
+
 ```
 6631931491
 4987769453
@@ -120,6 +125,7 @@ The same phone numbers and states from Step 1, now normalized in the marts:
 ```
 
 **Cleaned state** (`dim_customers.state`, always a 2-letter code):
+
 ```
 AZ / CO / TX / FL / WA / CA / IL / NY
 ```
@@ -127,6 +133,7 @@ AZ / CO / TX / FL / WA / CA / IL / NY
 **Repair order totals now reconcile with their line items, by construction**
 (`fct_service_orders.total_amount` is recomputed from `fct_service_line_items`, not trusted
 as-recorded):
+
 ```sql
 select fso.service_order_id, fso.total_amount, sum(fsli.line_total)
 from fct_service_orders fso
@@ -148,6 +155,7 @@ dbt docs serve
 ```
 
 Opens a browser at `localhost:8080`. Worth looking at:
+
 - The lineage graph for `fct_service_orders` — traces back through
   `fct_service_line_items -> stg_service_line_items -> raw_service_line_items`, showing exactly
   where the reconciliation fix happens.
